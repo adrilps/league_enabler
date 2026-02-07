@@ -1,0 +1,8652 @@
+[
+    [
+        "Academy",
+        "Ahri",
+        "Academy Ahri"
+    ],
+    [
+        "Academy",
+        "Darius",
+        "Academy Darius"
+    ],
+    [
+        "Academy",
+        "Ekko",
+        "Academy Ekko"
+    ],
+    [
+        "Academy",
+        "Vladimir",
+        "Academy Vladimir"
+    ],
+    [
+        "Academy",
+        "Fiora",
+        "Headmistress Fiora"
+    ],
+    [
+        "Academy",
+        "Ryze",
+        "Professor Ryze"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Rumble",
+        "Bilgerat Rumble"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Katarina",
+        "Bilgewater Katarina"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Swain",
+        "Bilgewater Swain"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Tristana",
+        "Buccaneer Tristana"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Gangplank",
+        "Captain Gangplank"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Miss Fortune",
+        "Captain Fortune"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Quinn",
+        "Corsair Quinn"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Twisted Fate",
+        "Cutpurse Twisted Fate"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Graves",
+        "Cutthroat Graves"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Fiddlesticks",
+        "Fiddle Me Timbers"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Malphite",
+        "Ironside Malphite"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Twitch",
+        "Kingpin Twitch"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Ryze",
+        "Pirate Ryze"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Garen",
+        "Rogue Admiral Garen"
+    ],
+    [
+        "Bilgewater: Burning Tides",
+        "Aatrox",
+        "Sea Hunter Aatrox"
+    ],
+    [
+        "Bilgewater: Mercs",
+        "Katarina",
+        "High Command Katarina"
+    ],
+    [
+        "Chronicle",
+        "Zilean",
+        "Shurima Desert Zilean"
+    ],
+    [
+        "Chronicle",
+        "Alistar",
+        "Unchained Alistar"
+    ],
+    [
+        "Chronicle",
+        "Xin Zhao",
+        "Viscero Xin Zhao"
+    ],
+    [
+        "Curse of the Void",
+        "Kassadin",
+        "Pre-Void Kassadin"
+    ],
+    [
+        "Curse of the Void",
+        "Fizz",
+        "Void Fizz"
+    ],
+    [
+        "Curse of the Void",
+        "Nocturne",
+        "Void Nocturne"
+    ],
+    [
+        "Curse of the Void",
+        "Illaoi",
+        "Void Bringer Illaoi"
+    ],
+    [
+        "Freljord",
+        "Ashe",
+        "Freljord Ashe"
+    ],
+    [
+        "Freljord",
+        "Rammus",
+        "Freljord Rammus"
+    ],
+    [
+        "Freljord",
+        "Sylas",
+        "Freljord Sylas"
+    ],
+    [
+        "Freljord",
+        "Taliyah",
+        "Freljord Taliyah"
+    ],
+    [
+        "Freljord",
+        "Janna",
+        "Frost Queen Janna"
+    ],
+    [
+        "Freljord",
+        "Ezreal",
+        "Frosted Ezreal"
+    ],
+    [
+        "Freljord",
+        "Warwick",
+        "Tundra Hunter Warwick"
+    ],
+    [
+        "Otherroads",
+        "Lee Sin",
+        "Acolyte Lee Sin"
+    ],
+    [
+        "Otherroads",
+        "Tryndamere",
+        "Demonblade Tryndamere"
+    ],
+    [
+        "Otherroads",
+        "Soraka",
+        "Divine Soraka"
+    ],
+    [
+        "Otherroads",
+        "Yasuo",
+        "Foreseen Yasuo"
+    ],
+    [
+        "Otherroads",
+        "Poppy",
+        "Noxus Poppy"
+    ],
+    [
+        "Otherroads",
+        "Viktor",
+        "Prototype Viktor"
+    ],
+    [
+        "Otherroads",
+        "Riven",
+        "Redeemed Riven"
+    ],
+    [
+        "Otherroads",
+        "Renekton",
+        "Rune Wars Renekton"
+    ],
+    [
+        "Otherroads",
+        "Volibear",
+        "Runeguard Volibear"
+    ],
+    [
+        "Otherroads",
+        "Kayle",
+        "Transcended Kayle"
+    ],
+    [
+        "Otherroads",
+        "Swain",
+        "Tyrant Swain"
+    ],
+    [
+        "Ruination",
+        "Viego",
+        "King Viego"
+    ],
+    [
+        "Traditional",
+        "Karma",
+        "Traditional Karma"
+    ],
+    [
+        "Traditional",
+        "Lee Sin",
+        "Traditional Lee Sin"
+    ],
+    [
+        "Traditional",
+        "Sejuani",
+        "Traditional Sejuani"
+    ],
+    [
+        "Traditional",
+        "Trundle",
+        "Traditional Trundle"
+    ],
+    [
+        "Anima Squad",
+        "Miss Fortune",
+        "Admiral Battle Bunny Miss Fortune"
+    ],
+    [
+        "Anima Squad",
+        "Vayne",
+        "Battle Bat Vayne"
+    ],
+    [
+        "Anima Squad",
+        "Xayah",
+        "Battle Bat Xayah"
+    ],
+    [
+        "Anima Squad",
+        "Illaoi",
+        "Battle Bear Illaoi"
+    ],
+    [
+        "Anima Squad",
+        "Aurora",
+        "Battle Bunny Aurora"
+    ],
+    [
+        "Anima Squad",
+        "Miss Fortune",
+        "Battle Bunny Miss Fortune"
+    ],
+    [
+        "Anima Squad",
+        "Riven",
+        "Battle Bunny Prime Riven"
+    ],
+    [
+        "Anima Squad",
+        "Jinx",
+        "Battle Cat Jinx"
+    ],
+    [
+        "Anima Squad",
+        "Seraphine",
+        "Battle Dove Seraphine"
+    ],
+    [
+        "Anima Squad",
+        "Leona",
+        "Battle Lion Leona"
+    ],
+    [
+        "Anima Squad",
+        "Sylas",
+        "Battle Wolf Sylas"
+    ],
+    [
+        "Anima Squad",
+        "Yasuo",
+        "Battle Wolf Yasuo"
+    ],
+    [
+        "Anima Squad",
+        "Yuumi",
+        "Cyber Cat Yuumi"
+    ],
+    [
+        "Anima Squad",
+        "Jinx",
+        "Prestige Battle Cat Jinx"
+    ],
+    [
+        "Anima Squad",
+        "Leona",
+        "Prestige Battle Lion Leona"
+    ],
+    [
+        "Anima Squad",
+        "Yuumi",
+        "Prestige Cyber Cat Yuumi"
+    ],
+    [
+        "Anima Squad",
+        "Briar",
+        "Primordian Briar"
+    ],
+    [
+        "Primordian",
+        "Aatrox",
+        "Primordian Aatrox"
+    ],
+    [
+        "Primordian",
+        "Bel'Veth",
+        "Primordian Bel'Veth"
+    ],
+    [
+        "Primordian",
+        "Rek'Sai",
+        "Primordian Rek'Sai"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Bel'Veth",
+        "Battle Boss Bel'Veth"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Blitzcrank",
+        "Battle Boss Blitzcrank"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Brand",
+        "Battle Boss Brand"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Malzahar",
+        "Battle Boss Malzahar"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Qiyana",
+        "Battle Boss Qiyana"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Yasuo",
+        "Battle Boss Yasuo"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Ziggs",
+        "Battle Boss Ziggs"
+    ],
+    [
+        "Arcade: Battle Bosses",
+        "Veigar",
+        "Final Boss Veigar"
+    ],
+    [
+        "Arcade: Heroes",
+        "Ahri",
+        "Arcade Ahri"
+    ],
+    [
+        "Arcade: Heroes",
+        "Caitlyn",
+        "Arcade Caitlyn"
+    ],
+    [
+        "Arcade: Heroes",
+        "Corki",
+        "Arcade Corki"
+    ],
+    [
+        "Arcade: Heroes",
+        "Ezreal",
+        "Arcade Ezreal"
+    ],
+    [
+        "Arcade: Heroes",
+        "Hecarim",
+        "Arcade Hecarim"
+    ],
+    [
+        "Arcade: Heroes",
+        "Kai'Sa",
+        "Arcade Kai'Sa"
+    ],
+    [
+        "Arcade: Heroes",
+        "Miss Fortune",
+        "Arcade Miss Fortune"
+    ],
+    [
+        "Arcade: Heroes",
+        "Riven",
+        "Arcade Riven"
+    ],
+    [
+        "Arcade: Heroes",
+        "Sona",
+        "Arcade Sona"
+    ],
+    [
+        "Arcade: Heroes",
+        "Caitlyn",
+        "Prestige Arcade Caitlyn"
+    ],
+    [
+        "Arcade: Heroes",
+        "Caitlyn",
+        "Prestige Arcade Caitlyn (2022)"
+    ],
+    [
+        "Demacia Vice",
+        "Taric",
+        "Armor of the Fifth Age Taric"
+    ],
+    [
+        "Demacia Vice",
+        "Garen",
+        "Demacia Vice Garen"
+    ],
+    [
+        "Demacia Vice",
+        "Lucian",
+        "Demacia Vice Lucian"
+    ],
+    [
+        "Demacia Vice",
+        "Vi",
+        "Neon Strike Vi"
+    ],
+    [
+        "Arcana",
+        "Ahri",
+        "Arcana Ahri"
+    ],
+    [
+        "Arcana",
+        "Camille",
+        "Arcana Camille"
+    ],
+    [
+        "Arcana",
+        "Hecarim",
+        "Arcana Hecarim"
+    ],
+    [
+        "Arcana",
+        "Lucian",
+        "Arcana Lucian"
+    ],
+    [
+        "Arcana",
+        "Rakan",
+        "Arcana Rakan"
+    ],
+    [
+        "Arcana",
+        "Ryze",
+        "Arcana Ryze"
+    ],
+    [
+        "Arcana",
+        "Tahm Kench",
+        "Arcana Tahm Kench"
+    ],
+    [
+        "Arcana",
+        "Xayah",
+        "Arcana Xayah"
+    ],
+    [
+        "Arcana",
+        "Xerath",
+        "Arcana Xerath"
+    ],
+    [
+        "Arcane",
+        "Caitlyn",
+        "Arcane Caitlyn"
+    ],
+    [
+        "Arcane",
+        "Jayce",
+        "Arcane Jayce"
+    ],
+    [
+        "Arcane",
+        "Jinx",
+        "Arcane Jinx"
+    ],
+    [
+        "Arcane",
+        "Vi",
+        "Arcane Vi"
+    ],
+    [
+        "Arcane",
+        "Ekko",
+        "Firelight Ekko"
+    ],
+    [
+        "Arcanists",
+        "Kog'Maw",
+        "Arcanist Kog'Maw"
+    ],
+    [
+        "Arcanists",
+        "Shaco",
+        "Arcanist Shaco"
+    ],
+    [
+        "Arcanists",
+        "Zoe",
+        "Arcanist Zoe"
+    ],
+    [
+        "Arcanists",
+        "Ziggs",
+        "Master Arcanist Ziggs"
+    ],
+    [
+        "Arcanists",
+        "Zoe",
+        "Prestige Arcanist Zoe"
+    ],
+    [
+        "Arcanists",
+        "Lux",
+        "Spellthief Lux"
+    ],
+    [
+        "Arclight",
+        "Brand",
+        "Arclight Brand"
+    ],
+    [
+        "Arclight",
+        "Varus",
+        "Arclight Varus"
+    ],
+    [
+        "Arclight",
+        "Vayne",
+        "Arclight Vayne"
+    ],
+    [
+        "Arclight",
+        "Vel'Koz",
+        "Arclight Vel'Koz"
+    ],
+    [
+        "Arclight",
+        "Yorick",
+        "Arclight Yorick"
+    ],
+    [
+        "Justicar",
+        "Aatrox",
+        "Justicar Aatrox"
+    ],
+    [
+        "Justicar",
+        "Syndra",
+        "Justicar Syndra"
+    ],
+    [
+        "Battle Queens",
+        "Annie",
+        "Battle Princess Annie"
+    ],
+    [
+        "Battle Queens",
+        "Diana",
+        "Battle Queen Diana"
+    ],
+    [
+        "Battle Queens",
+        "Fiora",
+        "Battle Queen Fiora"
+    ],
+    [
+        "Battle Queens",
+        "Gwen",
+        "Battle Queen Gwen"
+    ],
+    [
+        "Battle Queens",
+        "Janna",
+        "Battle Queen Janna"
+    ],
+    [
+        "Battle Queens",
+        "Katarina",
+        "Battle Queen Katarina"
+    ],
+    [
+        "Battle Queens",
+        "Miss Fortune",
+        "Battle Queen Miss Fortune"
+    ],
+    [
+        "Battle Queens",
+        "Qiyana",
+        "Battle Queen Qiyana"
+    ],
+    [
+        "Battle Queens",
+        "Rell",
+        "Battle Queen Rell"
+    ],
+    [
+        "Battle Queens",
+        "Diana",
+        "Prestige Battle Queen Diana"
+    ],
+    [
+        "Battlecast",
+        "Kog'Maw",
+        "Battlecast Kog'Maw"
+    ],
+    [
+        "Battlecast",
+        "Nasus",
+        "Battlecast Nasus"
+    ],
+    [
+        "Battlecast",
+        "Urgot",
+        "Battlecast Urgot"
+    ],
+    [
+        "Battlecast",
+        "Vel'Koz",
+        "Battlecast Vel'Koz"
+    ],
+    [
+        "Battlecast",
+        "Xerath",
+        "Battlecast Xerath"
+    ],
+    [
+        "Battlecast",
+        "Zac",
+        "Battlecast Zac"
+    ],
+    [
+        "Battlecast",
+        "Skarner",
+        "Battlecast Alpha Skarner"
+    ],
+    [
+        "Battlecast",
+        "Cho'Gath",
+        "Battlecast Prime Cho'Gath"
+    ],
+    [
+        "Battlecast",
+        "Viktor",
+        "Creator Viktor"
+    ],
+    [
+        "Battlecast",
+        "Caitlyn",
+        "Resistance Caitlyn"
+    ],
+    [
+        "Battlecast",
+        "Illaoi",
+        "Resistance Illaoi"
+    ],
+    [
+        "Battlecast",
+        "Jayce",
+        "Resistance Jayce"
+    ],
+    [
+        "Battlecast",
+        "Singed",
+        "Resistance Singed"
+    ],
+    [
+        "Battlecast",
+        "Yorick",
+        "Resistance Yorick"
+    ],
+    [
+        "Heartbreakers",
+        "Vi",
+        "Heartbreaker Vi"
+    ],
+    [
+        "Heartbreakers",
+        "Fiora",
+        "Heartpiercer Fiora"
+    ],
+    [
+        "Heartbreakers",
+        "Ashe",
+        "Heartseeker Ashe"
+    ],
+    [
+        "Heartbreakers",
+        "Jinx",
+        "Heartseeker Jinx"
+    ],
+    [
+        "Heartbreakers",
+        "Lucian",
+        "Heartseeker Lucian"
+    ],
+    [
+        "Heartbreakers",
+        "Orianna",
+        "Heartseeker Orianna"
+    ],
+    [
+        "Heartbreakers",
+        "Quinn",
+        "Heartseeker Quinn"
+    ],
+    [
+        "Heartbreakers",
+        "Varus",
+        "Heartseeker Varus"
+    ],
+    [
+        "Heartbreakers",
+        "Vayne",
+        "Heartseeker Vayne"
+    ],
+    [
+        "Heartbreakers",
+        "Yuumi",
+        "Heartseeker Yuumi"
+    ],
+    [
+        "Heartbreakers",
+        "Annie",
+        "Sweetheart Annie"
+    ],
+    [
+        "Heartbreakers",
+        "Rakan",
+        "Sweetheart Rakan"
+    ],
+    [
+        "Heartbreakers",
+        "Sona",
+        "Sweetheart Sona"
+    ],
+    [
+        "Heartbreakers",
+        "Xayah",
+        "Sweetheart Xayah"
+    ],
+    [
+        "Bees!",
+        "Vel'Koz",
+        "Bee'Koz"
+    ],
+    [
+        "Bees!",
+        "Kog'Maw",
+        "Bee'Maw"
+    ],
+    [
+        "Bees!",
+        "Singed",
+        "Beekeeper Singed"
+    ],
+    [
+        "Bees!",
+        "Teemo",
+        "Beemo"
+    ],
+    [
+        "Bees!",
+        "Malzahar",
+        "Beezahar"
+    ],
+    [
+        "Bees!",
+        "Blitzcrank",
+        "Beezcrank"
+    ],
+    [
+        "Bees!",
+        "Ziggs",
+        "BZZZiggs"
+    ],
+    [
+        "Bees!",
+        "Heimerdinger",
+        "Heimerstinger"
+    ],
+    [
+        "Bees!",
+        "Veigar",
+        "King Beegar"
+    ],
+    [
+        "Bees!",
+        "Nunu & Willump",
+        "Nunu & Beelump"
+    ],
+    [
+        "Bees!",
+        "Orianna",
+        "Orbeeanna"
+    ],
+    [
+        "Bees!",
+        "Yuumi",
+        "Yuubee"
+    ],
+    [
+        "Beta",
+        "Rammus",
+        "King Rammus"
+    ],
+    [
+        "Blackfrost",
+        "Alistar",
+        "Blackfrost Alistar"
+    ],
+    [
+        "Blackfrost",
+        "Anivia",
+        "Blackfrost Anivia"
+    ],
+    [
+        "Blackfrost",
+        "Rek'Sai",
+        "Blackfrost Rek'Sai"
+    ],
+    [
+        "Blackfrost",
+        "Renekton",
+        "Blackfrost Renekton"
+    ],
+    [
+        "Blackfrost",
+        "Sion",
+        "Blackfrost Sion"
+    ],
+    [
+        "Blackfrost",
+        "Vel'Koz",
+        "Blackfrost Vel'Koz"
+    ],
+    [
+        "Blackfrost",
+        "Shyvana",
+        "Ice Drake Shyvana"
+    ],
+    [
+        "Bloodstone",
+        "Hecarim",
+        "Blood Knight Hecarim"
+    ],
+    [
+        "Bloodstone",
+        "Vladimir",
+        "Blood Lord Vladimir"
+    ],
+    [
+        "Bloodstone",
+        "Renekton",
+        "Bloodfury Renekton"
+    ],
+    [
+        "Bloodstone",
+        "Lissandra",
+        "Bloodstone Lissandra"
+    ],
+    [
+        "Bloodstone",
+        "Taric",
+        "Bloodstone Taric"
+    ],
+    [
+        "Bloodstone",
+        "Ryze",
+        "Dark Crystal Ryze"
+    ],
+    [
+        "Bloodstone",
+        "Fiora",
+        "Nightraven Fiora"
+    ],
+    [
+        "Cafe Cuties",
+        "Annie",
+        "Cafe Cuties Annie"
+    ],
+    [
+        "Cafe Cuties",
+        "Bard",
+        "Cafe Cuties Bard"
+    ],
+    [
+        "Cafe Cuties",
+        "Gwen",
+        "Cafe Cuties Gwen"
+    ],
+    [
+        "Cafe Cuties",
+        "Jinx",
+        "Cafe Cuties Jinx"
+    ],
+    [
+        "Cafe Cuties",
+        "Lulu",
+        "Cafe Cuties Lulu"
+    ],
+    [
+        "Cafe Cuties",
+        "Poppy",
+        "Cafe Cuties Poppy"
+    ],
+    [
+        "Cafe Cuties",
+        "Rumble",
+        "Cafe Cuties Rumble"
+    ],
+    [
+        "Cafe Cuties",
+        "Sivir",
+        "Cafe Cuties Sivir"
+    ],
+    [
+        "Cafe Cuties",
+        "Soraka",
+        "Cafe Cuties Soraka"
+    ],
+    [
+        "Cafe Cuties",
+        "Vladimir",
+        "Cafe Cuties Vladimir"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Corki",
+        "Corgi Corki"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Fizz",
+        "Fuzz Fizz"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Kled",
+        "Kibble-Head Kled"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Nidalee",
+        "Kittalee"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Maokai",
+        "Meowkai"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Yorick",
+        "Meowrick"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Fizz",
+        "Prestige Fuzz Fizz"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Fizz",
+        "Prestige Fuzz Fizz (2022)"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Rengar",
+        "Pretty Kitty Rengar"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Yuumi",
+        "Shiba Yuumi"
+    ],
+    [
+        "Cats Versus Dogs",
+        "Kindred",
+        "Woof and Lamb Kindred"
+    ],
+    [
+        "Shockblade",
+        "Kassadin",
+        "Shockblade Kassadin"
+    ],
+    [
+        "Shockblade",
+        "Qiyana",
+        "Shockblade Qiyana"
+    ],
+    [
+        "Shockblade",
+        "Shen",
+        "Shockblade Shen"
+    ],
+    [
+        "Shockblade",
+        "Zed",
+        "Shockblade Zed"
+    ],
+    [
+        "Collector's Edition",
+        "Alistar",
+        "Black Alistar"
+    ],
+    [
+        "Collector's Edition",
+        "Kayle",
+        "Silver Kayle"
+    ],
+    [
+        "Collector's Edition",
+        "Ryze",
+        "Young Ryze"
+    ],
+    [
+        "Street Demons",
+        "Brand",
+        "Street Demons Brand"
+    ],
+    [
+        "Street Demons",
+        "Briar",
+        "Street Demons Briar"
+    ],
+    [
+        "Street Demons",
+        "Dr. Mundo",
+        "Street Demons Dr. Mundo"
+    ],
+    [
+        "Street Demons",
+        "Neeko",
+        "Street Demons Neeko"
+    ],
+    [
+        "Street Demons",
+        "Rengar",
+        "Street Demons Rengar"
+    ],
+    [
+        "Street Demons",
+        "Zyra",
+        "Street Demons Zyra"
+    ],
+    [
+        "Cottontail",
+        "Fizz",
+        "Cottontail Fizz"
+    ],
+    [
+        "Cottontail",
+        "Teemo",
+        "Cottontail Teemo"
+    ],
+    [
+        "Crime City",
+        "Braum",
+        "Crime City Braum"
+    ],
+    [
+        "Crime City",
+        "Graves",
+        "Crime City Graves"
+    ],
+    [
+        "Crime City",
+        "Jinx",
+        "Crime City Jinx"
+    ],
+    [
+        "Crime City",
+        "Miss Fortune",
+        "Crime City Miss Fortune"
+    ],
+    [
+        "Crime City",
+        "Twitch",
+        "Crime City Twitch"
+    ],
+    [
+        "Crime City",
+        "Gragas",
+        "Gragas, Esq."
+    ],
+    [
+        "Crime City",
+        "Lee Sin",
+        "Knockout Lee Sin"
+    ],
+    [
+        "Crime City Nightmare",
+        "Akali",
+        "Crime City Nightmare Akali"
+    ],
+    [
+        "Crime City Nightmare",
+        "Darius",
+        "Crime City Nightmare Darius"
+    ],
+    [
+        "Crime City Nightmare",
+        "Shaco",
+        "Crime City Nightmare Shaco"
+    ],
+    [
+        "Crime City Nightmare",
+        "Twisted Fate",
+        "Crime City Nightmare Twisted Fate"
+    ],
+    [
+        "Crime City Nightmare",
+        "Zyra",
+        "Crime City Nightmare Zyra"
+    ],
+    [
+        "Debonair",
+        "Brand",
+        "Debonair Brand"
+    ],
+    [
+        "Debonair",
+        "Draven",
+        "Debonair Draven"
+    ],
+    [
+        "Debonair",
+        "Ezreal",
+        "Debonair Ezreal"
+    ],
+    [
+        "Debonair",
+        "Galio",
+        "Debonair Galio"
+    ],
+    [
+        "Debonair",
+        "Jayce",
+        "Debonair Jayce"
+    ],
+    [
+        "Debonair",
+        "LeBlanc",
+        "Debonair LeBlanc"
+    ],
+    [
+        "Debonair",
+        "Leona",
+        "Debonair Leona"
+    ],
+    [
+        "Debonair",
+        "Malzahar",
+        "Debonair Malzahar"
+    ],
+    [
+        "Debonair",
+        "Master Yi",
+        "Debonair Master Yi"
+    ],
+    [
+        "Debonair",
+        "Vi",
+        "Debonair Vi"
+    ],
+    [
+        "Debonair",
+        "Zed",
+        "Debonair Zed"
+    ],
+    [
+        "Debonair",
+        "Brand",
+        "Prestige Debonair Brand"
+    ],
+    [
+        "Crimson Elite",
+        "Riven",
+        "Crimson Elite Riven"
+    ],
+    [
+        "Crimson Elite",
+        "Talon",
+        "Crimson Elite Talon"
+    ],
+    [
+        "Crystal Rose",
+        "Akshan",
+        "Crystal Rose Akshan"
+    ],
+    [
+        "Crystal Rose",
+        "Janna",
+        "Crystal Rose Janna"
+    ],
+    [
+        "Crystal Rose",
+        "Swain",
+        "Crystal Rose Swain"
+    ],
+    [
+        "Crystal Rose",
+        "Zyra",
+        "Crystal Rose Zyra"
+    ],
+    [
+        "Withered Rose",
+        "Elise",
+        "Withered Rose Elise"
+    ],
+    [
+        "Withered Rose",
+        "Syndra",
+        "Withered Rose Syndra"
+    ],
+    [
+        "Withered Rose",
+        "Talon",
+        "Withered Rose Talon"
+    ],
+    [
+        "Withered Rose",
+        "Zeri",
+        "Withered Rose Zeri"
+    ],
+    [
+        "Culinary Masters",
+        "Pantheon",
+        "Baker Pantheon"
+    ],
+    [
+        "Culinary Masters",
+        "Leona",
+        "Barbecue Leona"
+    ],
+    [
+        "Culinary Masters",
+        "Galio",
+        "Birdio"
+    ],
+    [
+        "Culinary Masters",
+        "Olaf",
+        "Butcher Olaf"
+    ],
+    [
+        "Culinary Masters",
+        "Tahm Kench",
+        "Master Chef Tahm Kench"
+    ],
+    [
+        "Culinary Masters",
+        "Sivir",
+        "Pizza Delivery Sivir"
+    ],
+    [
+        "Culinary Masters",
+        "Akali",
+        "Sashimi Akali"
+    ],
+    [
+        "Culinary Masters",
+        "Morgana",
+        "Sinful Succulence Morgana"
+    ],
+    [
+        "Bilgewater: Curse of the Drowned",
+        "Diana",
+        "Dark Waters Diana"
+    ],
+    [
+        "Bilgewater: Curse of the Drowned",
+        "Vladimir",
+        "Dark Waters Vladimir"
+    ],
+    [
+        "Bilgewater: Curse of the Drowned",
+        "Kayn",
+        "Soulhunter Kayn"
+    ],
+    [
+        "Death Sworn",
+        "Sejuani",
+        "Darkrider Sejuani"
+    ],
+    [
+        "Death Sworn",
+        "Katarina",
+        "Death Sworn Katarina"
+    ],
+    [
+        "Death Sworn",
+        "Viktor",
+        "Death Sworn Viktor"
+    ],
+    [
+        "Death Sworn",
+        "Zed",
+        "Death Sworn Zed"
+    ],
+    [
+        "Death Sworn",
+        "Azir",
+        "Gravelord Azir"
+    ],
+    [
+        "Death Sworn",
+        "Hecarim",
+        "Reaper Hecarim"
+    ],
+    [
+        "Death Sworn",
+        "Soraka",
+        "Reaper Soraka"
+    ],
+    [
+        "Death Sworn",
+        "Evelynn",
+        "Shadow Evelynn"
+    ],
+    [
+        "Death Sworn",
+        "Draven",
+        "Soul Reaver Draven"
+    ],
+    [
+        "Death Sworn",
+        "Wukong",
+        "Underworld Wukong"
+    ],
+    [
+        "Definitely Not",
+        "Blitzcrank",
+        "Definitely Not Blitzcrank"
+    ],
+    [
+        "Definitely Not",
+        "Udyr",
+        "Definitely Not Udyr"
+    ],
+    [
+        "Definitely Not",
+        "Vel'Koz",
+        "Definitely Not Vel'Koz"
+    ],
+    [
+        "Definitely Not",
+        "Draven",
+        "Draven Draven"
+    ],
+    [
+        "Definitely Not",
+        "Veigar",
+        "Furyhorn Cosplay Veigar"
+    ],
+    [
+        "Definitely Not",
+        "Malzahar",
+        "Overlord Malzahar"
+    ],
+    [
+        "Definitely Not",
+        "Urgot",
+        "Pajama Guardian Cosplay Urgot"
+    ],
+    [
+        "Definitely Not",
+        "Tristana",
+        "Pengu Cosplay Tristana"
+    ],
+    [
+        "Demonic",
+        "Vi",
+        "Demon Vi"
+    ],
+    [
+        "Demonic",
+        "Galio",
+        "Gatekeeper Galio"
+    ],
+    [
+        "Demonic",
+        "Tristana",
+        "Little Demon Tristana"
+    ],
+    [
+        "Demonic",
+        "Fizz",
+        "Little Devil Fizz"
+    ],
+    [
+        "Demonic",
+        "Teemo",
+        "Little Devil Teemo"
+    ],
+    [
+        "Dragon World",
+        "Galio",
+        "Dragon Guardian Galio"
+    ],
+    [
+        "Dragon World",
+        "Mordekaiser",
+        "Dragon Knight Mordekaiser"
+    ],
+    [
+        "Dragon World",
+        "Swain",
+        "Dragon Master Swain"
+    ],
+    [
+        "Dragon World",
+        "Udyr",
+        "Dragon Oracle Udyr"
+    ],
+    [
+        "Dragon World",
+        "Zyra",
+        "Dragon Sorceress Zyra"
+    ],
+    [
+        "Dragon World",
+        "Heimerdinger",
+        "Dragon Trainer Heimerdinger"
+    ],
+    [
+        "Dragon World",
+        "Lulu",
+        "Dragon Trainer Lulu"
+    ],
+    [
+        "Dragon World",
+        "Tristana",
+        "Dragon Trainer Tristana"
+    ],
+    [
+        "Dragon World",
+        "Braum",
+        "Dragonslayer Braum"
+    ],
+    [
+        "Dragon World",
+        "Diana",
+        "Dragonslayer Diana"
+    ],
+    [
+        "Dragon World",
+        "Jarvan IV",
+        "Dragonslayer Jarvan IV"
+    ],
+    [
+        "Dragon World",
+        "Kayle",
+        "Dragonslayer Kayle"
+    ],
+    [
+        "Dragon World",
+        "Olaf",
+        "Dragonslayer Olaf"
+    ],
+    [
+        "Dragon World",
+        "Pantheon",
+        "Dragonslayer Pantheon"
+    ],
+    [
+        "Dragon World",
+        "Trundle",
+        "Dragonslayer Trundle"
+    ],
+    [
+        "Dragon World",
+        "Twitch",
+        "Dragonslayer Twitch"
+    ],
+    [
+        "Dragon World",
+        "Vayne",
+        "Dragonslayer Vayne"
+    ],
+    [
+        "Dragon World",
+        "Xin Zhao",
+        "Dragonslayer Xin Zhao"
+    ],
+    [
+        "Dragon World",
+        "Poppy",
+        "Scarlet Hammer Poppy"
+    ],
+    [
+        "Dreadknights",
+        "Garen",
+        "Dreadknight Garen"
+    ],
+    [
+        "Dreadknights",
+        "Nasus",
+        "Dreadknight Nasus"
+    ],
+    [
+        "Coven",
+        "Ahri",
+        "Coven Ahri"
+    ],
+    [
+        "Coven",
+        "Akali",
+        "Coven Akali"
+    ],
+    [
+        "Coven",
+        "Ashe",
+        "Coven Ashe"
+    ],
+    [
+        "Coven",
+        "Camille",
+        "Coven Camille"
+    ],
+    [
+        "Coven",
+        "Cassiopeia",
+        "Coven Cassiopeia"
+    ],
+    [
+        "Coven",
+        "Elise",
+        "Coven Elise"
+    ],
+    [
+        "Coven",
+        "Evelynn",
+        "Coven Evelynn"
+    ],
+    [
+        "Coven",
+        "LeBlanc",
+        "Coven LeBlanc"
+    ],
+    [
+        "Coven",
+        "Lissandra",
+        "Coven Lissandra"
+    ],
+    [
+        "Coven",
+        "Morgana",
+        "Coven Morgana"
+    ],
+    [
+        "Coven",
+        "Nami",
+        "Coven Nami"
+    ],
+    [
+        "Coven",
+        "Nilah",
+        "Coven Nilah"
+    ],
+    [
+        "Coven",
+        "Syndra",
+        "Coven Syndra"
+    ],
+    [
+        "Coven",
+        "Zyra",
+        "Coven Zyra"
+    ],
+    [
+        "Coven",
+        "Ivern",
+        "Old God Ivern"
+    ],
+    [
+        "Coven",
+        "Malphite",
+        "Old God Malphite"
+    ],
+    [
+        "Coven",
+        "Mordekaiser",
+        "Old God Mordekaiser"
+    ],
+    [
+        "Coven",
+        "Nocturne",
+        "Old God Nocturne"
+    ],
+    [
+        "Coven",
+        "Warwick",
+        "Old God Warwick"
+    ],
+    [
+        "Coven",
+        "Akali",
+        "Prestige Coven Akali"
+    ],
+    [
+        "Coven",
+        "LeBlanc",
+        "Prestige Coven LeBlanc"
+    ],
+    [
+        "Coven",
+        "Zyra",
+        "Prestige Coven Zyra"
+    ],
+    [
+        "Coven",
+        "Volibear",
+        "The Thousand-Pierced Bear"
+    ],
+    [
+        "Death Blossom",
+        "Elise",
+        "Death Blossom Elise"
+    ],
+    [
+        "Death Blossom",
+        "Kha'Zix",
+        "Death Blossom Kha'Zix"
+    ],
+    [
+        "Eclipse",
+        "Aatrox",
+        "Lunar Eclipse Aatrox"
+    ],
+    [
+        "Eclipse",
+        "Leona",
+        "Lunar Eclipse Leona"
+    ],
+    [
+        "Eclipse",
+        "Senna",
+        "Lunar Eclipse Senna"
+    ],
+    [
+        "Eclipse",
+        "Senna",
+        "Prestige Lunar Eclipse Senna"
+    ],
+    [
+        "Eclipse",
+        "Leona",
+        "Solar Eclipse Leona"
+    ],
+    [
+        "Eclipse",
+        "Sejuani",
+        "Solar Eclipse Sejuani"
+    ],
+    [
+        "Eclipse",
+        "Sivir",
+        "Solar Eclipse Sivir"
+    ],
+    [
+        "Eclipse",
+        "Kayle",
+        "Sun-Eater Kayle"
+    ],
+    [
+        "Elderwood",
+        "Soraka",
+        "Dryad Soraka"
+    ],
+    [
+        "Elderwood",
+        "Ahri",
+        "Elderwood Ahri"
+    ],
+    [
+        "Elderwood",
+        "Azir",
+        "Elderwood Azir"
+    ],
+    [
+        "Elderwood",
+        "Bard",
+        "Elderwood Bard"
+    ],
+    [
+        "Elderwood",
+        "Gnar",
+        "Elderwood Gnar"
+    ],
+    [
+        "Elderwood",
+        "Hecarim",
+        "Elderwood Hecarim"
+    ],
+    [
+        "Elderwood",
+        "Karthus",
+        "Elderwood Karthus"
+    ],
+    [
+        "Elderwood",
+        "LeBlanc",
+        "Elderwood LeBlanc"
+    ],
+    [
+        "Elderwood",
+        "Ornn",
+        "Elderwood Ornn"
+    ],
+    [
+        "Elderwood",
+        "Rakan",
+        "Elderwood Rakan"
+    ],
+    [
+        "Elderwood",
+        "Rek'Sai",
+        "Elderwood Rek'Sai"
+    ],
+    [
+        "Elderwood",
+        "Veigar",
+        "Elderwood Veigar"
+    ],
+    [
+        "Elderwood",
+        "Wukong",
+        "Elderwood Wukong"
+    ],
+    [
+        "Elderwood",
+        "Xayah",
+        "Elderwood Xayah"
+    ],
+    [
+        "Elderwood",
+        "Taric",
+        "Emerald Taric"
+    ],
+    [
+        "Elderwood",
+        "Ivern",
+        "Old God Ivern"
+    ],
+    [
+        "Elderwood",
+        "Malphite",
+        "Old God Malphite"
+    ],
+    [
+        "Elderwood",
+        "Nocturne",
+        "Old God Nocturne"
+    ],
+    [
+        "Elderwood",
+        "Warwick",
+        "Old God Warwick"
+    ],
+    [
+        "Omen of the Dark",
+        "Singed",
+        "Black Scourge Singed"
+    ],
+    [
+        "Omen of the Dark",
+        "Lissandra",
+        "Blade Queen Lissandra"
+    ],
+    [
+        "Omen of the Dark",
+        "Nocturne",
+        "Cursed Revenant Nocturne"
+    ],
+    [
+        "Omen of the Dark",
+        "Dr. Mundo",
+        "Executioner Mundo"
+    ],
+    [
+        "Omen of the Dark",
+        "Warwick",
+        "Grey Warwick"
+    ],
+    [
+        "Omen of the Dark",
+        "Kayle",
+        "Iron Inquisitor Kayle"
+    ],
+    [
+        "Omen of the Dark",
+        "Fiddlesticks",
+        "Spectral Fiddlesticks"
+    ],
+    [
+        "Omen of the Dark",
+        "Yorick",
+        "Undertaker Yorick"
+    ],
+    [
+        "Elementalist",
+        "Lux",
+        "Elementalist Lux"
+    ],
+    [
+        "Challenger",
+        "Ahri",
+        "Challenger Ahri"
+    ],
+    [
+        "Challenger",
+        "Nidalee",
+        "Challenger Nidalee"
+    ],
+    [
+        "Conqueror",
+        "Alistar",
+        "Conqueror Alistar"
+    ],
+    [
+        "Conqueror",
+        "Jax",
+        "Conqueror Jax"
+    ],
+    [
+        "Conqueror",
+        "Karma",
+        "Conqueror Karma"
+    ],
+    [
+        "Conqueror",
+        "Nautilus",
+        "Conqueror Nautilus"
+    ],
+    [
+        "Conqueror",
+        "Varus",
+        "Conqueror Varus"
+    ],
+    [
+        "Conqueror",
+        "Jax",
+        "Prestige Conqueror Jax"
+    ],
+    [
+        "World Champions: 2011",
+        "Corki",
+        "Fnatic Corki"
+    ],
+    [
+        "World Champions: 2011",
+        "Gragas",
+        "Fnatic Gragas"
+    ],
+    [
+        "World Champions: 2011",
+        "Janna",
+        "Fnatic Janna"
+    ],
+    [
+        "World Champions: 2011",
+        "Jarvan IV",
+        "Fnatic Jarvan IV"
+    ],
+    [
+        "World Champions: 2011",
+        "Karthus",
+        "Fnatic Karthus"
+    ],
+    [
+        "World Champions: 2012",
+        "Ezreal",
+        "TPA Ezreal"
+    ],
+    [
+        "World Champions: 2012",
+        "Nunu & Willump",
+        "TPA Nunu & Willump"
+    ],
+    [
+        "World Champions: 2012",
+        "Orianna",
+        "TPA Orianna"
+    ],
+    [
+        "World Champions: 2012",
+        "Shen",
+        "TPA Shen"
+    ],
+    [
+        "World Champions: 2012",
+        "Dr. Mundo",
+        "TPA Mundo"
+    ],
+    [
+        "World Champions: 2013",
+        "Jax",
+        "SKT T1 Jax"
+    ],
+    [
+        "World Champions: 2013",
+        "Lee Sin",
+        "SKT T1 Lee Sin"
+    ],
+    [
+        "World Champions: 2013",
+        "Vayne",
+        "SKT T1 Vayne"
+    ],
+    [
+        "World Champions: 2013",
+        "Zed",
+        "SKT T1 Zed"
+    ],
+    [
+        "World Champions: 2013",
+        "Zyra",
+        "SKT T1 Zyra"
+    ],
+    [
+        "World Champions: 2014",
+        "Rengar",
+        "SSW Rengar"
+    ],
+    [
+        "World Champions: 2014",
+        "Singed",
+        "SSW Singed"
+    ],
+    [
+        "World Champions: 2014",
+        "Talon",
+        "SSW Talon"
+    ],
+    [
+        "World Champions: 2014",
+        "Thresh",
+        "SSW Thresh"
+    ],
+    [
+        "World Champions: 2014",
+        "Twitch",
+        "SSW Twitch"
+    ],
+    [
+        "World Champions: 2015",
+        "Alistar",
+        "SKT T1 Alistar"
+    ],
+    [
+        "World Champions: 2015",
+        "Azir",
+        "SKT T1 Azir"
+    ],
+    [
+        "World Champions: 2015",
+        "Elise",
+        "SKT T1 Elise"
+    ],
+    [
+        "World Champions: 2015",
+        "Kalista",
+        "SKT T1 Kalista"
+    ],
+    [
+        "World Champions: 2015",
+        "Renekton",
+        "SKT T1 Renekton"
+    ],
+    [
+        "World Champions: 2015",
+        "Ryze",
+        "SKT T1 Ryze"
+    ],
+    [
+        "World Champions: 2016",
+        "Ekko",
+        "SKT T1 Ekko"
+    ],
+    [
+        "World Champions: 2016",
+        "Jhin",
+        "SKT T1 Jhin"
+    ],
+    [
+        "World Champions: 2016",
+        "Nami",
+        "SKT T1 Nami"
+    ],
+    [
+        "World Champions: 2016",
+        "Olaf",
+        "SKT T1 Olaf"
+    ],
+    [
+        "World Champions: 2016",
+        "Syndra",
+        "SKT T1 Syndra"
+    ],
+    [
+        "World Champions: 2016",
+        "Zac",
+        "SKT T1 Zac"
+    ],
+    [
+        "World Champions: 2017",
+        "Ezreal",
+        "SSG Ezreal"
+    ],
+    [
+        "World Champions: 2017",
+        "Gnar",
+        "SSG Gnar"
+    ],
+    [
+        "World Champions: 2017",
+        "Jarvan IV",
+        "SSG Jarvan IV"
+    ],
+    [
+        "World Champions: 2017",
+        "Rakan",
+        "SSG Rakan"
+    ],
+    [
+        "World Champions: 2017",
+        "Taliyah",
+        "SSG Taliyah"
+    ],
+    [
+        "World Champions: 2017",
+        "Xayah",
+        "SSG Xayah"
+    ],
+    [
+        "World Champions: 2018",
+        "Camille",
+        "iG Camille"
+    ],
+    [
+        "World Champions: 2018",
+        "Fiora",
+        "iG Fiora"
+    ],
+    [
+        "World Champions: 2018",
+        "Irelia",
+        "iG Irelia"
+    ],
+    [
+        "World Champions: 2018",
+        "Kai'Sa",
+        "iG Kai'Sa"
+    ],
+    [
+        "World Champions: 2018",
+        "LeBlanc",
+        "iG LeBlanc"
+    ],
+    [
+        "World Champions: 2018",
+        "Rakan",
+        "iG Rakan"
+    ],
+    [
+        "World Champions: 2019",
+        "Gangplank",
+        "FPX Gangplank"
+    ],
+    [
+        "World Champions: 2019",
+        "Lee Sin",
+        "FPX Lee Sin"
+    ],
+    [
+        "World Champions: 2019",
+        "Malphite",
+        "FPX Malphite"
+    ],
+    [
+        "World Champions: 2019",
+        "Thresh",
+        "FPX Thresh"
+    ],
+    [
+        "World Champions: 2019",
+        "Vayne",
+        "FPX Vayne"
+    ],
+    [
+        "World Champions: 2020",
+        "Jhin",
+        "DWG Jhin"
+    ],
+    [
+        "World Champions: 2020",
+        "Kennen",
+        "DWG Kennen"
+    ],
+    [
+        "World Champions: 2020",
+        "Leona",
+        "DWG Leona"
+    ],
+    [
+        "World Champions: 2020",
+        "Nidalee",
+        "DWG Nidalee"
+    ],
+    [
+        "World Champions: 2020",
+        "Twisted Fate",
+        "DWG Twisted Fate"
+    ],
+    [
+        "World Champions: 2021",
+        "Aphelios",
+        "EDG Aphelios"
+    ],
+    [
+        "World Champions: 2021",
+        "Graves",
+        "EDG Graves"
+    ],
+    [
+        "World Champions: 2021",
+        "Viego",
+        "EDG Viego"
+    ],
+    [
+        "World Champions: 2021",
+        "Yuumi",
+        "EDG Yuumi"
+    ],
+    [
+        "World Champions: 2021",
+        "Zoe",
+        "EDG Zoe"
+    ],
+    [
+        "World Champions: 2022",
+        "Aatrox",
+        "DRX Aatrox"
+    ],
+    [
+        "World Champions: 2022",
+        "Akali",
+        "DRX Akali"
+    ],
+    [
+        "World Champions: 2022",
+        "Ashe",
+        "DRX Ashe"
+    ],
+    [
+        "World Champions: 2022",
+        "Caitlyn",
+        "DRX Caitlyn"
+    ],
+    [
+        "World Champions: 2022",
+        "Kindred",
+        "DRX Kindred"
+    ],
+    [
+        "World Champions: 2022",
+        "Maokai",
+        "DRX Maokai"
+    ],
+    [
+        "World Champions: 2022",
+        "Aatrox",
+        "Prestige DRX Aatrox"
+    ],
+    [
+        "World Champions: 2023",
+        "Jayce",
+        "Prestige T1 Jayce"
+    ],
+    [
+        "World Champions: 2023",
+        "Bard",
+        "T1 Bard"
+    ],
+    [
+        "World Champions: 2023",
+        "Jayce",
+        "T1 Jayce"
+    ],
+    [
+        "World Champions: 2023",
+        "Jinx",
+        "T1 Jinx"
+    ],
+    [
+        "World Champions: 2023",
+        "Lee Sin",
+        "T1 Lee Sin"
+    ],
+    [
+        "World Champions: 2023",
+        "Orianna",
+        "T1 Orianna"
+    ],
+    [
+        "World Championship",
+        "Riven",
+        "Reignited Worlds 2012 Riven"
+    ],
+    [
+        "World Championship",
+        "Riven",
+        "Worlds 2012 Riven"
+    ],
+    [
+        "World Championship",
+        "Thresh",
+        "Worlds 2013 Thresh"
+    ],
+    [
+        "World Championship",
+        "Shyvana",
+        "Worlds 2014 Shyvana"
+    ],
+    [
+        "World Championship",
+        "Kalista",
+        "Worlds 2015 Kalista"
+    ],
+    [
+        "World Championship",
+        "Zed",
+        "Worlds 2016 Zed"
+    ],
+    [
+        "World Championship",
+        "Ashe",
+        "Worlds 2017 Ashe"
+    ],
+    [
+        "World Championship",
+        "Kha'Zix",
+        "Worlds 2018 Kha'Zix"
+    ],
+    [
+        "World Championship",
+        "Ryze",
+        "Worlds 2019 Ryze"
+    ],
+    [
+        "World Championship",
+        "LeBlanc",
+        "Worlds 2020 LeBlanc"
+    ],
+    [
+        "World Championship",
+        "Jarvan IV",
+        "Worlds 2021 Jarvan IV"
+    ],
+    [
+        "World Championship",
+        "Azir",
+        "Worlds 2022 Azir"
+    ],
+    [
+        "World Championship",
+        "Renekton",
+        "Worlds 2023 Renekton"
+    ],
+    [
+        "World Championship",
+        "Viego",
+        "Worlds 2024 Viego"
+    ],
+    [
+        "Cosmic",
+        "Lux",
+        "Cosmic Lux"
+    ],
+    [
+        "Cosmic",
+        "Master Yi",
+        "Cosmic Blade Master Yi"
+    ],
+    [
+        "Cosmic",
+        "Hecarim",
+        "Cosmic Charger Hecarim"
+    ],
+    [
+        "Cosmic",
+        "Rakan",
+        "Cosmic Dawn Rakan"
+    ],
+    [
+        "Cosmic",
+        "Xin Zhao",
+        "Cosmic Defender Xin Zhao"
+    ],
+    [
+        "Cosmic",
+        "Nami",
+        "Cosmic Destiny Nami"
+    ],
+    [
+        "Cosmic",
+        "Vladimir",
+        "Cosmic Devourer Vladimir"
+    ],
+    [
+        "Cosmic",
+        "Xayah",
+        "Cosmic Dusk Xayah"
+    ],
+    [
+        "Cosmic",
+        "Lulu",
+        "Cosmic Enchantress Lulu"
+    ],
+    [
+        "Cosmic",
+        "Anivia",
+        "Cosmic Flight Anivia"
+    ],
+    [
+        "Cosmic",
+        "Varus",
+        "Cosmic Hunter Varus"
+    ],
+    [
+        "Cosmic",
+        "Nidalee",
+        "Cosmic Huntress Nidalee"
+    ],
+    [
+        "Cosmic",
+        "Illaoi",
+        "Cosmic Invoker Illaoi"
+    ],
+    [
+        "Cosmic",
+        "Bel'Veth",
+        "Cosmic Matriarch Bel'Veth"
+    ],
+    [
+        "Cosmic",
+        "Nautilus",
+        "Cosmic Paladin Nautilus"
+    ],
+    [
+        "Cosmic",
+        "Sion",
+        "Cosmic Paladin Sion"
+    ],
+    [
+        "Cosmic",
+        "Nunu & Willump",
+        "Cosmic Paladins Nunu & Willump"
+    ],
+    [
+        "Cosmic",
+        "Ashe",
+        "Cosmic Queen Ashe"
+    ],
+    [
+        "Cosmic",
+        "Kassadin",
+        "Cosmic Reaver Kassadin"
+    ],
+    [
+        "Cosmic",
+        "Skarner",
+        "Cosmic Sting Skarner"
+    ],
+    [
+        "Dark Star",
+        "Jhin",
+        "Dark Cosmic Jhin"
+    ],
+    [
+        "Dark Star",
+        "Lissandra",
+        "Dark Cosmic Lissandra"
+    ],
+    [
+        "Dark Star",
+        "Lux",
+        "Dark Cosmic Lux"
+    ],
+    [
+        "Dark Star",
+        "Jhin",
+        "Dark Cosmic Erasure Jhin"
+    ],
+    [
+        "Dark Star",
+        "Cho'Gath",
+        "Dark Star Cho'Gath"
+    ],
+    [
+        "Dark Star",
+        "Jarvan IV",
+        "Dark Star Jarvan IV"
+    ],
+    [
+        "Dark Star",
+        "Karma",
+        "Dark Star Karma"
+    ],
+    [
+        "Dark Star",
+        "Kha'Zix",
+        "Dark Star Kha'Zix"
+    ],
+    [
+        "Dark Star",
+        "Malphite",
+        "Dark Star Malphite"
+    ],
+    [
+        "Dark Star",
+        "Mordekaiser",
+        "Dark Star Mordekaiser"
+    ],
+    [
+        "Dark Star",
+        "Orianna",
+        "Dark Star Orianna"
+    ],
+    [
+        "Dark Star",
+        "Shaco",
+        "Dark Star Shaco"
+    ],
+    [
+        "Dark Star",
+        "Thresh",
+        "Dark Star Thresh"
+    ],
+    [
+        "Dark Star",
+        "Varus",
+        "Dark Star Varus"
+    ],
+    [
+        "Dark Star",
+        "Xerath",
+        "Dark Star Xerath"
+    ],
+    [
+        "Dark Star",
+        "Malphite",
+        "Prestige Dark Star Malphite"
+    ],
+    [
+        "Fables",
+        "Diana",
+        "Dark Valkyrie Diana"
+    ],
+    [
+        "Fables",
+        "Malzahar",
+        "Djinn Malzahar"
+    ],
+    [
+        "Fables",
+        "Morgana",
+        "Ghost Bride Morgana"
+    ],
+    [
+        "Fables",
+        "Veigar",
+        "Leprechaun Veigar"
+    ],
+    [
+        "Fables",
+        "Cho'Gath",
+        "Loch Ness Cho'Gath"
+    ],
+    [
+        "Fables",
+        "Sona",
+        "Muse Sona"
+    ],
+    [
+        "Fables",
+        "Twisted Fate",
+        "Musketeer Twisted Fate"
+    ],
+    [
+        "Fables",
+        "Cassiopeia",
+        "Mythic Cassiopeia"
+    ],
+    [
+        "Fables",
+        "Pantheon",
+        "Perseus Pantheon"
+    ],
+    [
+        "Fables",
+        "Nami",
+        "River Spirit Nami"
+    ],
+    [
+        "Fables",
+        "Fiora",
+        "Royal Guard Fiora"
+    ],
+    [
+        "Fables",
+        "Nunu & Willump",
+        "Sasquatch Nunu & Willump"
+    ],
+    [
+        "Fables",
+        "Cassiopeia",
+        "Siren Cassiopeia"
+    ],
+    [
+        "Fables",
+        "Leona",
+        "Valkyrie Leona"
+    ],
+    [
+        "Ashen Knights",
+        "Pantheon",
+        "Ashen Conqueror Pantheon"
+    ],
+    [
+        "Ashen Knights",
+        "Mordekaiser",
+        "Ashen Graveknight Mordekaiser"
+    ],
+    [
+        "Ashen Knights",
+        "Shen",
+        "Ashen Guardian Shen"
+    ],
+    [
+        "Ashen Knights",
+        "Pyke",
+        "Ashen Knight Pyke"
+    ],
+    [
+        "Ashen Knights",
+        "Sylas",
+        "Ashen Slayer Sylas"
+    ],
+    [
+        "Papercraft",
+        "Anivia",
+        "Papercraft Anivia"
+    ],
+    [
+        "Papercraft",
+        "Nunu & Willump",
+        "Papercraft Nunu & Willump"
+    ],
+    [
+        "Forgotten Depths",
+        "Nautilus",
+        "Abyssal Nautilus"
+    ],
+    [
+        "Forgotten Depths",
+        "Fizz",
+        "Atlantean Fizz"
+    ],
+    [
+        "Forgotten Depths",
+        "Syndra",
+        "Atlantean Syndra"
+    ],
+    [
+        "Forgotten Depths",
+        "Malphite",
+        "Coral Reef Malphite"
+    ],
+    [
+        "Forgotten Depths",
+        "Kassadin",
+        "Deep One Kassadin"
+    ],
+    [
+        "Forgotten Depths",
+        "Kog'Maw",
+        "Deep Sea Kog'Maw"
+    ],
+    [
+        "Forgotten Depths",
+        "Nami",
+        "Deep Sea Nami"
+    ],
+    [
+        "Forgotten Depths",
+        "Thresh",
+        "Deep Terror Thresh"
+    ],
+    [
+        "Broken Covenant",
+        "Cho'Gath",
+        "Broken Covenant Cho'Gath"
+    ],
+    [
+        "Broken Covenant",
+        "Miss Fortune",
+        "Broken Covenant Miss Fortune"
+    ],
+    [
+        "Broken Covenant",
+        "Nocturne",
+        "Broken Covenant Nocturne"
+    ],
+    [
+        "Broken Covenant",
+        "Rakan",
+        "Broken Covenant Rakan"
+    ],
+    [
+        "Broken Covenant",
+        "Riven",
+        "Broken Covenant Riven"
+    ],
+    [
+        "Broken Covenant",
+        "Vladimir",
+        "Broken Covenant Vladimir"
+    ],
+    [
+        "Broken Covenant",
+        "Xayah",
+        "Broken Covenant Xayah"
+    ],
+    [
+        "Broken Covenant",
+        "Miss Fortune",
+        "Prestige Broken Covenant Miss Fortune"
+    ],
+    [
+        "Dragonmancers",
+        "Fiora",
+        "Dragonmancer Fiora"
+    ],
+    [
+        "Dragonmancers",
+        "Kassadin",
+        "Dragonmancer Kassadin"
+    ],
+    [
+        "Dragonmancers",
+        "Rakan",
+        "Dragonmancer Rakan"
+    ],
+    [
+        "Dragonmancers",
+        "Vayne",
+        "Dragonmancer Vayne"
+    ],
+    [
+        "Dragonmancers",
+        "Yasuo",
+        "Dream Dragon Yasuo"
+    ],
+    [
+        "Dragonmancers",
+        "Volibear",
+        "Duality Dragon Volibear"
+    ],
+    [
+        "Dragonmancers",
+        "Brand",
+        "Eternal Dragon Brand"
+    ],
+    [
+        "Dragonmancers",
+        "Ashe",
+        "Fae Dragon Ashe"
+    ],
+    [
+        "Dragonmancers",
+        "Kai'Sa",
+        "Lagoon Dragon Kai'Sa"
+    ],
+    [
+        "Dragonmancers",
+        "Sett",
+        "Obsidian Dragon Sett"
+    ],
+    [
+        "Dragonmancers",
+        "Rakan",
+        "Prestige Dragonmancer Rakan"
+    ],
+    [
+        "Dragonmancers",
+        "Volibear",
+        "Prestige Duality Dragon Volibear"
+    ],
+    [
+        "Dragonmancers",
+        "Sett",
+        "Prestige Obsidian Dragon Sett"
+    ],
+    [
+        "Dragonmancers",
+        "Thresh",
+        "Steel Dragon Thresh"
+    ],
+    [
+        "Dragonmancers",
+        "Aurelion Sol",
+        "Storm Dragon Aurelion Sol"
+    ],
+    [
+        "Dragonmancers",
+        "Lee Sin",
+        "Storm Dragon Lee Sin"
+    ],
+    [
+        "Dragonmancers",
+        "Karma",
+        "Tranquility Dragon Karma"
+    ],
+    [
+        "Dragonmancers",
+        "Yasuo",
+        "Truth Dragon Yasuo"
+    ],
+    [
+        "Phoenixmancers",
+        "Xayah",
+        "Brave Phoenix Xayah"
+    ],
+    [
+        "Phoenixmancers",
+        "Anivia",
+        "Divine Phoenix Anivia"
+    ],
+    [
+        "Phoenixmancers",
+        "Seraphine",
+        "Graceful Phoenix Seraphine"
+    ],
+    [
+        "Phoenixmancers",
+        "Xayah",
+        "Prestige Brave Phoenix Xayah"
+    ],
+    [
+        "Primal Ambush",
+        "Riven",
+        "Primal Ambush Riven"
+    ],
+    [
+        "Primal Ambush",
+        "Sivir",
+        "Primal Ambush Sivir"
+    ],
+    [
+        "Primal Ambush",
+        "Talon",
+        "Primal Ambush Talon"
+    ],
+    [
+        "Primal Ambush",
+        "Vi",
+        "Primal Ambush Vi"
+    ],
+    [
+        "Galactic",
+        "Azir",
+        "Galactic Azir"
+    ],
+    [
+        "Galactic",
+        "Nasus",
+        "Galactic Nasus"
+    ],
+    [
+        "Galactic",
+        "Renekton",
+        "Galactic Renekton"
+    ],
+    [
+        "Glacial",
+        "Shen",
+        "Frozen Shen"
+    ],
+    [
+        "Glacial",
+        "Nocturne",
+        "Frozen Terror Nocturne"
+    ],
+    [
+        "Glacial",
+        "Malphite",
+        "Glacial Malphite"
+    ],
+    [
+        "Glacial",
+        "Olaf",
+        "Glacial Olaf"
+    ],
+    [
+        "Battle Academia",
+        "Caitlyn",
+        "Battle Academia Caitlyn"
+    ],
+    [
+        "Battle Academia",
+        "Ezreal",
+        "Battle Academia Ezreal"
+    ],
+    [
+        "Battle Academia",
+        "Garen",
+        "Battle Academia Garen"
+    ],
+    [
+        "Battle Academia",
+        "Jayce",
+        "Battle Academia Jayce"
+    ],
+    [
+        "Battle Academia",
+        "Katarina",
+        "Battle Academia Katarina"
+    ],
+    [
+        "Battle Academia",
+        "Leona",
+        "Battle Academia Leona"
+    ],
+    [
+        "Battle Academia",
+        "Lux",
+        "Battle Academia Lux"
+    ],
+    [
+        "Battle Academia",
+        "Wukong",
+        "Battle Academia Wukong"
+    ],
+    [
+        "Battle Academia",
+        "Yone",
+        "Battle Academia Yone"
+    ],
+    [
+        "Battle Academia",
+        "Yuumi",
+        "Battle Principal Yuumi"
+    ],
+    [
+        "Battle Academia",
+        "Graves",
+        "Battle Professor Graves"
+    ],
+    [
+        "Battle Academia",
+        "Leona",
+        "Prestige Battle Academia Leona"
+    ],
+    [
+        "Battle Academia",
+        "Lux",
+        "Prestige Battle Academia Lux"
+    ],
+    [
+        "Battle Academia",
+        "Lux",
+        "Prestige Battle Academia Lux (2022)"
+    ],
+    [
+        "Guardian of the Sands",
+        "Janna",
+        "Guardian of the Sands Janna"
+    ],
+    [
+        "Guardian of the Sands",
+        "Kha'Zix",
+        "Guardian of the Sands Kha'Zix"
+    ],
+    [
+        "Guardian of the Sands",
+        "Rammus",
+        "Guardian of the Sands Rammus"
+    ],
+    [
+        "Guardian of the Sands",
+        "Rengar",
+        "Guardian of the Sands Rengar"
+    ],
+    [
+        "Guardian of the Sands",
+        "Ryze",
+        "Guardian of the Sands Ryze"
+    ],
+    [
+        "Guardian of the Sands",
+        "Skarner",
+        "Guardian of the Sands Skarner"
+    ],
+    [
+        "Guardian of the Sands",
+        "Xerath",
+        "Guardian of the Sands Xerath"
+    ],
+    [
+        "Guardian of the Sands",
+        "Fiddlesticks",
+        "Risen Fiddlesticks"
+    ],
+    [
+        "Guardian of the Sands",
+        "Pyke",
+        "Sand Wraith Pyke"
+    ],
+    [
+        "Guardian of the Sands",
+        "Ekko",
+        "Sandstorm Ekko"
+    ],
+    [
+        "Guardian of the Sands",
+        "Katarina",
+        "Sandstorm Katarina"
+    ],
+    [
+        "Pharaoh",
+        "Amumu",
+        "Pharaoh Amumu"
+    ],
+    [
+        "Pharaoh",
+        "Nasus",
+        "Pharaoh Nasus"
+    ],
+    [
+        "Pharaoh",
+        "Nidalee",
+        "Pharaoh Nidalee"
+    ],
+    [
+        "Headhunter",
+        "Akali",
+        "Headhunter Akali"
+    ],
+    [
+        "Headhunter",
+        "Caitlyn",
+        "Headhunter Caitlyn"
+    ],
+    [
+        "Headhunter",
+        "Master Yi",
+        "Headhunter Master Yi"
+    ],
+    [
+        "Headhunter",
+        "Nidalee",
+        "Headhunter Nidalee"
+    ],
+    [
+        "Headhunter",
+        "Rengar",
+        "Headhunter Rengar"
+    ],
+    [
+        "Heavy Metal",
+        "Viktor",
+        "Full Machine Viktor"
+    ],
+    [
+        "Heavy Metal",
+        "Jayce",
+        "Full Metal Jayce"
+    ],
+    [
+        "Heavy Metal",
+        "Pantheon",
+        "Full Metal Pantheon"
+    ],
+    [
+        "Heavy Metal",
+        "Rammus",
+        "Full Metal Rammus"
+    ],
+    [
+        "Heavy Metal",
+        "Nunu & Willump",
+        "Nunu & Willump Bot"
+    ],
+    [
+        "Hextech",
+        "Alistar",
+        "Hextech Alistar"
+    ],
+    [
+        "Hextech",
+        "Amumu",
+        "Hextech Amumu"
+    ],
+    [
+        "Hextech",
+        "Anivia",
+        "Hextech Anivia"
+    ],
+    [
+        "Hextech",
+        "Annie",
+        "Hextech Annie"
+    ],
+    [
+        "Hextech",
+        "Galio",
+        "Hextech Galio"
+    ],
+    [
+        "Hextech",
+        "Janna",
+        "Hextech Janna"
+    ],
+    [
+        "Hextech",
+        "Jarvan IV",
+        "Hextech Jarvan IV"
+    ],
+    [
+        "Hextech",
+        "Kassadin",
+        "Hextech Kassadin"
+    ],
+    [
+        "Hextech",
+        "Kog'Maw",
+        "Hextech Kog'Maw"
+    ],
+    [
+        "Hextech",
+        "Malzahar",
+        "Hextech Malzahar"
+    ],
+    [
+        "Hextech",
+        "Nocturne",
+        "Hextech Nocturne"
+    ],
+    [
+        "Hextech",
+        "Poppy",
+        "Hextech Poppy"
+    ],
+    [
+        "Hextech",
+        "Rammus",
+        "Hextech Rammus"
+    ],
+    [
+        "Hextech",
+        "Renekton",
+        "Hextech Renekton"
+    ],
+    [
+        "Hextech",
+        "Sejuani",
+        "Hextech Sejuani"
+    ],
+    [
+        "Hextech",
+        "Singed",
+        "Hextech Singed"
+    ],
+    [
+        "Hextech",
+        "Sion",
+        "Hextech Sion"
+    ],
+    [
+        "Hextech",
+        "Swain",
+        "Hextech Swain"
+    ],
+    [
+        "Hextech",
+        "Tristana",
+        "Hextech Tristana"
+    ],
+    [
+        "Hextech",
+        "Ziggs",
+        "Hextech Ziggs"
+    ],
+    [
+        "High Noon",
+        "Fiddlesticks",
+        "Bandito Fiddlesticks"
+    ],
+    [
+        "High Noon",
+        "Miss Fortune",
+        "Cowgirl Miss Fortune"
+    ],
+    [
+        "High Noon",
+        "Cassiopeia",
+        "Desperada Cassiopeia"
+    ],
+    [
+        "High Noon",
+        "Ashe",
+        "High Noon Ashe"
+    ],
+    [
+        "High Noon",
+        "Darius",
+        "High Noon Darius"
+    ],
+    [
+        "High Noon",
+        "Evelynn",
+        "High Noon Evelynn"
+    ],
+    [
+        "High Noon",
+        "Gragas",
+        "High Noon Gragas"
+    ],
+    [
+        "High Noon",
+        "Hecarim",
+        "High Noon Hecarim"
+    ],
+    [
+        "High Noon",
+        "Irelia",
+        "High Noon Irelia"
+    ],
+    [
+        "High Noon",
+        "Jhin",
+        "High Noon Jhin"
+    ],
+    [
+        "High Noon",
+        "Katarina",
+        "High Noon Katarina"
+    ],
+    [
+        "High Noon",
+        "Leona",
+        "High Noon Leona"
+    ],
+    [
+        "High Noon",
+        "Lucian",
+        "High Noon Lucian"
+    ],
+    [
+        "High Noon",
+        "Mordekaiser",
+        "High Noon Mordekaiser"
+    ],
+    [
+        "High Noon",
+        "Rell",
+        "High Noon Rell"
+    ],
+    [
+        "High Noon",
+        "Samira",
+        "High Noon Samira"
+    ],
+    [
+        "High Noon",
+        "Senna",
+        "High Noon Senna"
+    ],
+    [
+        "High Noon",
+        "Sion",
+        "High Noon Sion"
+    ],
+    [
+        "High Noon",
+        "Tahm Kench",
+        "High Noon Tahm Kench"
+    ],
+    [
+        "High Noon",
+        "Talon",
+        "High Noon Talon"
+    ],
+    [
+        "High Noon",
+        "Thresh",
+        "High Noon Thresh"
+    ],
+    [
+        "High Noon",
+        "Twisted Fate",
+        "High Noon Twisted Fate"
+    ],
+    [
+        "High Noon",
+        "Twitch",
+        "High Noon Twitch"
+    ],
+    [
+        "High Noon",
+        "Urgot",
+        "High Noon Urgot"
+    ],
+    [
+        "High Noon",
+        "Varus",
+        "High Noon Varus"
+    ],
+    [
+        "High Noon",
+        "Viktor",
+        "High Noon Viktor"
+    ],
+    [
+        "High Noon",
+        "Yasuo",
+        "High Noon Yasuo"
+    ],
+    [
+        "High Noon",
+        "Yone",
+        "High Noon Yone"
+    ],
+    [
+        "High Noon",
+        "Alistar",
+        "Longhorn Alistar"
+    ],
+    [
+        "High Noon",
+        "Yone",
+        "Peacemaker High Noon Yone"
+    ],
+    [
+        "High Noon",
+        "Evelynn",
+        "Prestige High Noon Evelynn"
+    ],
+    [
+        "High Noon",
+        "Talon",
+        "Prestige High Noon Talon"
+    ],
+    [
+        "High Noon",
+        "Skarner",
+        "Sandscourge Skarner"
+    ],
+    [
+        "High Noon",
+        "Caitlyn",
+        "Sheriff Caitlyn"
+    ],
+    [
+        "High Noon",
+        "Kog'Maw",
+        "Sonoran Kog'Maw"
+    ],
+    [
+        "Road Warrior",
+        "Brand",
+        "Apocalyptic Brand"
+    ],
+    [
+        "Road Warrior",
+        "Rumble",
+        "Badlands Baron Rumble"
+    ],
+    [
+        "Road Warrior",
+        "Veigar",
+        "Baron Von Veigar"
+    ],
+    [
+        "Road Warrior",
+        "Heimerdinger",
+        "Blast Zone Heimerdinger"
+    ],
+    [
+        "Road Warrior",
+        "Warwick",
+        "Hyena Warwick"
+    ],
+    [
+        "Road Warrior",
+        "Trundle",
+        "Junkyard Trundle"
+    ],
+    [
+        "Road Warrior",
+        "Miss Fortune",
+        "Road Warrior Miss Fortune"
+    ],
+    [
+        "Road Warrior",
+        "Pantheon",
+        "Ruthless Pantheon"
+    ],
+    [
+        "Vandal",
+        "Graves",
+        "Hired Gun Graves"
+    ],
+    [
+        "Vandal",
+        "Brand",
+        "Vandal Brand"
+    ],
+    [
+        "Vandal",
+        "Gragas",
+        "Vandal Gragas"
+    ],
+    [
+        "Vandal",
+        "Jax",
+        "Vandal Jax"
+    ],
+    [
+        "Vandal",
+        "Twitch",
+        "Vandal Twitch"
+    ],
+    [
+        "Vandal",
+        "Vladimir",
+        "Vandal Vladimir"
+    ],
+    [
+        "Three Honors",
+        "Akshan",
+        "Three Honors Akshan"
+    ],
+    [
+        "Three Honors",
+        "Malzahar",
+        "Three Honors Malzahar"
+    ],
+    [
+        "Immortal Journey",
+        "Irelia",
+        "Divine Sword Irelia"
+    ],
+    [
+        "Immortal Journey",
+        "Talon",
+        "Enduring Sword Talon"
+    ],
+    [
+        "Immortal Journey",
+        "Master Yi",
+        "Eternal Sword Yi"
+    ],
+    [
+        "Immortal Journey",
+        "Lee Sin",
+        "God Fist Lee Sin"
+    ],
+    [
+        "Immortal Journey",
+        "Jax",
+        "God Staff Jax"
+    ],
+    [
+        "Immortal Journey",
+        "Kayle",
+        "Immortal Journey Kayle"
+    ],
+    [
+        "Immortal Journey",
+        "Shyvana",
+        "Immortal Journey Shyvana"
+    ],
+    [
+        "Immortal Journey",
+        "Sona",
+        "Immortal Journey Sona"
+    ],
+    [
+        "Immortal Journey",
+        "Soraka",
+        "Immortal Journey Soraka"
+    ],
+    [
+        "Immortal Journey",
+        "Zed",
+        "Immortal Journey Zed"
+    ],
+    [
+        "Immortal Journey",
+        "Zeri",
+        "Immortal Journey Zeri"
+    ],
+    [
+        "Immortal Journey",
+        "Morgana",
+        "Majestic Empress Morgana"
+    ],
+    [
+        "Immortal Journey",
+        "Sona",
+        "Prestige Immortal Journey Sona"
+    ],
+    [
+        "Immortal Journey",
+        "Riven",
+        "Prestige Valiant Sword Riven"
+    ],
+    [
+        "Immortal Journey",
+        "Riven",
+        "Prestige Valiant Sword Riven (2022)"
+    ],
+    [
+        "Immortal Journey",
+        "Janna",
+        "Sacred Sword Janna"
+    ],
+    [
+        "Immortal Journey",
+        "Fiora",
+        "Soaring Sword Fiora"
+    ],
+    [
+        "Immortal Journey",
+        "Nami",
+        "Splendid Staff Nami"
+    ],
+    [
+        "Immortal Journey",
+        "Riven",
+        "Valiant Sword Riven"
+    ],
+    [
+        "Infernal",
+        "Aurelion Sol",
+        "Ashen Lord Aurelion Sol"
+    ],
+    [
+        "Infernal",
+        "Maokai",
+        "Charred Maokai"
+    ],
+    [
+        "Infernal",
+        "Warwick",
+        "Firefang Warwick"
+    ],
+    [
+        "Infernal",
+        "Ahri",
+        "Foxfire Ahri"
+    ],
+    [
+        "Infernal",
+        "Akali",
+        "Infernal Akali"
+    ],
+    [
+        "Infernal",
+        "Alistar",
+        "Infernal Alistar"
+    ],
+    [
+        "Infernal",
+        "Amumu",
+        "Infernal Amumu"
+    ],
+    [
+        "Infernal",
+        "Ashe",
+        "Infernal Ashe"
+    ],
+    [
+        "Infernal",
+        "Diana",
+        "Infernal Diana"
+    ],
+    [
+        "Infernal",
+        "Galio",
+        "Infernal Galio"
+    ],
+    [
+        "Infernal",
+        "Karma",
+        "Infernal Karma"
+    ],
+    [
+        "Infernal",
+        "Karthus",
+        "Infernal Karthus"
+    ],
+    [
+        "Infernal",
+        "Kennen",
+        "Infernal Kennen"
+    ],
+    [
+        "Infernal",
+        "Mordekaiser",
+        "Infernal Mordekaiser"
+    ],
+    [
+        "Infernal",
+        "Nasus",
+        "Infernal Nasus"
+    ],
+    [
+        "Infernal",
+        "Olaf",
+        "Infernal Olaf"
+    ],
+    [
+        "Infernal",
+        "Shen",
+        "Infernal Shen"
+    ],
+    [
+        "Infernal",
+        "Varus",
+        "Infernal Varus"
+    ],
+    [
+        "Infernal",
+        "Vel'Koz",
+        "Infernal Vel'Koz"
+    ],
+    [
+        "Infernal",
+        "Rammus",
+        "Molten Rammus"
+    ],
+    [
+        "Infernal",
+        "Malphite",
+        "Obsidian Malphite"
+    ],
+    [
+        "Infernal",
+        "Renekton",
+        "Scorched Earth Renekton"
+    ],
+    [
+        "Infernal",
+        "Xerath",
+        "Scorched Earth Xerath"
+    ],
+    [
+        "Infernal",
+        "Kindred",
+        "Shadowfire Kindred"
+    ],
+    [
+        "Infernal",
+        "Wukong",
+        "Volcanic Wukong"
+    ],
+    [
+        "Infernal",
+        "Zyra",
+        "Wildfire Zyra"
+    ],
+    [
+        "Inkshadow",
+        "Aurelion Sol",
+        "Inkshadow Aurelion Sol"
+    ],
+    [
+        "Inkshadow",
+        "Kai'Sa",
+        "Inkshadow Kai'Sa"
+    ],
+    [
+        "Inkshadow",
+        "Master Yi",
+        "Inkshadow Master Yi"
+    ],
+    [
+        "Inkshadow",
+        "Udyr",
+        "Inkshadow Udyr"
+    ],
+    [
+        "Inkshadow",
+        "Volibear",
+        "Inkshadow Volibear"
+    ],
+    [
+        "Inkshadow",
+        "Yasuo",
+        "Inkshadow Yasuo"
+    ],
+    [
+        "Inkshadow",
+        "Yone",
+        "Inkshadow Yone"
+    ],
+    [
+        "Inkshadow",
+        "Yasuo",
+        "Prestige Inkshadow Yasuo"
+    ],
+    [
+        "Marauder",
+        "Alistar",
+        "Marauder Alistar"
+    ],
+    [
+        "Marauder",
+        "Ashe",
+        "Marauder Ashe"
+    ],
+    [
+        "Marauder",
+        "Kalista",
+        "Marauder Kalista"
+    ],
+    [
+        "Marauder",
+        "Kled",
+        "Marauder Kled"
+    ],
+    [
+        "Marauder",
+        "Olaf",
+        "Marauder Olaf"
+    ],
+    [
+        "Marauder",
+        "Warwick",
+        "Marauder Warwick"
+    ],
+    [
+        "Marauder",
+        "Xin Zhao",
+        "Marauder Xin Zhao"
+    ],
+    [
+        "Warden",
+        "Gragas",
+        "Warden Gragas"
+    ],
+    [
+        "Warden",
+        "Jax",
+        "Warden Jax"
+    ],
+    [
+        "Warden",
+        "Karma",
+        "Warden Karma"
+    ],
+    [
+        "Warden",
+        "Nautilus",
+        "Warden Nautilus"
+    ],
+    [
+        "Warden",
+        "Quinn",
+        "Warden Quinn"
+    ],
+    [
+        "Warden",
+        "Sivir",
+        "Warden Sivir"
+    ],
+    [
+        "Dreadnova",
+        "Darius",
+        "Dreadnova Darius"
+    ],
+    [
+        "Dreadnova",
+        "Gangplank",
+        "Dreadnova Gangplank"
+    ],
+    [
+        "Eternum",
+        "Cassiopeia",
+        "Eternum Cassiopeia"
+    ],
+    [
+        "Eternum",
+        "Nocturne",
+        "Eternum Nocturne"
+    ],
+    [
+        "Eternum",
+        "Rek'Sai",
+        "Eternum Rek'Sai"
+    ],
+    [
+        "Steel Legion",
+        "Garen",
+        "Steel Legion Garen"
+    ],
+    [
+        "Steel Legion",
+        "Lux",
+        "Steel Legion Lux"
+    ],
+    [
+        "Steel Valkyries",
+        "Renata Glasc",
+        "Admiral Glasc"
+    ],
+    [
+        "Steel Valkyries",
+        "Kayle",
+        "Aether Wing Kayle"
+    ],
+    [
+        "Steel Valkyries",
+        "Nasus",
+        "Armored Titan Nasus"
+    ],
+    [
+        "Steel Valkyries",
+        "Morgana",
+        "Blade Mistress Morgana"
+    ],
+    [
+        "Steel Valkyries",
+        "Kai'Sa",
+        "Bullet Angel Kai'Sa"
+    ],
+    [
+        "Steel Valkyries",
+        "Janna",
+        "Cyber Halo Janna"
+    ],
+    [
+        "Steel Valkyries",
+        "Miss Fortune",
+        "Gun Goddess Miss Fortune"
+    ],
+    [
+        "Steel Valkyries",
+        "Janna",
+        "Prestige Cyber Halo Janna"
+    ],
+    [
+        "Steel Valkyries",
+        "Camille",
+        "Strike Commander Camille"
+    ],
+    [
+        "Steel Valkyries",
+        "Lucian",
+        "Strike Paladin Lucian"
+    ],
+    [
+        "Zenith Games",
+        "Blitzcrank",
+        "Zenith Games Blitzcrank"
+    ],
+    [
+        "Zenith Games",
+        "Jayce",
+        "Zenith Games Jayce"
+    ],
+    [
+        "Zenith Games",
+        "Lee Sin",
+        "Zenith Games Lee Sin"
+    ],
+    [
+        "Lancer",
+        "Blitzcrank",
+        "Lancer Paragon Blitzcrank"
+    ],
+    [
+        "Lancer",
+        "Blitzcrank",
+        "Lancer Rogue Blitzcrank"
+    ],
+    [
+        "Lancer",
+        "Wukong",
+        "Lancer Stratus Wukong"
+    ],
+    [
+        "Lancer",
+        "Hecarim",
+        "Lancer Zero Hecarim"
+    ],
+    [
+        "Legacy",
+        "Ashe",
+        "Amethyst Ashe"
+    ],
+    [
+        "Legacy",
+        "Master Yi",
+        "Assassin Master Yi"
+    ],
+    [
+        "Legacy",
+        "Shaco",
+        "Asylum Shaco"
+    ],
+    [
+        "Legacy",
+        "Teemo",
+        "Badger Teemo"
+    ],
+    [
+        "Legacy",
+        "Sivir",
+        "Bandit Sivir"
+    ],
+    [
+        "Legacy",
+        "Poppy",
+        "Battle Regalia Poppy"
+    ],
+    [
+        "Legacy",
+        "Orianna",
+        "Bladecraft Orianna"
+    ],
+    [
+        "Legacy",
+        "Varus",
+        "Blight Crystal Varus"
+    ],
+    [
+        "Legacy",
+        "Master Yi",
+        "Chosen Master Yi"
+    ],
+    [
+        "Legacy",
+        "Rammus",
+        "Chrome Rammus"
+    ],
+    [
+        "Legacy",
+        "Shyvana",
+        "Darkflame Shyvana"
+    ],
+    [
+        "Legacy",
+        "Jarvan IV",
+        "Darkforge Jarvan IV"
+    ],
+    [
+        "Legacy",
+        "Leona",
+        "Defender Leona"
+    ],
+    [
+        "Legacy",
+        "Garen",
+        "Desert Trooper Garen"
+    ],
+    [
+        "Legacy",
+        "Galio",
+        "Enchanted Galio"
+    ],
+    [
+        "Legacy",
+        "Ezreal",
+        "Explorer Ezreal"
+    ],
+    [
+        "Legacy",
+        "Jayce",
+        "Forsaken Jayce"
+    ],
+    [
+        "Legacy",
+        "Olaf",
+        "Forsaken Olaf"
+    ],
+    [
+        "Legacy",
+        "Wukong",
+        "General Wukong"
+    ],
+    [
+        "Legacy",
+        "Draven",
+        "Gladiator Draven"
+    ],
+    [
+        "Legacy",
+        "Alistar",
+        "Golden Alistar"
+    ],
+    [
+        "Legacy",
+        "Kassadin",
+        "Harbinger Kassadin"
+    ],
+    [
+        "Legacy",
+        "Tryndamere",
+        "Highland Tryndamere"
+    ],
+    [
+        "Legacy",
+        "Gragas",
+        "Hillbilly Gragas"
+    ],
+    [
+        "Legacy",
+        "Lucian",
+        "Hired Gun Lucian"
+    ],
+    [
+        "Legacy",
+        "Lux",
+        "Imperial Lux"
+    ],
+    [
+        "Legacy",
+        "Xin Zhao",
+        "Imperial Xin Zhao"
+    ],
+    [
+        "Legacy",
+        "Master Yi",
+        "Ionia Master Yi"
+    ],
+    [
+        "Legacy",
+        "Leona",
+        "Iron Solari Leona"
+    ],
+    [
+        "Legacy",
+        "Shyvana",
+        "Ironscale Shyvana"
+    ],
+    [
+        "Legacy",
+        "Graves",
+        "Jailbreak Graves"
+    ],
+    [
+        "Legacy",
+        "Jax",
+        "Jaximus"
+    ],
+    [
+        "Legacy",
+        "Kayle",
+        "Judgment Kayle"
+    ],
+    [
+        "Legacy",
+        "Kennen",
+        "Karate Kennen"
+    ],
+    [
+        "Legacy",
+        "Nami",
+        "Koi Nami"
+    ],
+    [
+        "Legacy",
+        "Nidalee",
+        "Leopard Nidalee"
+    ],
+    [
+        "Legacy",
+        "Ziggs",
+        "Major Ziggs"
+    ],
+    [
+        "Legacy",
+        "Malphite",
+        "Marble Malphite"
+    ],
+    [
+        "Legacy",
+        "Evelynn",
+        "Masquerade Evelynn"
+    ],
+    [
+        "Legacy",
+        "Katarina",
+        "Mercenary Katarina"
+    ],
+    [
+        "Legacy",
+        "Ahri",
+        "Midnight Ahri"
+    ],
+    [
+        "Legacy",
+        "Gangplank",
+        "Minuteman Gangplank"
+    ],
+    [
+        "Legacy",
+        "Kog'Maw",
+        "Monarch Kog'Maw"
+    ],
+    [
+        "Legacy",
+        "Dr. Mundo",
+        "Mr. Mundoverse"
+    ],
+    [
+        "Legacy",
+        "Jax",
+        "Nemesis Jax"
+    ],
+    [
+        "Legacy",
+        "Rengar",
+        "Night Hunter Rengar"
+    ],
+    [
+        "Legacy",
+        "Irelia",
+        "Nightblade Irelia"
+    ],
+    [
+        "Legacy",
+        "Cho'Gath",
+        "Nightmare Cho'Gath"
+    ],
+    [
+        "Legacy",
+        "Rammus",
+        "Ninja Rammus"
+    ],
+    [
+        "Legacy",
+        "Anivia",
+        "Noxus Hunter Anivia"
+    ],
+    [
+        "Legacy",
+        "Karthus",
+        "Phantom Karthus"
+    ],
+    [
+        "Legacy",
+        "Teemo",
+        "Recon Teemo"
+    ],
+    [
+        "Legacy",
+        "Corki",
+        "Red Baron Corki"
+    ],
+    [
+        "Legacy",
+        "Talon",
+        "Renegade Talon"
+    ],
+    [
+        "Legacy",
+        "Annie",
+        "Reverse Annie"
+    ],
+    [
+        "Legacy",
+        "Shaco",
+        "Royal Shaco"
+    ],
+    [
+        "Legacy",
+        "Rumble",
+        "Rumble in the Jungle"
+    ],
+    [
+        "Legacy",
+        "Xerath",
+        "Runeborn Xerath"
+    ],
+    [
+        "Legacy",
+        "Blitzcrank",
+        "Rusty Blitzcrank"
+    ],
+    [
+        "Legacy",
+        "Caitlyn",
+        "Safari Caitlyn"
+    ],
+    [
+        "Legacy",
+        "Karma",
+        "Sakura Karma"
+    ],
+    [
+        "Legacy",
+        "Master Yi",
+        "Samurai Yi"
+    ],
+    [
+        "Legacy",
+        "Garen",
+        "Sanguine Garen"
+    ],
+    [
+        "Legacy",
+        "Malzahar",
+        "Shadow Prince Malzahar"
+    ],
+    [
+        "Legacy",
+        "Akali",
+        "Silverfang Akali"
+    ],
+    [
+        "Legacy",
+        "Zac",
+        "Special Weapon Zac"
+    ],
+    [
+        "Legacy",
+        "Sivir",
+        "Spectacular Sivir"
+    ],
+    [
+        "Legacy",
+        "Nautilus",
+        "Subterranean Nautilus"
+    ],
+    [
+        "Legacy",
+        "Kennen",
+        "Swamp Master Kennen"
+    ],
+    [
+        "Legacy",
+        "Janna",
+        "Tempest Janna"
+    ],
+    [
+        "Legacy",
+        "Jax",
+        "Temple Jax"
+    ],
+    [
+        "Legacy",
+        "Twisted Fate",
+        "The Magnificent Twisted Fate"
+    ],
+    [
+        "Legacy",
+        "Maokai",
+        "Totemic Maokai"
+    ],
+    [
+        "Legacy",
+        "Fizz",
+        "Tundra Fizz"
+    ],
+    [
+        "Legacy",
+        "Shen",
+        "Warlord Shen"
+    ],
+    [
+        "Legacy",
+        "Sion",
+        "Warmonger Sion"
+    ],
+    [
+        "Legacy",
+        "Sivir",
+        "Warrior Princess Sivir"
+    ],
+    [
+        "Legacy",
+        "Miss Fortune",
+        "Waterloo Miss Fortune"
+    ],
+    [
+        "Legacy",
+        "LeBlanc",
+        "Wicked LeBlanc"
+    ],
+    [
+        "Legacy",
+        "Shaco",
+        "Workshop Shaco"
+    ],
+    [
+        "Legacy",
+        "Shen",
+        "Yellow Jacket Shen"
+    ],
+    [
+        "Heavenscale",
+        "Lee Sin",
+        "Divine Heavenscale Lee Sin"
+    ],
+    [
+        "Heavenscale",
+        "Diana",
+        "Heavenscale Diana"
+    ],
+    [
+        "Heavenscale",
+        "Ezreal",
+        "Heavenscale Ezreal"
+    ],
+    [
+        "Heavenscale",
+        "Janna",
+        "Heavenscale Janna"
+    ],
+    [
+        "Heavenscale",
+        "Kai'Sa",
+        "Heavenscale Kai'Sa"
+    ],
+    [
+        "Heavenscale",
+        "Lee Sin",
+        "Heavenscale Lee Sin"
+    ],
+    [
+        "Heavenscale",
+        "Master Yi",
+        "Heavenscale Master Yi"
+    ],
+    [
+        "Heavenscale",
+        "Smolder",
+        "Heavenscale Smolder"
+    ],
+    [
+        "Heavenscale",
+        "Ezreal",
+        "Prestige Heavenscale Ezreal"
+    ],
+    [
+        "Lunar Beast",
+        "Alistar",
+        "Lunar Beast Alistar"
+    ],
+    [
+        "Lunar Beast",
+        "Annie",
+        "Lunar Beast Annie"
+    ],
+    [
+        "Lunar Beast",
+        "Aphelios",
+        "Lunar Beast Aphelios"
+    ],
+    [
+        "Lunar Beast",
+        "Darius",
+        "Lunar Beast Darius"
+    ],
+    [
+        "Lunar Beast",
+        "Fiora",
+        "Lunar Beast Fiora"
+    ],
+    [
+        "Lunar Beast",
+        "Jarvan IV",
+        "Lunar Beast Jarvan IV"
+    ],
+    [
+        "Lunar Beast",
+        "Viego",
+        "Lunar Beast Viego"
+    ],
+    [
+        "Lunar Beast",
+        "Fiora",
+        "Prestige Lunar Beast Fiora"
+    ],
+    [
+        "Lunar Revel",
+        "Tahm Kench",
+        "Coin Emperor Tahm Kench"
+    ],
+    [
+        "Lunar Revel",
+        "Lee Sin",
+        "Dragon Fist Lee Sin"
+    ],
+    [
+        "Lunar Revel",
+        "Sona",
+        "Guqin Sona"
+    ],
+    [
+        "Lunar Revel",
+        "Wukong",
+        "Jade Dragon Wukong"
+    ],
+    [
+        "Lunar Revel",
+        "Cassiopeia",
+        "Jade Fang Cassiopeia"
+    ],
+    [
+        "Lunar Revel",
+        "Thresh",
+        "Lunar Emperor Thresh"
+    ],
+    [
+        "Lunar Revel",
+        "Ashe",
+        "Lunar Empress Ashe"
+    ],
+    [
+        "Lunar Revel",
+        "Lux",
+        "Lunar Empress Lux"
+    ],
+    [
+        "Lunar Revel",
+        "Qiyana",
+        "Lunar Empress Qiyana"
+    ],
+    [
+        "Lunar Revel",
+        "Diana",
+        "Lunar Goddess Diana"
+    ],
+    [
+        "Lunar Revel",
+        "Kha'Zix",
+        "Lunar Guardian Kha'Zix"
+    ],
+    [
+        "Lunar Revel",
+        "Malphite",
+        "Lunar Guardian Malphite"
+    ],
+    [
+        "Lunar Revel",
+        "Nasus",
+        "Lunar Guardian Nasus"
+    ],
+    [
+        "Lunar Revel",
+        "Warwick",
+        "Lunar Guardian Warwick"
+    ],
+    [
+        "Lunar Revel",
+        "Caitlyn",
+        "Lunar Wraith Caitlyn"
+    ],
+    [
+        "Lunar Revel",
+        "Morgana",
+        "Lunar Wraith Morgana"
+    ],
+    [
+        "Lunar Revel",
+        "Sylas",
+        "Lunar Wraith Sylas"
+    ],
+    [
+        "Lunar Revel",
+        "Wukong",
+        "Radiant Wukong"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Corki",
+        "Dragonwing Corki"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Diana",
+        "Firecracker Diana"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Jinx",
+        "Firecracker Jinx"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Sejuani",
+        "Firecracker Sejuani"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Sett",
+        "Firecracker Sett"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Teemo",
+        "Firecracker Teemo"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Tristana",
+        "Firecracker Tristana"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Vayne",
+        "Firecracker Vayne"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Xin Zhao",
+        "Firecracker Xin Zhao"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Kog'Maw",
+        "Lion Dance Kog'Maw"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Annie",
+        "Panda Annie"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Vayne",
+        "Prestige Firecracker Vayne"
+    ],
+    [
+        "Lunar Revel: Firecracker",
+        "Vayne",
+        "Prestige Firecracker Vayne (2022)"
+    ],
+    [
+        "Porcelain",
+        "Amumu",
+        "Porcelain Amumu"
+    ],
+    [
+        "Porcelain",
+        "Darius",
+        "Porcelain Darius"
+    ],
+    [
+        "Porcelain",
+        "Graves",
+        "Porcelain Graves"
+    ],
+    [
+        "Porcelain",
+        "Irelia",
+        "Porcelain Irelia"
+    ],
+    [
+        "Porcelain",
+        "Kindred",
+        "Porcelain Kindred"
+    ],
+    [
+        "Porcelain",
+        "Lissandra",
+        "Porcelain Lissandra"
+    ],
+    [
+        "Porcelain",
+        "Lux",
+        "Porcelain Lux"
+    ],
+    [
+        "Porcelain",
+        "Miss Fortune",
+        "Porcelain Miss Fortune"
+    ],
+    [
+        "Porcelain",
+        "Morgana",
+        "Porcelain Morgana"
+    ],
+    [
+        "Porcelain",
+        "Aurelion Sol",
+        "Porcelain Protector Aurelion Sol"
+    ],
+    [
+        "Porcelain",
+        "Ezreal",
+        "Porcelain Protector Ezreal"
+    ],
+    [
+        "Porcelain",
+        "Kindred",
+        "Prestige Porcelain Kindred"
+    ],
+    [
+        "Porcelain",
+        "Lissandra",
+        "Prestige Porcelain Lissandra"
+    ],
+    [
+        "Porcelain",
+        "Lux",
+        "Prestige Porcelain Lux"
+    ],
+    [
+        "Crystalis Indomitus",
+        "Kha'Zix",
+        "Crystalis Indomitus Kha'Zix"
+    ],
+    [
+        "Crystalis Indomitus",
+        "Nautilus",
+        "Crystalis Indomitus Nautilus"
+    ],
+    [
+        "Crystalis Indomitus",
+        "Xerath",
+        "Crystalis Indomitus Xerath"
+    ],
+    [
+        "Crystalis Motus",
+        "Ashe",
+        "Crystalis Motus Ashe"
+    ],
+    [
+        "Crystalis Motus",
+        "Leona",
+        "Crystalis Motus Leona"
+    ],
+    [
+        "Crystalis Motus",
+        "Taliyah",
+        "Crystalis Motus Taliyah"
+    ],
+    [
+        "Kaiju",
+        "Urgot",
+        "Giant Enemy Crabgot"
+    ],
+    [
+        "Mecha",
+        "Aatrox",
+        "Mecha Aatrox"
+    ],
+    [
+        "Mecha",
+        "Aurelion Sol",
+        "Mecha Aurelion Sol"
+    ],
+    [
+        "Mecha",
+        "Kha'Zix",
+        "Mecha Kha'Zix"
+    ],
+    [
+        "Mecha",
+        "Malphite",
+        "Mecha Malphite"
+    ],
+    [
+        "Mecha",
+        "Rengar",
+        "Mecha Rengar"
+    ],
+    [
+        "Mecha",
+        "Sion",
+        "Mecha Zero Sion"
+    ],
+    [
+        "Mecha Kingdoms",
+        "Draven",
+        "Mecha Kingdoms Draven"
+    ],
+    [
+        "Mecha Kingdoms",
+        "Garen",
+        "Mecha Kingdoms Garen"
+    ],
+    [
+        "Mecha Kingdoms",
+        "Jax",
+        "Mecha Kingdoms Jax"
+    ],
+    [
+        "Mecha Kingdoms",
+        "Leona",
+        "Mecha Kingdoms Leona"
+    ],
+    [
+        "Mecha Kingdoms",
+        "Sett",
+        "Mecha Kingdoms Sett"
+    ],
+    [
+        "Mecha Kingdoms",
+        "Garen",
+        "Prestige Mecha Kingdoms Garen"
+    ],
+    [
+        "Monster Tamers",
+        "Lulu",
+        "Monster Tamer Lulu"
+    ],
+    [
+        "Monster Tamers",
+        "Veigar",
+        "Monster Tamer Veigar"
+    ],
+    [
+        "Monster Tamers",
+        "Kog'Maw",
+        "Zap'Maw"
+    ],
+    [
+        "Blood Moon",
+        "Aatrox",
+        "Blood Moon Aatrox"
+    ],
+    [
+        "Blood Moon",
+        "Akali",
+        "Blood Moon Akali"
+    ],
+    [
+        "Blood Moon",
+        "Diana",
+        "Blood Moon Diana"
+    ],
+    [
+        "Blood Moon",
+        "Elise",
+        "Blood Moon Elise"
+    ],
+    [
+        "Blood Moon",
+        "Evelynn",
+        "Blood Moon Evelynn"
+    ],
+    [
+        "Blood Moon",
+        "Fiddlesticks",
+        "Blood Moon Fiddlesticks"
+    ],
+    [
+        "Blood Moon",
+        "Jhin",
+        "Blood Moon Jhin"
+    ],
+    [
+        "Blood Moon",
+        "Kalista",
+        "Blood Moon Kalista"
+    ],
+    [
+        "Blood Moon",
+        "Katarina",
+        "Blood Moon Katarina"
+    ],
+    [
+        "Blood Moon",
+        "Kennen",
+        "Blood Moon Kennen"
+    ],
+    [
+        "Blood Moon",
+        "Master Yi",
+        "Blood Moon Master Yi"
+    ],
+    [
+        "Blood Moon",
+        "Pyke",
+        "Blood Moon Pyke"
+    ],
+    [
+        "Blood Moon",
+        "Shen",
+        "Blood Moon Shen"
+    ],
+    [
+        "Blood Moon",
+        "Sivir",
+        "Blood Moon Sivir"
+    ],
+    [
+        "Blood Moon",
+        "Talon",
+        "Blood Moon Talon"
+    ],
+    [
+        "Blood Moon",
+        "Thresh",
+        "Blood Moon Thresh"
+    ],
+    [
+        "Blood Moon",
+        "Tryndamere",
+        "Blood Moon Tryndamere"
+    ],
+    [
+        "Blood Moon",
+        "Twisted Fate",
+        "Blood Moon Twisted Fate"
+    ],
+    [
+        "Blood Moon",
+        "Yasuo",
+        "Blood Moon Yasuo"
+    ],
+    [
+        "Blood Moon",
+        "Zed",
+        "Blood Moon Zed"
+    ],
+    [
+        "Blood Moon",
+        "Zilean",
+        "Blood Moon Zilean"
+    ],
+    [
+        "Blood Moon",
+        "Zyra",
+        "Blood Moon Zyra"
+    ],
+    [
+        "Blood Moon",
+        "Aatrox",
+        "Prestige Blood Moon Aatrox"
+    ],
+    [
+        "Blood Moon",
+        "Aatrox",
+        "Prestige Blood Moon Aatrox (2022)"
+    ],
+    [
+        "Snow Moon",
+        "Ahri",
+        "Snow Moon Ahri"
+    ],
+    [
+        "Snow Moon",
+        "Caitlyn",
+        "Snow Moon Caitlyn"
+    ],
+    [
+        "Snow Moon",
+        "Illaoi",
+        "Snow Moon Illaoi"
+    ],
+    [
+        "Snow Moon",
+        "Kayn",
+        "Snow Moon Kayn"
+    ],
+    [
+        "Snow Moon",
+        "Morgana",
+        "Snow Moon Morgana"
+    ],
+    [
+        "Snow Moon",
+        "Varus",
+        "Snow Moon Varus"
+    ],
+    [
+        "Fright Night",
+        "Annie",
+        "Fright Night Annie"
+    ],
+    [
+        "Fright Night",
+        "Draven",
+        "Fright Night Draven"
+    ],
+    [
+        "Fright Night",
+        "Nautilus",
+        "Fright Night Nautilus"
+    ],
+    [
+        "Fright Night",
+        "Nunu & Willump",
+        "Fright Night Nunu & Willump"
+    ],
+    [
+        "Fright Night",
+        "Pyke",
+        "Fright Night Pyke"
+    ],
+    [
+        "Fright Night",
+        "Renata Glasc",
+        "Fright Night Renata Glasc"
+    ],
+    [
+        "Fright Night",
+        "Shaco",
+        "Fright Night Shaco"
+    ],
+    [
+        "Fright Night",
+        "Trundle",
+        "Fright Night Trundle"
+    ],
+    [
+        "Fright Night",
+        "Urgot",
+        "Fright Night Urgot"
+    ],
+    [
+        "Fright Night",
+        "Veigar",
+        "Fright Night Veigar"
+    ],
+    [
+        "Fright Night",
+        "Zeri",
+        "Fright Night Zeri"
+    ],
+    [
+        "Fright Night",
+        "Zeri",
+        "Prestige Fright Night Zeri"
+    ],
+    [
+        "Goth",
+        "Amumu",
+        "Emumu"
+    ],
+    [
+        "Goth",
+        "Annie",
+        "Goth Annie"
+    ],
+    [
+        "Goth",
+        "Orianna",
+        "Gothic Orianna"
+    ],
+    [
+        "Empyrean",
+        "Akali",
+        "Empyrean Akali"
+    ],
+    [
+        "Empyrean",
+        "Brand",
+        "Empyrean Brand"
+    ],
+    [
+        "Empyrean",
+        "Jax",
+        "Empyrean Jax"
+    ],
+    [
+        "Empyrean",
+        "Jhin",
+        "Empyrean Jhin"
+    ],
+    [
+        "Empyrean",
+        "K'Sante",
+        "Empyrean K'Sante"
+    ],
+    [
+        "Empyrean",
+        "Kayle",
+        "Empyrean Kayle"
+    ],
+    [
+        "Empyrean",
+        "Lux",
+        "Empyrean Lux"
+    ],
+    [
+        "Empyrean",
+        "Malzahar",
+        "Empyrean Malzahar"
+    ],
+    [
+        "Empyrean",
+        "Nocturne",
+        "Empyrean Nocturne"
+    ],
+    [
+        "Empyrean",
+        "Pyke",
+        "Empyrean Pyke"
+    ],
+    [
+        "Empyrean",
+        "Varus",
+        "Empyrean Varus"
+    ],
+    [
+        "Empyrean",
+        "Vex",
+        "Empyrean Vex"
+    ],
+    [
+        "Empyrean",
+        "Zac",
+        "Empyrean Zac"
+    ],
+    [
+        "Empyrean",
+        "Zed",
+        "Empyrean Zed"
+    ],
+    [
+        "Empyrean",
+        "K'Sante",
+        "Prestige Empyrean K'Sante"
+    ],
+    [
+        "Empyrean",
+        "Kayle",
+        "Prestige Empyrean Kayle"
+    ],
+    [
+        "Odyssey",
+        "Zed",
+        "Galaxy Slayer Zed"
+    ],
+    [
+        "Odyssey",
+        "Aatrox",
+        "Odyssey Aatrox"
+    ],
+    [
+        "Odyssey",
+        "Jinx",
+        "Odyssey Jinx"
+    ],
+    [
+        "Odyssey",
+        "Karma",
+        "Odyssey Karma"
+    ],
+    [
+        "Odyssey",
+        "Kayn",
+        "Odyssey Kayn"
+    ],
+    [
+        "Odyssey",
+        "Kha'Zix",
+        "Odyssey Kha'Zix"
+    ],
+    [
+        "Odyssey",
+        "Malphite",
+        "Odyssey Malphite"
+    ],
+    [
+        "Odyssey",
+        "Sivir",
+        "Odyssey Sivir"
+    ],
+    [
+        "Odyssey",
+        "Sona",
+        "Odyssey Sona"
+    ],
+    [
+        "Odyssey",
+        "Twisted Fate",
+        "Odyssey Twisted Fate"
+    ],
+    [
+        "Odyssey",
+        "Yasuo",
+        "Odyssey Yasuo"
+    ],
+    [
+        "Odyssey",
+        "Ziggs",
+        "Odyssey Ziggs"
+    ],
+    [
+        "Order of the Lotus",
+        "Irelia",
+        "Order of the Lotus Irelia"
+    ],
+    [
+        "Order of the Lotus",
+        "Karma",
+        "Order of the Lotus Karma"
+    ],
+    [
+        "PAX",
+        "Jax",
+        "Neo PAX Jax"
+    ],
+    [
+        "PAX",
+        "Sivir",
+        "Neo PAX Sivir"
+    ],
+    [
+        "PAX",
+        "Jax",
+        "PAX Jax"
+    ],
+    [
+        "PAX",
+        "Sivir",
+        "PAX Sivir"
+    ],
+    [
+        "PAX",
+        "Twisted Fate",
+        "PAX Twisted Fate"
+    ],
+    [
+        "Piltover Customs",
+        "Corki",
+        "Hot Rod Corki"
+    ],
+    [
+        "Piltover Customs",
+        "Blitzcrank",
+        "Piltover Customs Blitzcrank"
+    ],
+    [
+        "Piltover Customs",
+        "Heimerdinger",
+        "Piltover Customs Heimerdinger"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Draven",
+        "Beast Hunter Draven"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Sejuani",
+        "Beast Hunter Sejuani"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Tryndamere",
+        "Beast Hunter Tryndamere"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Shyvana",
+        "Boneclaw Shyvana"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Sivir",
+        "Huntress Sivir"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Anivia",
+        "Prehistoric Anivia"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Cho'Gath",
+        "Prehistoric Cho'Gath"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Renekton",
+        "Prehistoric Renekton"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Udyr",
+        "Primal Udyr"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Sejuani",
+        "Sabretusk Sejuani"
+    ],
+    [
+        "Prehistoric Hunters",
+        "Ryze",
+        "Tribal Ryze"
+    ],
+    [
+        "Cyber Pop",
+        "Akshan",
+        "Cyber Pop Akshan"
+    ],
+    [
+        "Cyber Pop",
+        "Zoe",
+        "Cyber Pop Zoe"
+    ],
+    [
+        "Program",
+        "Blitzcrank",
+        "iBlitzcrank"
+    ],
+    [
+        "Program",
+        "Camille",
+        "Program Camille"
+    ],
+    [
+        "Program",
+        "LeBlanc",
+        "Program LeBlanc"
+    ],
+    [
+        "Program",
+        "Lissandra",
+        "Program Lissandra"
+    ],
+    [
+        "Program",
+        "Nami",
+        "Program Nami"
+    ],
+    [
+        "Program",
+        "Soraka",
+        "Program Soraka"
+    ],
+    [
+        "PROJECT",
+        "Irelia",
+        "Prestige PROJECT: Irelia"
+    ],
+    [
+        "PROJECT",
+        "Sylas",
+        "Prestige PROJECT: Sylas"
+    ],
+    [
+        "PROJECT",
+        "Zed",
+        "Prestige PROJECT: Zed"
+    ],
+    [
+        "PROJECT",
+        "Irelia",
+        "Prestige PROJECT: Irelia (2022)"
+    ],
+    [
+        "PROJECT",
+        "Akali",
+        "PROJECT: Akali"
+    ],
+    [
+        "PROJECT",
+        "Ashe",
+        "PROJECT: Ashe"
+    ],
+    [
+        "PROJECT",
+        "Ekko",
+        "PROJECT: Ekko"
+    ],
+    [
+        "PROJECT",
+        "Fiora",
+        "PROJECT: Fiora"
+    ],
+    [
+        "PROJECT",
+        "Gangplank",
+        "PROJECT: Gangplank"
+    ],
+    [
+        "PROJECT",
+        "Irelia",
+        "PROJECT: Irelia"
+    ],
+    [
+        "PROJECT",
+        "Jax",
+        "PROJECT: Jax"
+    ],
+    [
+        "PROJECT",
+        "Jhin",
+        "PROJECT: Jhin"
+    ],
+    [
+        "PROJECT",
+        "Jinx",
+        "PROJECT: Jinx"
+    ],
+    [
+        "PROJECT",
+        "Katarina",
+        "PROJECT: Katarina"
+    ],
+    [
+        "PROJECT",
+        "Leona",
+        "PROJECT: Leona"
+    ],
+    [
+        "PROJECT",
+        "Lucian",
+        "PROJECT: Lucian"
+    ],
+    [
+        "PROJECT",
+        "Mordekaiser",
+        "PROJECT: Mordekaiser"
+    ],
+    [
+        "PROJECT",
+        "Naafiri",
+        "PROJECT: Naafiri"
+    ],
+    [
+        "PROJECT",
+        "Pyke",
+        "PROJECT: Pyke"
+    ],
+    [
+        "PROJECT",
+        "Renekton",
+        "PROJECT: Renekton"
+    ],
+    [
+        "PROJECT",
+        "Sejuani",
+        "PROJECT: Sejuani"
+    ],
+    [
+        "PROJECT",
+        "Senna",
+        "PROJECT: Senna"
+    ],
+    [
+        "PROJECT",
+        "Sylas",
+        "PROJECT: Sylas"
+    ],
+    [
+        "PROJECT",
+        "Varus",
+        "PROJECT: Varus"
+    ],
+    [
+        "PROJECT",
+        "Vayne",
+        "PROJECT: Vayne"
+    ],
+    [
+        "PROJECT",
+        "Vi",
+        "PROJECT: Vi"
+    ],
+    [
+        "PROJECT",
+        "Warwick",
+        "PROJECT: Warwick"
+    ],
+    [
+        "PROJECT",
+        "Yasuo",
+        "PROJECT: Yasuo"
+    ],
+    [
+        "PROJECT",
+        "Zed",
+        "PROJECT: Zed"
+    ],
+    [
+        "PROJECT",
+        "Master Yi",
+        "PROJECT: Yi"
+    ],
+    [
+        "Arctic Ops",
+        "Gragas",
+        "Arctic Ops Gragas"
+    ],
+    [
+        "Arctic Ops",
+        "Kennen",
+        "Arctic Ops Kennen"
+    ],
+    [
+        "Arctic Ops",
+        "Varus",
+        "Arctic Ops Varus"
+    ],
+    [
+        "Arctic Ops",
+        "Caitlyn",
+        "Arctic Warfare Caitlyn"
+    ],
+    [
+        "Arctic Ops",
+        "Swain",
+        "Northern Front Swain"
+    ],
+    [
+        "Arctic Ops",
+        "Volibear",
+        "Northern Storm Volibear"
+    ],
+    [
+        "Black Rose Group",
+        "Kayle",
+        "PsyOps Kayle"
+    ],
+    [
+        "Black Rose Group",
+        "Pyke",
+        "PsyOps Pyke"
+    ],
+    [
+        "Black Rose Group",
+        "Samira",
+        "PsyOps Samira"
+    ],
+    [
+        "Black Rose Group",
+        "Viktor",
+        "PsyOps Viktor"
+    ],
+    [
+        "Black Rose Group",
+        "Zed",
+        "PsyOps Zed"
+    ],
+    [
+        "PsyOps",
+        "Ezreal",
+        "Prestige PsyOps Ezreal"
+    ],
+    [
+        "PsyOps",
+        "Ezreal",
+        "PsyOps Ezreal"
+    ],
+    [
+        "PsyOps",
+        "Master Yi",
+        "PsyOps Master Yi"
+    ],
+    [
+        "PsyOps",
+        "Shen",
+        "PsyOps Shen"
+    ],
+    [
+        "PsyOps",
+        "Sona",
+        "PsyOps Sona"
+    ],
+    [
+        "PsyOps",
+        "Vi",
+        "PsyOps Vi"
+    ],
+    [
+        "Praetorian",
+        "Fiddlesticks",
+        "Praetorian Fiddlesticks"
+    ],
+    [
+        "Praetorian",
+        "Graves",
+        "Praetorian Graves"
+    ],
+    [
+        "Pulsefire",
+        "Lucian",
+        "Prestige Pulsefire Lucian"
+    ],
+    [
+        "Pulsefire",
+        "Thresh",
+        "Prestige Pulsefire Thresh"
+    ],
+    [
+        "Pulsefire",
+        "Thresh",
+        "Prestige Pulsefire Thresh (2022)"
+    ],
+    [
+        "Pulsefire",
+        "Caitlyn",
+        "Pulsefire Caitlyn"
+    ],
+    [
+        "Pulsefire",
+        "Ekko",
+        "Pulsefire Ekko"
+    ],
+    [
+        "Pulsefire",
+        "Ezreal",
+        "Pulsefire Ezreal"
+    ],
+    [
+        "Pulsefire",
+        "Fiora",
+        "Pulsefire Fiora"
+    ],
+    [
+        "Pulsefire",
+        "Lucian",
+        "Pulsefire Lucian"
+    ],
+    [
+        "Pulsefire",
+        "Pantheon",
+        "Pulsefire Pantheon"
+    ],
+    [
+        "Pulsefire",
+        "Riven",
+        "Pulsefire Riven"
+    ],
+    [
+        "Pulsefire",
+        "Shen",
+        "Pulsefire Shen"
+    ],
+    [
+        "Pulsefire",
+        "Thresh",
+        "Pulsefire Thresh"
+    ],
+    [
+        "Pulsefire",
+        "Twisted Fate",
+        "Pulsefire Twisted Fate"
+    ],
+    [
+        "Rift Quest",
+        "Sion",
+        "Barbarian Sion"
+    ],
+    [
+        "Rift Quest",
+        "Bard",
+        "Bard Bard"
+    ],
+    [
+        "Rift Quest",
+        "Braum",
+        "Braum Lionheart"
+    ],
+    [
+        "Rift Quest",
+        "Soraka",
+        "Celestine Soraka"
+    ],
+    [
+        "Rift Quest",
+        "Nunu & Willump",
+        "Demolisher Nunu & Willump"
+    ],
+    [
+        "Rift Quest",
+        "Gragas",
+        "Gragas Caskbreaker"
+    ],
+    [
+        "Rift Quest",
+        "Jayce",
+        "Jayce Brighthammer"
+    ],
+    [
+        "Rift Quest",
+        "Karthus",
+        "Karthus Lightsbane"
+    ],
+    [
+        "Rift Quest",
+        "Darius",
+        "Lord Darius"
+    ],
+    [
+        "Rift Quest",
+        "Mordekaiser",
+        "Lord Mordekaiser"
+    ],
+    [
+        "Rift Quest",
+        "Dr. Mundo",
+        "Rageborn Mundo"
+    ],
+    [
+        "Rift Quest",
+        "Garen",
+        "Rugged Garen"
+    ],
+    [
+        "Rift Quest",
+        "Ryze",
+        "Ryze Whitebeard"
+    ],
+    [
+        "Rift Quest",
+        "Sejuani",
+        "Sejuani Dawnchaser"
+    ],
+    [
+        "Rift Quest",
+        "Talon",
+        "Talon Blackwood"
+    ],
+    [
+        "Rift Quest",
+        "Taric",
+        "Taric Luminshield"
+    ],
+    [
+        "Rift Quest",
+        "Twitch",
+        "Twitch Shadowfoot"
+    ],
+    [
+        "Rift Quest",
+        "Varus",
+        "Varus Swiftbolt"
+    ],
+    [
+        "Rift Quest",
+        "Veigar",
+        "Veigar Greybeard"
+    ],
+    [
+        "DJ",
+        "Sona",
+        "DJ Sona"
+    ],
+    [
+        "HEARTSTEEL",
+        "Aphelios",
+        "HEARTSTEEL Aphelios"
+    ],
+    [
+        "HEARTSTEEL",
+        "Ezreal",
+        "HEARTSTEEL Ezreal"
+    ],
+    [
+        "HEARTSTEEL",
+        "K'Sante",
+        "HEARTSTEEL K'Sante"
+    ],
+    [
+        "HEARTSTEEL",
+        "Kayn",
+        "HEARTSTEEL Kayn"
+    ],
+    [
+        "HEARTSTEEL",
+        "Sett",
+        "HEARTSTEEL Sett"
+    ],
+    [
+        "HEARTSTEEL",
+        "Yone",
+        "HEARTSTEEL Yone"
+    ],
+    [
+        "HEARTSTEEL",
+        "Yone",
+        "Prestige HEARTSTEEL Yone"
+    ],
+    [
+        "K/DA",
+        "Ahri",
+        "K/DA Ahri"
+    ],
+    [
+        "K/DA",
+        "Akali",
+        "K/DA Akali"
+    ],
+    [
+        "K/DA",
+        "Evelynn",
+        "K/DA Evelynn"
+    ],
+    [
+        "K/DA",
+        "Kai'Sa",
+        "K/DA Kai'Sa"
+    ],
+    [
+        "K/DA",
+        "Ahri",
+        "K/DA ALL OUT Ahri"
+    ],
+    [
+        "K/DA",
+        "Akali",
+        "K/DA ALL OUT Akali"
+    ],
+    [
+        "K/DA",
+        "Evelynn",
+        "K/DA ALL OUT Evelynn"
+    ],
+    [
+        "K/DA",
+        "Kai'Sa",
+        "K/DA ALL OUT Kai'Sa"
+    ],
+    [
+        "K/DA",
+        "Seraphine",
+        "K/DA ALL OUT Seraphine Indie"
+    ],
+    [
+        "K/DA",
+        "Seraphine",
+        "K/DA ALL OUT Seraphine Rising Star"
+    ],
+    [
+        "K/DA",
+        "Seraphine",
+        "K/DA ALL OUT Seraphine Superstar"
+    ],
+    [
+        "K/DA",
+        "Ahri",
+        "Prestige K/DA Ahri"
+    ],
+    [
+        "K/DA",
+        "Akali",
+        "Prestige K/DA Akali"
+    ],
+    [
+        "K/DA",
+        "Evelynn",
+        "Prestige K/DA Evelynn"
+    ],
+    [
+        "K/DA",
+        "Kai'Sa",
+        "Prestige K/DA Kai'Sa"
+    ],
+    [
+        "K/DA",
+        "Ahri",
+        "Prestige K/DA Ahri (2022)"
+    ],
+    [
+        "K/DA",
+        "Akali",
+        "Prestige K/DA Akali (2022)"
+    ],
+    [
+        "K/DA",
+        "Evelynn",
+        "Prestige K/DA Evelynn (2022)"
+    ],
+    [
+        "K/DA",
+        "Kai'Sa",
+        "Prestige K/DA Kai'Sa (2022)"
+    ],
+    [
+        "K/DA",
+        "Kai'Sa",
+        "Prestige K/DA ALL OUT Kai'Sa"
+    ],
+    [
+        "Pentakill",
+        "Karthus",
+        "Pentakill Karthus"
+    ],
+    [
+        "Pentakill",
+        "Kayle",
+        "Pentakill Kayle"
+    ],
+    [
+        "Pentakill",
+        "Mordekaiser",
+        "Pentakill Mordekaiser"
+    ],
+    [
+        "Pentakill",
+        "Olaf",
+        "Pentakill Olaf"
+    ],
+    [
+        "Pentakill",
+        "Sona",
+        "Pentakill Sona"
+    ],
+    [
+        "Pentakill",
+        "Yorick",
+        "Pentakill Yorick"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Viego",
+        "Dissonance of Pentakill Viego"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Karthus",
+        "Pentakill III: Lost Chapter Karthus"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Kayle",
+        "Pentakill III: Lost Chapter Kayle"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Mordekaiser",
+        "Pentakill III: Lost Chapter Mordekaiser"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Olaf",
+        "Pentakill III: Lost Chapter Olaf"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Sona",
+        "Pentakill III: Lost Chapter Sona"
+    ],
+    [
+        "Pentakill III: The Lost Chapter",
+        "Yorick",
+        "Pentakill III: Lost Chapter Yorick"
+    ],
+    [
+        "Popstar",
+        "Ahri",
+        "Popstar Ahri"
+    ],
+    [
+        "True Damage",
+        "Ekko",
+        "Breakout True Damage Ekko"
+    ],
+    [
+        "True Damage",
+        "Qiyana",
+        "Prestige True Damage Qiyana"
+    ],
+    [
+        "True Damage",
+        "Senna",
+        "Prestige True Damage Senna"
+    ],
+    [
+        "True Damage",
+        "Yasuo",
+        "Prestige True Damage Yasuo"
+    ],
+    [
+        "True Damage",
+        "Qiyana",
+        "Prestige True Damage Qiyana (2022)"
+    ],
+    [
+        "True Damage",
+        "Akali",
+        "True Damage Akali"
+    ],
+    [
+        "True Damage",
+        "Ekko",
+        "True Damage Ekko"
+    ],
+    [
+        "True Damage",
+        "Qiyana",
+        "True Damage Qiyana"
+    ],
+    [
+        "True Damage",
+        "Senna",
+        "True Damage Senna"
+    ],
+    [
+        "True Damage",
+        "Yasuo",
+        "True Damage Yasuo"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Bard",
+        "Shan Hai Scrolls Bard"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Cho'Gath",
+        "Shan Hai Scrolls Cho'Gath"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Jhin",
+        "Shan Hai Scrolls Jhin"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Kog'Maw",
+        "Shan Hai Scrolls Kog'Maw"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Lillia",
+        "Shan Hai Scrolls Lillia"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Nautilus",
+        "Shan Hai Scrolls Nautilus"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Neeko",
+        "Shan Hai Scrolls Neeko"
+    ],
+    [
+        "Shan Hai Scrolls",
+        "Tahm Kench",
+        "Shan Hai Scrolls Tahm Kench"
+    ],
+    [
+        "Silver Age",
+        "Singed",
+        "Augmented Singed"
+    ],
+    [
+        "Silver Age",
+        "Darius",
+        "Bioforge Darius"
+    ],
+    [
+        "Silver Age",
+        "Tryndamere",
+        "Chemtech Tryndamere"
+    ],
+    [
+        "Silver Age",
+        "Brand",
+        "Cryocore Brand"
+    ],
+    [
+        "Silver Age",
+        "Kennen",
+        "Deadly Kennen"
+    ],
+    [
+        "Silver Age",
+        "Warwick",
+        "Feral Warwick"
+    ],
+    [
+        "Silver Age",
+        "Irelia",
+        "Infiltrator Irelia"
+    ],
+    [
+        "Silver Age",
+        "Quinn",
+        "Phoenix Quinn"
+    ],
+    [
+        "Silver Age",
+        "Nocturne",
+        "Ravager Nocturne"
+    ],
+    [
+        "Silver Age",
+        "Tristana",
+        "Rocket Girl Tristana"
+    ],
+    [
+        "Silver Age",
+        "Kennen",
+        "Super Kennen"
+    ],
+    [
+        "Silver Age",
+        "Teemo",
+        "Super Teemo"
+    ],
+    [
+        "Silver Age",
+        "Veigar",
+        "Superb Villain Veigar"
+    ],
+    [
+        "Silver Age",
+        "Dr. Mundo",
+        "Toxic Dr. Mundo"
+    ],
+    [
+        "Snow Day",
+        "Bard",
+        "Snow Day Bard"
+    ],
+    [
+        "Snow Day",
+        "Gnar",
+        "Snow Day Gnar"
+    ],
+    [
+        "Snow Day",
+        "Graves",
+        "Snow Day Graves"
+    ],
+    [
+        "Snow Day",
+        "Malzahar",
+        "Snow Day Malzahar"
+    ],
+    [
+        "Snow Day",
+        "Singed",
+        "Snow Day Singed"
+    ],
+    [
+        "Snow Day",
+        "Syndra",
+        "Snow Day Syndra"
+    ],
+    [
+        "Snow Day",
+        "Ziggs",
+        "Snow Day Ziggs"
+    ],
+    [
+        "Snowdown Showdown",
+        "Jinx",
+        "Ambitious Elf Jinx"
+    ],
+    [
+        "Snowdown Showdown",
+        "Veigar",
+        "Bad Santa Veigar"
+    ],
+    [
+        "Snowdown Showdown",
+        "Miss Fortune",
+        "Candy Cane Miss Fortune"
+    ],
+    [
+        "Snowdown Showdown",
+        "Tristana",
+        "Earnest Elf Tristana"
+    ],
+    [
+        "Snowdown Showdown",
+        "Maokai",
+        "Festive Maokai"
+    ],
+    [
+        "Snowdown Showdown",
+        "Teemo",
+        "Happy Elf Teemo"
+    ],
+    [
+        "Snowdown Showdown",
+        "LeBlanc",
+        "Mistletoe LeBlanc"
+    ],
+    [
+        "Snowdown Showdown",
+        "Shaco",
+        "Nutcracko"
+    ],
+    [
+        "Snowdown Showdown",
+        "Zilean",
+        "Old Saint Zilean"
+    ],
+    [
+        "Snowdown Showdown",
+        "Amumu",
+        "Re-Gifted Amumu"
+    ],
+    [
+        "Snowdown Showdown",
+        "Kog'Maw",
+        "Reindeer Kog'Maw"
+    ],
+    [
+        "Snowdown Showdown",
+        "Braum",
+        "Santa Braum"
+    ],
+    [
+        "Snowdown Showdown",
+        "Draven",
+        "Santa Draven"
+    ],
+    [
+        "Snowdown Showdown",
+        "Gragas",
+        "Santa Gragas"
+    ],
+    [
+        "Snowdown Showdown",
+        "Sona",
+        "Silent Night Sona"
+    ],
+    [
+        "Snowdown Showdown",
+        "Katarina",
+        "Slay Belle Katarina"
+    ],
+    [
+        "Snowdown Showdown",
+        "Nidalee",
+        "Snow Bunny Nidalee"
+    ],
+    [
+        "Snowdown Showdown",
+        "Heimerdinger",
+        "Snowmerdinger"
+    ],
+    [
+        "Snowdown Showdown",
+        "Nunu & Willump",
+        "Workshop Nunu & Willump"
+    ],
+    [
+        "Winter Wonder",
+        "Irelia",
+        "Frostblade Irelia"
+    ],
+    [
+        "Winter Wonder",
+        "Annie",
+        "Frostfire Annie"
+    ],
+    [
+        "Winter Wonder",
+        "Dr. Mundo",
+        "Frozen Prince Mundo"
+    ],
+    [
+        "Winter Wonder",
+        "Twitch",
+        "Ice King Twitch"
+    ],
+    [
+        "Winter Wonder",
+        "Sejuani",
+        "Poro Rider Sejuani"
+    ],
+    [
+        "Winter Wonder",
+        "Poppy",
+        "Snow Fawn Poppy"
+    ],
+    [
+        "Winter Wonder",
+        "Master Yi",
+        "Snow Man Yi"
+    ],
+    [
+        "Winter Wonder",
+        "Sivir",
+        "Snowstorm Sivir"
+    ],
+    [
+        "Winter Wonder",
+        "Karma",
+        "Winter Wonder Karma"
+    ],
+    [
+        "Winter Wonder",
+        "Lulu",
+        "Winter Wonder Lulu"
+    ],
+    [
+        "Winter Wonder",
+        "Neeko",
+        "Winter Wonder Neeko"
+    ],
+    [
+        "Winter Wonder",
+        "Orianna",
+        "Winter Wonder Orianna"
+    ],
+    [
+        "Winter Wonder",
+        "Soraka",
+        "Winter Wonder Soraka"
+    ],
+    [
+        "Soul Fighter",
+        "Pyke",
+        "Prestige Soul Fighter Pyke"
+    ],
+    [
+        "Soul Fighter",
+        "Shaco",
+        "Prestige Soul Fighter Shaco"
+    ],
+    [
+        "Soul Fighter",
+        "Evelynn",
+        "Soul Fighter Evelynn"
+    ],
+    [
+        "Soul Fighter",
+        "Gwen",
+        "Soul Fighter Gwen"
+    ],
+    [
+        "Soul Fighter",
+        "Jhin",
+        "Soul Fighter Jhin"
+    ],
+    [
+        "Soul Fighter",
+        "Lux",
+        "Soul Fighter Lux"
+    ],
+    [
+        "Soul Fighter",
+        "Naafiri",
+        "Soul Fighter Naafiri"
+    ],
+    [
+        "Soul Fighter",
+        "Pyke",
+        "Soul Fighter Pyke"
+    ],
+    [
+        "Soul Fighter",
+        "Samira",
+        "Soul Fighter Samira"
+    ],
+    [
+        "Soul Fighter",
+        "Sett",
+        "Soul Fighter Sett"
+    ],
+    [
+        "Soul Fighter",
+        "Shaco",
+        "Soul Fighter Shaco"
+    ],
+    [
+        "Soul Fighter",
+        "Viego",
+        "Soul Fighter Viego"
+    ],
+    [
+        "Soulstealer",
+        "Vayne",
+        "Soulstealer Vayne"
+    ],
+    [
+        "Soulstealer",
+        "Vladimir",
+        "Soulstealer Vladimir"
+    ],
+    [
+        "Space Groove",
+        "Lulu",
+        "Prestige Space Groove Lulu"
+    ],
+    [
+        "Space Groove",
+        "Nami",
+        "Prestige Space Groove Nami"
+    ],
+    [
+        "Space Groove",
+        "Blitzcrank",
+        "Space Groove Blitz & Crank"
+    ],
+    [
+        "Space Groove",
+        "Gragas",
+        "Space Groove Gragas"
+    ],
+    [
+        "Space Groove",
+        "Gwen",
+        "Space Groove Gwen"
+    ],
+    [
+        "Space Groove",
+        "Lissandra",
+        "Space Groove Lissandra"
+    ],
+    [
+        "Space Groove",
+        "Lulu",
+        "Space Groove Lulu"
+    ],
+    [
+        "Space Groove",
+        "Lux",
+        "Space Groove Lux"
+    ],
+    [
+        "Space Groove",
+        "Nami",
+        "Space Groove Nami"
+    ],
+    [
+        "Space Groove",
+        "Nasus",
+        "Space Groove Nasus"
+    ],
+    [
+        "Space Groove",
+        "Nunu & Willump",
+        "Space Groove Nunu & Willump"
+    ],
+    [
+        "Space Groove",
+        "Ornn",
+        "Space Groove Ornn"
+    ],
+    [
+        "Space Groove",
+        "Rumble",
+        "Space Groove Rumble"
+    ],
+    [
+        "Space Groove",
+        "Samira",
+        "Space Groove Samira"
+    ],
+    [
+        "Space Groove",
+        "Taric",
+        "Space Groove Taric"
+    ],
+    [
+        "Space Groove",
+        "Teemo",
+        "Space Groove Teemo"
+    ],
+    [
+        "Space Groove",
+        "Twisted Fate",
+        "Space Groove Twisted Fate"
+    ],
+    [
+        "Spirit Blossom",
+        "Master Yi",
+        "Prestige Spirit Blossom Master Yi"
+    ],
+    [
+        "Spirit Blossom",
+        "Teemo",
+        "Prestige Spirit Blossom Teemo"
+    ],
+    [
+        "Spirit Blossom",
+        "Ahri",
+        "Spirit Blossom Ahri"
+    ],
+    [
+        "Spirit Blossom",
+        "Aphelios",
+        "Spirit Blossom Aphelios"
+    ],
+    [
+        "Spirit Blossom",
+        "Cassiopeia",
+        "Spirit Blossom Cassiopeia"
+    ],
+    [
+        "Spirit Blossom",
+        "Darius",
+        "Spirit Blossom Darius"
+    ],
+    [
+        "Spirit Blossom",
+        "Evelynn",
+        "Spirit Blossom Evelynn"
+    ],
+    [
+        "Spirit Blossom",
+        "Kindred",
+        "Spirit Blossom Kindred"
+    ],
+    [
+        "Spirit Blossom",
+        "Lillia",
+        "Spirit Blossom Lillia"
+    ],
+    [
+        "Spirit Blossom",
+        "Master Yi",
+        "Spirit Blossom Master Yi"
+    ],
+    [
+        "Spirit Blossom",
+        "Riven",
+        "Spirit Blossom Riven"
+    ],
+    [
+        "Spirit Blossom",
+        "Sett",
+        "Spirit Blossom Sett"
+    ],
+    [
+        "Spirit Blossom",
+        "Soraka",
+        "Spirit Blossom Soraka"
+    ],
+    [
+        "Spirit Blossom",
+        "Syndra",
+        "Spirit Blossom Syndra"
+    ],
+    [
+        "Spirit Blossom",
+        "Teemo",
+        "Spirit Blossom Teemo"
+    ],
+    [
+        "Spirit Blossom",
+        "Thresh",
+        "Spirit Blossom Thresh"
+    ],
+    [
+        "Spirit Blossom",
+        "Tristana",
+        "Spirit Blossom Tristana"
+    ],
+    [
+        "Spirit Blossom",
+        "Vayne",
+        "Spirit Blossom Vayne"
+    ],
+    [
+        "Spirit Blossom",
+        "Yasuo",
+        "Spirit Blossom Yasuo"
+    ],
+    [
+        "Spirit Blossom",
+        "Yone",
+        "Spirit Blossom Yone"
+    ],
+    [
+        "Spirit Blossom",
+        "Yorick",
+        "Spirit Blossom Yorick"
+    ],
+    [
+        "Spirit Guard",
+        "Udyr",
+        "Spirit Guard Udyr"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Lulu",
+        "Pajama Guardian Lulu"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Lux",
+        "Pajama Guardian Lux"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Janna",
+        "Star Guardian Janna"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Jinx",
+        "Star Guardian Jinx"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Lulu",
+        "Star Guardian Lulu"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Lux",
+        "Star Guardian Lux"
+    ],
+    [
+        "Star Guardian Season 1",
+        "Poppy",
+        "Star Guardian Poppy"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Ezreal",
+        "Pajama Guardian Ezreal"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Miss Fortune",
+        "Pajama Guardian Miss Fortune"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Soraka",
+        "Pajama Guardian Soraka"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Soraka",
+        "Prestige Star Guardian Soraka"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Ahri",
+        "Star Guardian Ahri"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Ezreal",
+        "Star Guardian Ezreal"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Miss Fortune",
+        "Star Guardian Miss Fortune"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Soraka",
+        "Star Guardian Soraka"
+    ],
+    [
+        "Star Guardian Season 2",
+        "Syndra",
+        "Star Guardian Syndra"
+    ],
+    [
+        "Star Guardian Season 3",
+        "Neeko",
+        "Prestige Star Guardian Neeko"
+    ],
+    [
+        "Star Guardian Season 3",
+        "Neeko",
+        "Prestige Star Guardian Neeko (2022)"
+    ],
+    [
+        "Star Guardian Season 3",
+        "Neeko",
+        "Star Guardian Neeko"
+    ],
+    [
+        "Star Guardian Season 3",
+        "Rakan",
+        "Star Guardian Rakan"
+    ],
+    [
+        "Star Guardian Season 3",
+        "Xayah",
+        "Star Guardian Xayah"
+    ],
+    [
+        "Star Guardian Season 3",
+        "Zoe",
+        "Star Guardian Zoe"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Ekko",
+        "Prestige Star Guardian Ekko"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Syndra",
+        "Prestige Star Guardian Syndra"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Rakan",
+        "Redeemed Star Guardian Rakan"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Xayah",
+        "Redeemed Star Guardian Xayah"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Akali",
+        "Star Guardian Akali"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Ekko",
+        "Star Guardian Ekko"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Kai'Sa",
+        "Star Guardian Kai'Sa"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Nilah",
+        "Star Guardian Nilah"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Orianna",
+        "Star Guardian Orianna"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Quinn",
+        "Star Guardian Quinn"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Rell",
+        "Star Guardian Rell"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Senna",
+        "Star Guardian Senna"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Seraphine",
+        "Star Guardian Seraphine"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Sona",
+        "Star Guardian Sona"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Taliyah",
+        "Star Guardian Taliyah"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Fiddlesticks",
+        "Star Nemesis Fiddlesticks"
+    ],
+    [
+        "Star Guardian Season 4",
+        "Morgana",
+        "Star Nemesis Morgana"
+    ],
+    [
+        "Astronauts",
+        "Bard",
+        "Astronaut Bard"
+    ],
+    [
+        "Astronauts",
+        "Corki",
+        "Astronaut Corki"
+    ],
+    [
+        "Astronauts",
+        "Fizz",
+        "Astronaut Fizz"
+    ],
+    [
+        "Astronauts",
+        "Gnar",
+        "Astronaut Gnar"
+    ],
+    [
+        "Astronauts",
+        "Ivern",
+        "Astronaut Ivern"
+    ],
+    [
+        "Astronauts",
+        "Kennen",
+        "Astronaut Kennen"
+    ],
+    [
+        "Astronauts",
+        "Maokai",
+        "Astronaut Maokai"
+    ],
+    [
+        "Astronauts",
+        "Poppy",
+        "Astronaut Poppy"
+    ],
+    [
+        "Astronauts",
+        "Rammus",
+        "Astronaut Rammus"
+    ],
+    [
+        "Astronauts",
+        "Singed",
+        "Astronaut Singed"
+    ],
+    [
+        "Astronauts",
+        "Teemo",
+        "Astronaut Teemo"
+    ],
+    [
+        "Astronauts",
+        "Veigar",
+        "Astronaut Veigar"
+    ],
+    [
+        "Astronauts",
+        "Xerath",
+        "Astronaut Xerath"
+    ],
+    [
+        "Astronauts",
+        "Nautilus",
+        "AstroNautilus"
+    ],
+    [
+        "Invaders",
+        "Heimerdinger",
+        "Alien Invader Heimerdinger"
+    ],
+    [
+        "Invaders",
+        "Corki",
+        "UFO Corki"
+    ],
+    [
+        "Highstakes",
+        "Ezreal",
+        "Ace of Spades Ezreal"
+    ],
+    [
+        "Highstakes",
+        "Twisted Fate",
+        "Jack of Hearts Twisted Fate"
+    ],
+    [
+        "Highstakes",
+        "Mordekaiser",
+        "King of Clubs Mordekaiser"
+    ],
+    [
+        "Highstakes",
+        "Syndra",
+        "Queen of Diamonds Syndra"
+    ],
+    [
+        "Highstakes",
+        "Shaco",
+        "Wild Card Shaco"
+    ],
+    [
+        "Storybook",
+        "Annie",
+        "Annie in Wonderland"
+    ],
+    [
+        "Storybook",
+        "Warwick",
+        "Big Bad Warwick"
+    ],
+    [
+        "Storybook",
+        "Kog'Maw",
+        "Caterpillar Kog'Maw"
+    ],
+    [
+        "Storybook",
+        "Vladimir",
+        "Count Vladimir"
+    ],
+    [
+        "Storybook",
+        "Shaco",
+        "Mad Hatter Shaco"
+    ],
+    [
+        "Storybook",
+        "Annie",
+        "Red Riding Annie"
+    ],
+    [
+        "Mythmaker",
+        "Galio",
+        "Mythmaker Galio"
+    ],
+    [
+        "Mythmaker",
+        "Garen",
+        "Mythmaker Garen"
+    ],
+    [
+        "Mythmaker",
+        "Irelia",
+        "Mythmaker Irelia"
+    ],
+    [
+        "Mythmaker",
+        "Sivir",
+        "Mythmaker Sivir"
+    ],
+    [
+        "Mythmaker",
+        "Zyra",
+        "Mythmaker Zyra"
+    ],
+    [
+        "Mythmaker",
+        "Sivir",
+        "Prestige Mythmaker Sivir"
+    ],
+    [
+        "La Ilusión",
+        "Draven",
+        "La Ilusión Draven"
+    ],
+    [
+        "La Ilusión",
+        "Gnar",
+        "La Ilusión Gnar"
+    ],
+    [
+        "La Ilusión",
+        "Nidalee",
+        "La Ilusión Nidalee"
+    ],
+    [
+        "La Ilusión",
+        "Qiyana",
+        "La Ilusión Qiyana"
+    ],
+    [
+        "La Ilusión",
+        "Renata Glasc",
+        "La Ilusión Renata Glasc"
+    ],
+    [
+        "La Ilusión",
+        "Ziggs",
+        "La Ilusión Ziggs"
+    ],
+    [
+        "La Ilusión",
+        "Renata Glasc",
+        "Prestige La Ilusión Renata Glasc"
+    ],
+    [
+        "Sugar Rush",
+        "Lulu",
+        "Bittersweet Lulu"
+    ],
+    [
+        "Sugar Rush",
+        "Ivern",
+        "Candy King Ivern"
+    ],
+    [
+        "Sugar Rush",
+        "Fiddlesticks",
+        "Dark Candy Fiddlesticks"
+    ],
+    [
+        "Sugar Rush",
+        "Poppy",
+        "Lollipoppy"
+    ],
+    [
+        "Sugar Rush",
+        "Braum",
+        "Sugar Rush Braum"
+    ],
+    [
+        "Sugar Rush",
+        "Evelynn",
+        "Sugar Rush Evelynn"
+    ],
+    [
+        "Sugar Rush",
+        "Ziggs",
+        "Sugar Rush Ziggs"
+    ],
+    [
+        "Sugar Rush",
+        "Zilean",
+        "Sugar Rush Zilean"
+    ],
+    [
+        "Ocean Song",
+        "Ashe",
+        "Ocean Song Ashe"
+    ],
+    [
+        "Ocean Song",
+        "Nidalee",
+        "Ocean Song Nidalee"
+    ],
+    [
+        "Ocean Song",
+        "Seraphine",
+        "Ocean Song Seraphine"
+    ],
+    [
+        "Ocean Song",
+        "Yone",
+        "Ocean Song Yone"
+    ],
+    [
+        "Ocean Song",
+        "Zeri",
+        "Ocean Song Zeri"
+    ],
+    [
+        "Ocean Song",
+        "Seraphine",
+        "Prestige Ocean Song Seraphine"
+    ],
+    [
+        "Pool Party",
+        "Braum",
+        "Pool Party Braum"
+    ],
+    [
+        "Pool Party",
+        "Caitlyn",
+        "Pool Party Caitlyn"
+    ],
+    [
+        "Pool Party",
+        "Draven",
+        "Pool Party Draven"
+    ],
+    [
+        "Pool Party",
+        "Fiora",
+        "Pool Party Fiora"
+    ],
+    [
+        "Pool Party",
+        "Gangplank",
+        "Pool Party Gangplank"
+    ],
+    [
+        "Pool Party",
+        "Graves",
+        "Pool Party Graves"
+    ],
+    [
+        "Pool Party",
+        "Heimerdinger",
+        "Pool Party Heimerdinger"
+    ],
+    [
+        "Pool Party",
+        "Jarvan IV",
+        "Pool Party Jarvan IV"
+    ],
+    [
+        "Pool Party",
+        "Lee Sin",
+        "Pool Party Lee Sin"
+    ],
+    [
+        "Pool Party",
+        "Leona",
+        "Pool Party Leona"
+    ],
+    [
+        "Pool Party",
+        "Lulu",
+        "Pool Party Lulu"
+    ],
+    [
+        "Pool Party",
+        "Miss Fortune",
+        "Pool Party Miss Fortune"
+    ],
+    [
+        "Pool Party",
+        "Orianna",
+        "Pool Party Orianna"
+    ],
+    [
+        "Pool Party",
+        "Rek'Sai",
+        "Pool Party Rek'Sai"
+    ],
+    [
+        "Pool Party",
+        "Renekton",
+        "Pool Party Renekton"
+    ],
+    [
+        "Pool Party",
+        "Sett",
+        "Pool Party Sett"
+    ],
+    [
+        "Pool Party",
+        "Syndra",
+        "Pool Party Syndra"
+    ],
+    [
+        "Pool Party",
+        "Taliyah",
+        "Pool Party Taliyah"
+    ],
+    [
+        "Pool Party",
+        "Taric",
+        "Pool Party Taric"
+    ],
+    [
+        "Pool Party",
+        "Zac",
+        "Pool Party Zac"
+    ],
+    [
+        "Pool Party",
+        "Ziggs",
+        "Pool Party Ziggs"
+    ],
+    [
+        "Pool Party",
+        "Zoe",
+        "Pool Party Zoe"
+    ],
+    [
+        "Pool Party",
+        "Dr. Mundo",
+        "Pool Party Mundo"
+    ],
+    [
+        "Pool Party",
+        "Singed",
+        "Surfer Singed"
+    ],
+    [
+        "Super Galaxy",
+        "Annie",
+        "Super Galaxy Annie"
+    ],
+    [
+        "Super Galaxy",
+        "Elise",
+        "Super Galaxy Elise"
+    ],
+    [
+        "Super Galaxy",
+        "Fizz",
+        "Super Galaxy Fizz"
+    ],
+    [
+        "Super Galaxy",
+        "Gnar",
+        "Super Galaxy Gnar"
+    ],
+    [
+        "Super Galaxy",
+        "Kindred",
+        "Super Galaxy Kindred"
+    ],
+    [
+        "Super Galaxy",
+        "Nidalee",
+        "Super Galaxy Nidalee"
+    ],
+    [
+        "Super Galaxy",
+        "Rumble",
+        "Super Galaxy Rumble"
+    ],
+    [
+        "Super Galaxy",
+        "Shyvana",
+        "Super Galaxy Shyvana"
+    ],
+    [
+        "Bewitching",
+        "Cassiopeia",
+        "Bewitching Cassiopeia"
+    ],
+    [
+        "Bewitching",
+        "Elise",
+        "Bewitching Elise"
+    ],
+    [
+        "Bewitching",
+        "Fiora",
+        "Bewitching Fiora"
+    ],
+    [
+        "Bewitching",
+        "Janna",
+        "Bewitching Janna"
+    ],
+    [
+        "Bewitching",
+        "LeBlanc",
+        "Bewitching LeBlanc"
+    ],
+    [
+        "Bewitching",
+        "Miss Fortune",
+        "Bewitching Miss Fortune"
+    ],
+    [
+        "Bewitching",
+        "Morgana",
+        "Bewitching Morgana"
+    ],
+    [
+        "Bewitching",
+        "Nami",
+        "Bewitching Nami"
+    ],
+    [
+        "Bewitching",
+        "Neeko",
+        "Bewitching Neeko"
+    ],
+    [
+        "Bewitching",
+        "Nidalee",
+        "Bewitching Nidalee"
+    ],
+    [
+        "Bewitching",
+        "Poppy",
+        "Bewitching Poppy"
+    ],
+    [
+        "Bewitching",
+        "Senna",
+        "Bewitching Senna"
+    ],
+    [
+        "Bewitching",
+        "Syndra",
+        "Bewitching Syndra"
+    ],
+    [
+        "Bewitching",
+        "Tristana",
+        "Bewitching Tristana"
+    ],
+    [
+        "Bewitching",
+        "Yuumi",
+        "Bewitching Yuumi"
+    ],
+    [
+        "Bewitching",
+        "Anivia",
+        "Bewitching Batnivia"
+    ],
+    [
+        "Bewitching",
+        "Miss Fortune",
+        "Prestige Bewitching Miss Fortune"
+    ],
+    [
+        "Bewitching",
+        "Morgana",
+        "Prestige Bewitching Morgana"
+    ],
+    [
+        "Bewitching",
+        "Miss Fortune",
+        "Prestige Bewitching Miss Fortune (2022)"
+    ],
+    [
+        "Trick-or-Treat",
+        "Urgot",
+        "Butcher Urgot"
+    ],
+    [
+        "Trick-or-Treat",
+        "Kassadin",
+        "Count Kassadin"
+    ],
+    [
+        "Trick-or-Treat",
+        "Kled",
+        "Count Kledula"
+    ],
+    [
+        "Trick-or-Treat",
+        "Annie",
+        "FrankenTibbers Annie"
+    ],
+    [
+        "Trick-or-Treat",
+        "Karthus",
+        "Grim Reaper Karthus"
+    ],
+    [
+        "Trick-or-Treat",
+        "Maokai",
+        "Haunted Maokai"
+    ],
+    [
+        "Trick-or-Treat",
+        "Zyra",
+        "Haunted Zyra"
+    ],
+    [
+        "Trick-or-Treat",
+        "Nocturne",
+        "Haunting Nocturne"
+    ],
+    [
+        "Trick-or-Treat",
+        "Hecarim",
+        "Headless Hecarim"
+    ],
+    [
+        "Trick-or-Treat",
+        "Katarina",
+        "Kitty Cat Katarina"
+    ],
+    [
+        "Trick-or-Treat",
+        "Dr. Mundo",
+        "Mundo Mundo"
+    ],
+    [
+        "Trick-or-Treat",
+        "Tryndamere",
+        "Nightmare Tryndamere"
+    ],
+    [
+        "Trick-or-Treat",
+        "Vladimir",
+        "Nosferatu Vladimir"
+    ],
+    [
+        "Trick-or-Treat",
+        "Amumu",
+        "Pumpkin Prince Amumu"
+    ],
+    [
+        "Trick-or-Treat",
+        "Fiddlesticks",
+        "Pumpkinhead Fiddlesticks"
+    ],
+    [
+        "Trick-or-Treat",
+        "LeBlanc",
+        "Ravenborn LeBlanc"
+    ],
+    [
+        "Trick-or-Treat",
+        "Gangplank",
+        "Spooky Gangplank"
+    ],
+    [
+        "Trick-or-Treat",
+        "Ekko",
+        "Trick or Treat Ekko"
+    ],
+    [
+        "Trick-or-Treat",
+        "Twisted Fate",
+        "Underworld Twisted Fate"
+    ],
+    [
+        "Trick-or-Treat",
+        "Vayne",
+        "Vindicator Vayne"
+    ],
+    [
+        "Trick-or-Treat",
+        "Lulu",
+        "Wicked Lulu"
+    ],
+    [
+        "Trick-or-Treat",
+        "Blitzcrank",
+        "Witch's Brew Blitzcrank"
+    ],
+    [
+        "Winterblessed",
+        "Camille",
+        "Prestige Winterblessed Camille"
+    ],
+    [
+        "Winterblessed",
+        "Warwick",
+        "Prestige Winterblessed Warwick"
+    ],
+    [
+        "Winterblessed",
+        "Annie",
+        "Winterblessed Annie"
+    ],
+    [
+        "Winterblessed",
+        "Camille",
+        "Winterblessed Camille"
+    ],
+    [
+        "Winterblessed",
+        "Diana",
+        "Winterblessed Diana"
+    ],
+    [
+        "Winterblessed",
+        "Hecarim",
+        "Winterblessed Hecarim"
+    ],
+    [
+        "Winterblessed",
+        "Hwei",
+        "Winterblessed Hwei"
+    ],
+    [
+        "Winterblessed",
+        "Lucian",
+        "Winterblessed Lucian"
+    ],
+    [
+        "Winterblessed",
+        "Senna",
+        "Winterblessed Senna"
+    ],
+    [
+        "Winterblessed",
+        "Shaco",
+        "Winterblessed Shaco"
+    ],
+    [
+        "Winterblessed",
+        "Swain",
+        "Winterblessed Swain"
+    ],
+    [
+        "Winterblessed",
+        "Sylas",
+        "Winterblessed Sylas"
+    ],
+    [
+        "Winterblessed",
+        "Thresh",
+        "Winterblessed Thresh"
+    ],
+    [
+        "Winterblessed",
+        "Warwick",
+        "Winterblessed Warwick"
+    ],
+    [
+        "Winterblessed",
+        "Zilean",
+        "Winterblessed Zilean"
+    ],
+    [
+        "Winterblessed",
+        "Zoe",
+        "Winterblessed Zoe"
+    ],
+    [
+        "Riot",
+        "Blitzcrank",
+        "Riot Blitzcrank"
+    ],
+    [
+        "Riot",
+        "Graves",
+        "Riot Graves"
+    ],
+    [
+        "Riot",
+        "Kayle",
+        "Riot Kayle"
+    ],
+    [
+        "Riot",
+        "Tristana",
+        "Riot Girl Tristana"
+    ],
+    [
+        "Riot",
+        "Nasus",
+        "Riot K-9 Nasus"
+    ],
+    [
+        "Riot",
+        "Singed",
+        "Riot Squad Singed"
+    ],
+    [
+        "Cops and Robbers",
+        "Volibear",
+        "Captain Volibear"
+    ],
+    [
+        "Cops and Robbers",
+        "Trundle",
+        "Constable Trundle"
+    ],
+    [
+        "Cops and Robbers",
+        "Caitlyn",
+        "Officer Caitlyn"
+    ],
+    [
+        "Cops and Robbers",
+        "Vi",
+        "Officer Vi"
+    ],
+    [
+        "Cops and Robbers",
+        "Twitch",
+        "Pickpocket Twitch"
+    ],
+    [
+        "Cops and Robbers",
+        "Evelynn",
+        "Safecracker Evelynn"
+    ],
+    [
+        "Cops and Robbers",
+        "Miss Fortune",
+        "Secret Agent Miss Fortune"
+    ],
+    [
+        "Cops and Robbers",
+        "Xin Zhao",
+        "Secret Agent Xin Zhao"
+    ],
+    [
+        "Day Job",
+        "Amumu",
+        "Almost-Prom King Amumu"
+    ],
+    [
+        "Day Job",
+        "Jax",
+        "Angler Jax"
+    ],
+    [
+        "Day Job",
+        "Azir",
+        "Attorney Azir"
+    ],
+    [
+        "Day Job",
+        "Irelia",
+        "Aviator Irelia"
+    ],
+    [
+        "Day Job",
+        "Riven",
+        "Battle Bunny Riven"
+    ],
+    [
+        "Day Job",
+        "Udyr",
+        "Black Belt Udyr"
+    ],
+    [
+        "Day Job",
+        "Blitzcrank",
+        "Boom Boom Blitzcrank"
+    ],
+    [
+        "Day Job",
+        "Olaf",
+        "Brolaf"
+    ],
+    [
+        "Day Job",
+        "Dr. Mundo",
+        "Corporate Mundo"
+    ],
+    [
+        "Day Job",
+        "Tristana",
+        "Firefighter Tristana"
+    ],
+    [
+        "Day Job",
+        "Fizz",
+        "Fisherman Fizz"
+    ],
+    [
+        "Day Job",
+        "Janna",
+        "Forecast Janna"
+    ],
+    [
+        "Day Job",
+        "Nidalee",
+        "French Maid Nidalee"
+    ],
+    [
+        "Day Job",
+        "Zilean",
+        "Groovy Zilean"
+    ],
+    [
+        "Day Job",
+        "Heimerdinger",
+        "Hazmat Heimerdinger"
+    ],
+    [
+        "Day Job",
+        "Thresh",
+        "Janitor Thresh"
+    ],
+    [
+        "Day Job",
+        "Cho'Gath",
+        "Jurassic Cho'Gath"
+    ],
+    [
+        "Day Job",
+        "Kog'Maw",
+        "Jurassic Kog'Maw"
+    ],
+    [
+        "Day Job",
+        "Trundle",
+        "Lil' Slugger Trundle"
+    ],
+    [
+        "Day Job",
+        "Sion",
+        "Lumberjack Sion"
+    ],
+    [
+        "Day Job",
+        "Alistar",
+        "Matador Alistar"
+    ],
+    [
+        "Day Job",
+        "LeBlanc",
+        "Prestigious LeBlanc"
+    ],
+    [
+        "Day Job",
+        "Draven",
+        "Primetime Draven"
+    ],
+    [
+        "Day Job",
+        "Annie",
+        "Prom Queen Annie"
+    ],
+    [
+        "Day Job",
+        "Gangplank",
+        "Sailor Gangplank"
+    ],
+    [
+        "Day Job",
+        "Gragas",
+        "Scuba Gragas"
+    ],
+    [
+        "Dunkmaster",
+        "Darius",
+        "Dunkmaster Darius"
+    ],
+    [
+        "Dunkmaster",
+        "Ivern",
+        "Dunkmaster Ivern"
+    ],
+    [
+        "High Society",
+        "Nasus",
+        "Archduke Nasus"
+    ],
+    [
+        "High Society",
+        "Vayne",
+        "Aristocrat Vayne"
+    ],
+    [
+        "High Society",
+        "Cho'Gath",
+        "Gentleman Cho'Gath"
+    ],
+    [
+        "High Society",
+        "Gnar",
+        "Gentleman Gnar"
+    ],
+    [
+        "High Society",
+        "Vladimir",
+        "Marquis Vladimir"
+    ],
+    [
+        "High Society",
+        "Soraka",
+        "Order of the Banana Soraka"
+    ],
+    [
+        "High Society",
+        "Evelynn",
+        "Tango Evelynn"
+    ],
+    [
+        "High Society",
+        "Twisted Fate",
+        "Tango Twisted Fate"
+    ],
+    [
+        "Luchador",
+        "Gnar",
+        "El León Gnar"
+    ],
+    [
+        "Luchador",
+        "Dr. Mundo",
+        "El Macho Mundo"
+    ],
+    [
+        "Luchador",
+        "Volibear",
+        "El Rayo Volibear"
+    ],
+    [
+        "Luchador",
+        "Braum",
+        "El Tigre Braum"
+    ],
+    [
+        "Mad Scientists",
+        "Singed",
+        "Mad Scientist Singed"
+    ],
+    [
+        "Mad Scientists",
+        "Ziggs",
+        "Mad Scientist Ziggs"
+    ],
+    [
+        "Mad Scientists",
+        "Amumu",
+        "Sad Robot Amumu"
+    ],
+    [
+        "Mad Scientists",
+        "Zilean",
+        "Time Machine Zilean"
+    ],
+    [
+        "Rift Hospital",
+        "Kennen",
+        "Kennen M.D."
+    ],
+    [
+        "Rift Hospital",
+        "Akali",
+        "Nurse Akali"
+    ],
+    [
+        "Rift Hospital",
+        "Shen",
+        "Surgeon Shen"
+    ],
+    [
+        "Soccer Cup",
+        "Akali",
+        "All-star Akali"
+    ],
+    [
+        "Soccer Cup",
+        "Blitzcrank",
+        "Goalkeeper Blitzcrank"
+    ],
+    [
+        "Soccer Cup",
+        "Maokai",
+        "Goalkeeper Maokai"
+    ],
+    [
+        "Soccer Cup",
+        "Lee Sin",
+        "Playmaker Lee Sin"
+    ],
+    [
+        "Soccer Cup",
+        "Katarina",
+        "Red Card Katarina"
+    ],
+    [
+        "Soccer Cup",
+        "Twisted Fate",
+        "Red Card Twisted Fate"
+    ],
+    [
+        "Soccer Cup",
+        "Ezreal",
+        "Striker Ezreal"
+    ],
+    [
+        "Soccer Cup",
+        "Lucian",
+        "Striker Lucian"
+    ],
+    [
+        "Soccer Cup",
+        "Gragas",
+        "Superfan Gragas"
+    ],
+    [
+        "Soccer Cup",
+        "Alistar",
+        "Sweeper Alistar"
+    ],
+    [
+        "Soccer Cup",
+        "Rammus",
+        "Sweeper Rammus"
+    ],
+    [
+        "Surprise Party",
+        "Annie",
+        "Annie-Versary"
+    ],
+    [
+        "Surprise Party",
+        "Amumu",
+        "Surprise Party Amumu"
+    ],
+    [
+        "Surprise Party",
+        "Fiddlesticks",
+        "Surprise Party Fiddlesticks"
+    ],
+    [
+        "Urf the Manatee",
+        "Tahm Kench",
+        "Urf Kench"
+    ],
+    [
+        "Urf the Manatee",
+        "Warwick",
+        "Urf the Manatee"
+    ],
+    [
+        "Urf the Manatee",
+        "Nami",
+        "Urf the Nami-tee"
+    ],
+    [
+        "Urf the Manatee",
+        "Corki",
+        "Urfrider Corki"
+    ],
+    [
+        "Urf the Manatee",
+        "Warwick",
+        "Urfwick"
+    ],
+    [
+        "Ruined",
+        "Gangplank",
+        "Gangplank the Betrayer"
+    ],
+    [
+        "Ruined",
+        "Pantheon",
+        "Prestige Ascended Pantheon"
+    ],
+    [
+        "Ruined",
+        "Draven",
+        "Ruined Draven"
+    ],
+    [
+        "Ruined",
+        "Karma",
+        "Ruined Karma"
+    ],
+    [
+        "Ruined",
+        "Miss Fortune",
+        "Ruined Miss Fortune"
+    ],
+    [
+        "Ruined",
+        "Pantheon",
+        "Ruined Pantheon"
+    ],
+    [
+        "Ruined",
+        "Shyvana",
+        "Ruined Shyvana"
+    ],
+    [
+        "Ruined",
+        "Yasuo",
+        "Sea Dog Yasuo"
+    ],
+    [
+        "Ruined",
+        "Thresh",
+        "Unbound Thresh"
+    ],
+    [
+        "Sentinels of Light",
+        "Diana",
+        "Sentinel Diana"
+    ],
+    [
+        "Sentinels of Light",
+        "Graves",
+        "Sentinel Graves"
+    ],
+    [
+        "Sentinels of Light",
+        "Irelia",
+        "Sentinel Irelia"
+    ],
+    [
+        "Sentinels of Light",
+        "Olaf",
+        "Sentinel Olaf"
+    ],
+    [
+        "Sentinels of Light",
+        "Pyke",
+        "Sentinel Pyke"
+    ],
+    [
+        "Sentinels of Light",
+        "Rengar",
+        "Sentinel Rengar"
+    ],
+    [
+        "Sentinels of Light",
+        "Riven",
+        "Sentinel Riven"
+    ],
+    [
+        "Sentinels of Light",
+        "Vayne",
+        "Sentinel Vayne"
+    ],
+    [
+        "Thunder Lord",
+        "Ornn",
+        "Thunder Lord Ornn"
+    ],
+    [
+        "Thunder Lord",
+        "Volibear",
+        "Thunder Lord Volibear"
+    ],
+    [
+        "Toy Box",
+        "Ornn",
+        "Choo-Choo Ornn"
+    ],
+    [
+        "Toy Box",
+        "Gnar",
+        "Dino Gnar"
+    ],
+    [
+        "Toy Box",
+        "Nunu & Willump",
+        "Grungy Nunu & Willump"
+    ],
+    [
+        "Toy Box",
+        "Alistar",
+        "Moo Cow Alistar"
+    ],
+    [
+        "Toy Box",
+        "Kog'Maw",
+        "Pug'Maw"
+    ],
+    [
+        "Toy Box",
+        "Poppy",
+        "Ragdoll Poppy"
+    ],
+    [
+        "Toy Box",
+        "Renekton",
+        "Renektoy"
+    ],
+    [
+        "Toy Box",
+        "Orianna",
+        "Sewn Chaos Orianna"
+    ],
+    [
+        "Toy Box",
+        "Gangplank",
+        "Toy Soldier Gangplank"
+    ],
+    [
+        "Toy Box",
+        "Cho'Gath",
+        "Toy Terror Cho'Gath"
+    ],
+    [
+        "Triumphant",
+        "Ryze",
+        "Triumphant Ryze"
+    ],
+    [
+        "Battle of the God-Kings",
+        "Darius",
+        "Divine God-King Darius"
+    ],
+    [
+        "Battle of the God-Kings",
+        "Garen",
+        "Fallen God-King Garen"
+    ],
+    [
+        "Battle of the God-Kings",
+        "Darius",
+        "God-King Darius"
+    ],
+    [
+        "Battle of the God-Kings",
+        "Garen",
+        "God-King Garen"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Karma",
+        "Dawnbringer Karma"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Morgana",
+        "Dawnbringer Morgana"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Nidalee",
+        "Dawnbringer Nidalee"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Renekton",
+        "Dawnbringer Renekton"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Riven",
+        "Dawnbringer Riven"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Soraka",
+        "Dawnbringer Soraka"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Vayne",
+        "Dawnbringer Vayne"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Vex",
+        "Dawnbringer Vex"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Yone",
+        "Dawnbringer Yone"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Yasuo",
+        "Genesis Nightbringer Yasuo"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Aphelios",
+        "Nightbringer Aphelios"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Jarvan IV",
+        "Nightbringer Jarvan IV"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Kayn",
+        "Nightbringer Kayn"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Lee Sin",
+        "Nightbringer Lee Sin"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Lillia",
+        "Nightbringer Lillia"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Nasus",
+        "Nightbringer Nasus"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Soraka",
+        "Nightbringer Soraka"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Tryndamere",
+        "Nightbringer Tryndamere"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Vladimir",
+        "Nightbringer Vladimir"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Yasuo",
+        "Nightbringer Yasuo"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Kayn",
+        "Prestige Nightbringer Kayn"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Lee Sin",
+        "Prestige Nightbringer Lee Sin"
+    ],
+    [
+        "Nightbringer and Dawnbringer",
+        "Lee Sin",
+        "Prestige Nightbringer Lee Sin (2022)"
+    ],
+    [
+        "Victorious",
+        "Aatrox",
+        "Victorious Aatrox"
+    ],
+    [
+        "Victorious",
+        "Anivia",
+        "Victorious Anivia"
+    ],
+    [
+        "Victorious",
+        "Blitzcrank",
+        "Victorious Blitzcrank"
+    ],
+    [
+        "Victorious",
+        "Elise",
+        "Victorious Elise"
+    ],
+    [
+        "Victorious",
+        "Graves",
+        "Victorious Graves"
+    ],
+    [
+        "Victorious",
+        "Janna",
+        "Victorious Janna"
+    ],
+    [
+        "Victorious",
+        "Jarvan IV",
+        "Victorious Jarvan IV"
+    ],
+    [
+        "Victorious",
+        "Kog'Maw",
+        "Victorious Kog'Maw"
+    ],
+    [
+        "Victorious",
+        "Lucian",
+        "Victorious Lucian"
+    ],
+    [
+        "Victorious",
+        "Maokai",
+        "Victorious Maokai"
+    ],
+    [
+        "Victorious",
+        "Morgana",
+        "Victorious Morgana"
+    ],
+    [
+        "Victorious",
+        "Orianna",
+        "Victorious Orianna"
+    ],
+    [
+        "Victorious",
+        "Sejuani",
+        "Victorious Sejuani"
+    ],
+    [
+        "Victorious",
+        "Sivir",
+        "Victorious Sivir"
+    ],
+    [
+        "Victorious",
+        "Sona",
+        "Victorious Sona"
+    ],
+    [
+        "Victorious",
+        "Tryndamere",
+        "Victorious Tryndamere"
+    ],
+    [
+        "Commando",
+        "Galio",
+        "Commando Galio"
+    ],
+    [
+        "Commando",
+        "Garen",
+        "Commando Garen"
+    ],
+    [
+        "Commando",
+        "Jarvan IV",
+        "Commando Jarvan IV"
+    ],
+    [
+        "Commando",
+        "Lux",
+        "Commando Lux"
+    ],
+    [
+        "Commando",
+        "Xin Zhao",
+        "Commando Xin Zhao"
+    ],
+    [
+        "Commando",
+        "Tristana",
+        "Guerilla Tristana"
+    ],
+    [
+        "Commando",
+        "Gangplank",
+        "Special Forces Gangplank"
+    ],
+    [
+        "Omega Squad",
+        "Fizz",
+        "Omega Squad Fizz"
+    ],
+    [
+        "Omega Squad",
+        "Teemo",
+        "Omega Squad Teemo"
+    ],
+    [
+        "Omega Squad",
+        "Tristana",
+        "Omega Squad Tristana"
+    ],
+    [
+        "Omega Squad",
+        "Twitch",
+        "Omega Squad Twitch"
+    ],
+    [
+        "Omega Squad",
+        "Veigar",
+        "Omega Squad Veigar"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Riven",
+        "Dragonblade Riven"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Talon",
+        "Dragonblade Talon"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Azir",
+        "Warring Kingdoms Azir"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Garen",
+        "Warring Kingdoms Garen"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Jarvan IV",
+        "Warring Kingdoms Jarvan IV"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Katarina",
+        "Warring Kingdoms Katarina"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Nidalee",
+        "Warring Kingdoms Nidalee"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Tryndamere",
+        "Warring Kingdoms Tryndamere"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Vi",
+        "Warring Kingdoms Vi"
+    ],
+    [
+        "Lunar Revel: Warring Kingdoms",
+        "Xin Zhao",
+        "Warring Kingdoms Xin Zhao"
+    ],
+    [
+        "Faerie Court",
+        "Ezreal",
+        "Faerie Court Ezreal"
+    ],
+    [
+        "Faerie Court",
+        "Fiora",
+        "Faerie Court Fiora"
+    ],
+    [
+        "Faerie Court",
+        "Kalista",
+        "Faerie Court Kalista"
+    ],
+    [
+        "Faerie Court",
+        "Katarina",
+        "Faerie Court Katarina"
+    ],
+    [
+        "Faerie Court",
+        "Lillia",
+        "Faerie Court Lillia"
+    ],
+    [
+        "Faerie Court",
+        "Lux",
+        "Faerie Court Lux"
+    ],
+    [
+        "Faerie Court",
+        "Milio",
+        "Faerie Court Milio"
+    ],
+    [
+        "Faerie Court",
+        "Seraphine",
+        "Faerie Court Seraphine"
+    ],
+    [
+        "Faerie Court",
+        "Soraka",
+        "Faerie Court Soraka"
+    ],
+    [
+        "Faerie Court",
+        "Tristana",
+        "Faerie Court Tristana"
+    ],
+    [
+        "Faerie Court",
+        "Karma",
+        "Faerie Queen Karma"
+    ],
+    [
+        "Faerie Court",
+        "Katarina",
+        "Prestige Faerie Court Katarina"
+    ],
+    [
+        "Winter Sports",
+        "Veigar",
+        "Curling Veigar"
+    ],
+    [
+        "Winter Sports",
+        "Kassadin",
+        "Festival Kassadin"
+    ],
+    [
+        "Winter Sports",
+        "Corki",
+        "Ice Toboggan Corki"
+    ],
+    [
+        "Winter Sports",
+        "Anivia",
+        "Team Spirit Anivia"
+    ],
+    [
+        "Winter Sports",
+        "Jax",
+        "The Mighty Jax"
+    ],
+    [
+        "Winter Sports",
+        "Fiddlesticks",
+        "Union Jack Fiddlesticks"
+    ],
+    [
+        "Winter Sports",
+        "Amumu",
+        "Vancouver Amumu"
+    ],
+    [
+        "Winter Sports",
+        "Twitch",
+        "Whistler Village Twitch"
+    ],
+    [
+        "Woad",
+        "Kayle",
+        "Battleborn Kayle"
+    ],
+    [
+        "Woad",
+        "Morgana",
+        "Exiled Morgana"
+    ],
+    [
+        "Woad",
+        "Ashe",
+        "Woad Ashe"
+    ],
+    [
+        "Woad",
+        "Darius",
+        "Woad King Darius"
+    ],
+    [
+        "Woad",
+        "Quinn",
+        "Woad Scout Quinn"
+    ],
+    [
+        "Wonders of the World",
+        "Sejuani",
+        "Bear Cavalry Sejuani"
+    ],
+    [
+        "Wonders of the World",
+        "Anivia",
+        "Bird of Prey Anivia"
+    ],
+    [
+        "Wonders of the World",
+        "Ahri",
+        "Dynasty Ahri"
+    ],
+    [
+        "Wonders of the World",
+        "Anivia",
+        "Festival Queen Anivia"
+    ],
+    [
+        "Wonders of the World",
+        "Pantheon",
+        "Glaive Warrior Pantheon"
+    ],
+    [
+        "Wonders of the World",
+        "Shaco",
+        "Masked Shaco"
+    ],
+    [
+        "Wonders of the World",
+        "Lee Sin",
+        "Muay Thai Lee Sin"
+    ],
+    [
+        "Wonders of the World",
+        "Pantheon",
+        "Myrmidon Pantheon"
+    ],
+    [
+        "Wonders of the World",
+        "Gragas",
+        "Oktoberfest Gragas"
+    ],
+    [
+        "Wonders of the World",
+        "Renekton",
+        "Outback Renekton"
+    ],
+    [
+        "Wonders of the World",
+        "Teemo",
+        "Panda Teemo"
+    ],
+    [
+        "Wonders of the World",
+        "Malphite",
+        "Shamrock Malphite"
+    ],
+    [
+        "Wonders of the World",
+        "Karthus",
+        "Statue of Karthus"
+    ],
+    [
+        "Wonders of the World",
+        "Gangplank",
+        "Sultan Gangplank"
+    ],
+    [
+        "Wonders of the World",
+        "Tryndamere",
+        "Sultan Tryndamere"
+    ],
+    [
+        "Wonders of the World",
+        "Ryze",
+        "Uncle Ryze"
+    ],
+    [
+        "Wonders of the World",
+        "Tryndamere",
+        "Viking Tryndamere"
+    ],
+    [
+        "Wonders of the World",
+        "Malzahar",
+        "Vizier Malzahar"
+    ],
+    [
+        "Wonders of the World",
+        "Xin Zhao",
+        "Winged Hussar Xin Zhao"
+    ],
+    [
+        "Worldbreaker",
+        "Brand",
+        "Spirit Fire Brand"
+    ],
+    [
+        "Worldbreaker",
+        "Karma",
+        "Sun Goddess Karma"
+    ],
+    [
+        "Worldbreaker",
+        "Hecarim",
+        "Worldbreaker Hecarim"
+    ],
+    [
+        "Worldbreaker",
+        "Malzahar",
+        "Worldbreaker Malzahar"
+    ],
+    [
+        "Worldbreaker",
+        "Maokai",
+        "Worldbreaker Maokai"
+    ],
+    [
+        "Worldbreaker",
+        "Nasus",
+        "Worldbreaker Nasus"
+    ],
+    [
+        "Worldbreaker",
+        "Nautilus",
+        "Worldbreaker Nautilus"
+    ],
+    [
+        "Worldbreaker",
+        "Sion",
+        "Worldbreaker Sion"
+    ],
+    [
+        "Worldbreaker",
+        "Trundle",
+        "Worldbreaker Trundle"
+    ],
+    [
+        "Albion",
+        "Morgana",
+        "Blackthorn Morgana"
+    ],
+    [
+        "Albion",
+        "Ezreal",
+        "Nottingham Ezreal"
+    ],
+    [
+        "Albion",
+        "Ashe",
+        "Sherwood Forest Ashe"
+    ],
+    [
+        "Albion",
+        "Kayle",
+        "Viridian Kayle"
+    ],
+    [
+        "Medieval",
+        "Poppy",
+        "Blacksmith Poppy"
+    ],
+    [
+        "Medieval",
+        "Tryndamere",
+        "King Tryndamere"
+    ],
+    [
+        "Medieval",
+        "Amumu",
+        "Little Knight Amumu"
+    ],
+    [
+        "Medieval",
+        "Twitch",
+        "Medieval Twitch"
+    ],
+    [
+        "Medieval",
+        "Ashe",
+        "Queen Ashe"
+    ],
+    [
+        "Medieval",
+        "Kled",
+        "Sir Kled"
+    ],
+    [
+        "Medieval",
+        "Lux",
+        "Sorceress Lux"
+    ],
+    [
+        "Medieval",
+        "Veigar",
+        "White Mage Veigar"
+    ],
+    [
+        "Zombies VS Slayers",
+        "Brand",
+        "Zombie Brand"
+    ],
+    [
+        "Zombies VS Slayers",
+        "Nunu & Willump",
+        "Zombie Nunu & Willump"
+    ],
+    [
+        "Zombies VS Slayers",
+        "Ryze",
+        "Zombie Ryze"
+    ],
+    [
+        "Zombies VS Slayers",
+        "Jinx",
+        "Zombie Slayer Jinx"
+    ],
+    [
+        "Zombies VS Slayers",
+        "Pantheon",
+        "Zombie Slayer Pantheon"
+    ],
+    [
+        "Heartthrobs and Heartaches",
+        "Amumu",
+        "Heartache Amumu"
+    ],
+    [
+        "Heartthrobs and Heartaches",
+        "Vi",
+        "Heartache Vi"
+    ],
+    [
+        "Heartthrobs and Heartaches",
+        "Caitlyn",
+        "Heartthrob Caitlyn"
+    ],
+    [
+        "Fist Bumps and Festivities",
+        "Sivir",
+        "Ann-Sivir-sary"
+    ],
+    [
+        "Food Fight",
+        "Twitch",
+        "Cheddar Chief Twitch"
+    ],
+    [
+        "Food Fight",
+        "Rammus",
+        "Durian Defender Rammus"
+    ],
+    [
+        "Food Fight",
+        "Zac",
+        "Zesty Dip Zac"
+    ],
+    [
+        "Rain Shepherd",
+        "Fizz",
+        "Rain Shepherd Fizz"
+    ],
+    [
+        "Rain Shepherd",
+        "Milio",
+        "Rain Shepherd Milio"
+    ],
+    [
+        "Risen Legends",
+        "Ahri",
+        "Immortalized Legend Ahri"
+    ],
+    [
+        "Risen Legends",
+        "Ahri",
+        "Risen Legend Ahri"
+    ],
+    [
+        "Risen Legends",
+        "LeBlanc",
+        "Risen Legend LeBlanc"
+    ],
+    [
+        "Superfans",
+        "Neeko",
+        "Cosplayer Neeko"
+    ],
+    [
+        "Superfans",
+        "Trundle",
+        "Esports Fan Trundle"
+    ],
+    [
+        "Superfans",
+        "Gragas",
+        "Music Fan Gragas"
+    ],
+    [
+        "N/A",
+        "Skarner",
+        "Earthrune Skarner"
+    ],
+    [
+        "N/A",
+        "Akali",
+        "Stinger Akali"
+    ]
+]

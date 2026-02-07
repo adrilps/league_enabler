@@ -1,0 +1,7258 @@
+{
+    "Ahri": [
+        [
+            "Academy Ahri",
+            "Academy"
+        ],
+        [
+            "Arcade Ahri",
+            "Arcade"
+        ],
+        [
+            "Arcana Ahri",
+            "Arcana"
+        ],
+        [
+            "Coven Ahri",
+            "Eclipse"
+        ],
+        [
+            "Elderwood Ahri",
+            "Eclipse"
+        ],
+        [
+            "Challenger Ahri",
+            "Esports"
+        ],
+        [
+            "Foxfire Ahri",
+            "Infernal"
+        ],
+        [
+            "Midnight Ahri",
+            "Legacy"
+        ],
+        [
+            "Snow Moon Ahri",
+            "Moons of Ionia"
+        ],
+        [
+            "K/DA Ahri",
+            "Riot Records"
+        ],
+        [
+            "K/DA ALL OUT Ahri",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Ahri",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Ahri (2022)",
+            "Riot Records"
+        ],
+        [
+            "Popstar Ahri",
+            "Riot Records"
+        ],
+        [
+            "Spirit Blossom Ahri",
+            "Spirit Blossom"
+        ],
+        [
+            "Star Guardian Ahri",
+            "Star Guardian"
+        ],
+        [
+            "Dynasty Ahri",
+            "Wonders of the World"
+        ],
+        [
+            "Immortalized Legend Ahri",
+            "N/A"
+        ],
+        [
+            "Risen Legend Ahri",
+            "N/A"
+        ]
+    ],
+    "Darius": [
+        [
+            "Academy Darius",
+            "Academy"
+        ],
+        [
+            "Crime City Nightmare Darius",
+            "Crime City Nightmare"
+        ],
+        [
+            "High Noon Darius",
+            "High Noon Gothic"
+        ],
+        [
+            "Dreadnova Darius",
+            "Iron Firmament"
+        ],
+        [
+            "Lunar Beast Darius",
+            "Lunar New Year"
+        ],
+        [
+            "Porcelain Darius",
+            "Lunar New Year"
+        ],
+        [
+            "Lord Darius",
+            "Riftquest"
+        ],
+        [
+            "Bioforge Darius",
+            "Silver Age"
+        ],
+        [
+            "Spirit Blossom Darius",
+            "Spirit Blossom"
+        ],
+        [
+            "Dunkmaster Darius",
+            "The Grind"
+        ],
+        [
+            "Divine God-King Darius",
+            "Versus"
+        ],
+        [
+            "God-King Darius",
+            "Versus"
+        ],
+        [
+            "Woad King Darius",
+            "Woad Tribe"
+        ]
+    ],
+    "Ekko": [
+        [
+            "Academy Ekko",
+            "Academy"
+        ],
+        [
+            "Firelight Ekko",
+            "Arcane"
+        ],
+        [
+            "SKT T1 Ekko",
+            "Esports"
+        ],
+        [
+            "Sandstorm Ekko",
+            "Guardian of the Sands"
+        ],
+        [
+            "PROJECT: Ekko",
+            "PROJECT"
+        ],
+        [
+            "Pulsefire Ekko",
+            "Pulsefire"
+        ],
+        [
+            "Breakout True Damage Ekko",
+            "Riot Records"
+        ],
+        [
+            "True Damage Ekko",
+            "Riot Records"
+        ],
+        [
+            "Prestige Star Guardian Ekko",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Ekko",
+            "Star Guardian"
+        ],
+        [
+            "Trick or Treat Ekko",
+            "Tales from the Rift"
+        ]
+    ],
+    "Vladimir": [
+        [
+            "Academy Vladimir",
+            "Academy"
+        ],
+        [
+            "Blood Lord Vladimir",
+            "Bloodstone"
+        ],
+        [
+            "Cafe Cuties Vladimir",
+            "Cafe Cuties"
+        ],
+        [
+            "Dark Waters Vladimir",
+            "Dark Waters"
+        ],
+        [
+            "Cosmic Devourer Vladimir",
+            "Event Horizon"
+        ],
+        [
+            "Broken Covenant Vladimir",
+            "Forsaken Hymn"
+        ],
+        [
+            "Vandal Vladimir",
+            "Highway Heretics"
+        ],
+        [
+            "Soulstealer Vladimir",
+            "Soulstealer"
+        ],
+        [
+            "Count Vladimir",
+            "Storybook"
+        ],
+        [
+            "Nosferatu Vladimir",
+            "Tales from the Rift"
+        ],
+        [
+            "Marquis Vladimir",
+            "The Grind"
+        ],
+        [
+            "Nightbringer Vladimir",
+            "Versus"
+        ]
+    ],
+    "Fiora": [
+        [
+            "Headmistress Fiora",
+            "Academy"
+        ],
+        [
+            "Battle Queen Fiora",
+            "Battle Queens"
+        ],
+        [
+            "Heartpiercer Fiora",
+            "Be Mine"
+        ],
+        [
+            "Nightraven Fiora",
+            "Bloodstone"
+        ],
+        [
+            "iG Fiora",
+            "Esports"
+        ],
+        [
+            "Royal Guard Fiora",
+            "Fables"
+        ],
+        [
+            "Dragonmancer Fiora",
+            "Four Beasts"
+        ],
+        [
+            "Soaring Sword Fiora",
+            "Immortal Journey"
+        ],
+        [
+            "Lunar Beast Fiora",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Lunar Beast Fiora",
+            "Lunar New Year"
+        ],
+        [
+            "PROJECT: Fiora",
+            "PROJECT"
+        ],
+        [
+            "Pulsefire Fiora",
+            "Pulsefire"
+        ],
+        [
+            "Pool Party Fiora",
+            "Sunkissed Summer"
+        ],
+        [
+            "Bewitching Fiora",
+            "Tales from the Rift"
+        ],
+        [
+            "Faerie Court Fiora",
+            "Winged Reign"
+        ]
+    ],
+    "Ryze": [
+        [
+            "Professor Ryze",
+            "Academy"
+        ],
+        [
+            "Pirate Ryze",
+            "Ages of Runeterra"
+        ],
+        [
+            "Arcana Ryze",
+            "Arcana"
+        ],
+        [
+            "Dark Crystal Ryze",
+            "Bloodstone"
+        ],
+        [
+            "Young Ryze",
+            "Collector Edition"
+        ],
+        [
+            "SKT T1 Ryze",
+            "Esports"
+        ],
+        [
+            "Worlds 2019 Ryze",
+            "Esports"
+        ],
+        [
+            "Guardian of the Sands Ryze",
+            "Guardian of the Sands"
+        ],
+        [
+            "Tribal Ryze",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Ryze Whitebeard",
+            "Riftquest"
+        ],
+        [
+            "Triumphant Ryze",
+            "Triumphant"
+        ],
+        [
+            "Uncle Ryze",
+            "Wonders of the World"
+        ],
+        [
+            "Zombie Ryze",
+            "Zombie VS Slayers"
+        ]
+    ],
+    "Rumble": [
+        [
+            "Bilgerat Rumble",
+            "Ages of Runeterra"
+        ],
+        [
+            "Cafe Cuties Rumble",
+            "Cafe Cuties"
+        ],
+        [
+            "Badlands Baron Rumble",
+            "Highway Heretics"
+        ],
+        [
+            "Rumble in the Jungle",
+            "Legacy"
+        ],
+        [
+            "Space Groove Rumble",
+            "Space Groove"
+        ],
+        [
+            "Super Galaxy Rumble",
+            "Super Galaxy"
+        ]
+    ],
+    "Katarina": [
+        [
+            "Bilgewater Katarina",
+            "Ages of Runeterra"
+        ],
+        [
+            "High Command Katarina",
+            "Ages of Runeterra"
+        ],
+        [
+            "Battle Queen Katarina",
+            "Battle Queens"
+        ],
+        [
+            "Death Sworn Katarina",
+            "Death Sworn"
+        ],
+        [
+            "Battle Academia Katarina",
+            "God Weapon"
+        ],
+        [
+            "Sandstorm Katarina",
+            "Guardian of the Sands"
+        ],
+        [
+            "High Noon Katarina",
+            "High Noon Gothic"
+        ],
+        [
+            "Mercenary Katarina",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Katarina",
+            "Moons of Ionia"
+        ],
+        [
+            "PROJECT: Katarina",
+            "PROJECT"
+        ],
+        [
+            "Slay Belle Katarina",
+            "Snowdown"
+        ],
+        [
+            "Kitty Cat Katarina",
+            "Tales from the Rift"
+        ],
+        [
+            "Red Card Katarina",
+            "The Grind"
+        ],
+        [
+            "Warring Kingdoms Katarina",
+            "Warring Kingdoms"
+        ],
+        [
+            "Faerie Court Katarina",
+            "Winged Reign"
+        ],
+        [
+            "Prestige Faerie Court Katarina",
+            "Winged Reign"
+        ]
+    ],
+    "Swain": [
+        [
+            "Bilgewater Swain",
+            "Ages of Runeterra"
+        ],
+        [
+            "Tyrant Swain",
+            "Ages of Runeterra"
+        ],
+        [
+            "Crystal Rose Swain",
+            "Crystal Rose"
+        ],
+        [
+            "Dragon Master Swain",
+            "Dragon World"
+        ],
+        [
+            "Hextech Swain",
+            "Hextech"
+        ],
+        [
+            "Northern Front Swain",
+            "PsyOps"
+        ],
+        [
+            "Winterblessed Swain",
+            "Tales of Borealis"
+        ]
+    ],
+    "Tristana": [
+        [
+            "Buccaneer Tristana",
+            "Ages of Runeterra"
+        ],
+        [
+            "Pengu Cosplay Tristana",
+            "Definitely Not"
+        ],
+        [
+            "Little Demon Tristana",
+            "Demonic"
+        ],
+        [
+            "Dragon Trainer Tristana",
+            "Dragon World"
+        ],
+        [
+            "Hextech Tristana",
+            "Hextech"
+        ],
+        [
+            "Firecracker Tristana",
+            "Lunar New Year"
+        ],
+        [
+            "Rocket Girl Tristana",
+            "Silver Age"
+        ],
+        [
+            "Earnest Elf Tristana",
+            "Snowdown"
+        ],
+        [
+            "Spirit Blossom Tristana",
+            "Spirit Blossom"
+        ],
+        [
+            "Bewitching Tristana",
+            "Tales from the Rift"
+        ],
+        [
+            "Riot Girl Tristana",
+            "The Badge"
+        ],
+        [
+            "Firefighter Tristana",
+            "The Grind"
+        ],
+        [
+            "Guerilla Tristana",
+            "War is Heck"
+        ],
+        [
+            "Omega Squad Tristana",
+            "War is Heck"
+        ],
+        [
+            "Faerie Court Tristana",
+            "Winged Reign"
+        ]
+    ],
+    "Gangplank": [
+        [
+            "Captain Gangplank",
+            "Ages of Runeterra"
+        ],
+        [
+            "FPX Gangplank",
+            "Esports"
+        ],
+        [
+            "Dreadnova Gangplank",
+            "Iron Firmament"
+        ],
+        [
+            "Minuteman Gangplank",
+            "Legacy"
+        ],
+        [
+            "PROJECT: Gangplank",
+            "PROJECT"
+        ],
+        [
+            "Pool Party Gangplank",
+            "Sunkissed Summer"
+        ],
+        [
+            "Spooky Gangplank",
+            "Tales from the Rift"
+        ],
+        [
+            "Sailor Gangplank",
+            "The Grind"
+        ],
+        [
+            "Gangplank the Betrayer",
+            "The Ruined King Saga"
+        ],
+        [
+            "Toy Soldier Gangplank",
+            "Toy Box"
+        ],
+        [
+            "Special Forces Gangplank",
+            "War is Heck"
+        ],
+        [
+            "Sultan Gangplank",
+            "Wonders of the World"
+        ]
+    ],
+    "Miss Fortune": [
+        [
+            "Captain Fortune",
+            "Ages of Runeterra"
+        ],
+        [
+            "Admiral Battle Bunny Miss Fortune",
+            "AnimaTech"
+        ],
+        [
+            "Battle Bunny Miss Fortune",
+            "AnimaTech"
+        ],
+        [
+            "Arcade Miss Fortune",
+            "Arcade"
+        ],
+        [
+            "Battle Queen Miss Fortune",
+            "Battle Queens"
+        ],
+        [
+            "Crime City Miss Fortune",
+            "Crime City Nightmare"
+        ],
+        [
+            "Broken Covenant Miss Fortune",
+            "Forsaken Hymn"
+        ],
+        [
+            "Prestige Broken Covenant Miss Fortune",
+            "Forsaken Hymn"
+        ],
+        [
+            "Cowgirl Miss Fortune",
+            "High Noon Gothic"
+        ],
+        [
+            "Road Warrior Miss Fortune",
+            "Highway Heretics"
+        ],
+        [
+            "Gun Goddess Miss Fortune",
+            "Iron Firmament"
+        ],
+        [
+            "Waterloo Miss Fortune",
+            "Legacy"
+        ],
+        [
+            "Porcelain Miss Fortune",
+            "Lunar New Year"
+        ],
+        [
+            "Candy Cane Miss Fortune",
+            "Snowdown"
+        ],
+        [
+            "Pajama Guardian Miss Fortune",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Miss Fortune",
+            "Star Guardian"
+        ],
+        [
+            "Pool Party Miss Fortune",
+            "Sunkissed Summer"
+        ],
+        [
+            "Bewitching Miss Fortune",
+            "Tales from the Rift"
+        ],
+        [
+            "Prestige Bewitching Miss Fortune",
+            "Tales from the Rift"
+        ],
+        [
+            "Prestige Bewitching Miss Fortune (2022)",
+            "Tales from the Rift"
+        ],
+        [
+            "Secret Agent Miss Fortune",
+            "The Grind"
+        ],
+        [
+            "Ruined Miss Fortune",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Quinn": [
+        [
+            "Corsair Quinn",
+            "Ages of Runeterra"
+        ],
+        [
+            "Heartseeker Quinn",
+            "Be Mine"
+        ],
+        [
+            "Warden Quinn",
+            "Institute of War"
+        ],
+        [
+            "Phoenix Quinn",
+            "Silver Age"
+        ],
+        [
+            "Star Guardian Quinn",
+            "Star Guardian"
+        ],
+        [
+            "Woad Scout Quinn",
+            "Woad Tribe"
+        ]
+    ],
+    "Twisted Fate": [
+        [
+            "Cutpurse Twisted Fate",
+            "Ages of Runeterra"
+        ],
+        [
+            "Crime City Nightmare Twisted Fate",
+            "Crime City Nightmare"
+        ],
+        [
+            "DWG Twisted Fate",
+            "Esports"
+        ],
+        [
+            "Musketeer Twisted Fate",
+            "Fables"
+        ],
+        [
+            "High Noon Twisted Fate",
+            "High Noon Gothic"
+        ],
+        [
+            "The Magnificent Twisted Fate",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Twisted Fate",
+            "Moons of Ionia"
+        ],
+        [
+            "Odyssey Twisted Fate",
+            "Odyssey"
+        ],
+        [
+            "PAX Twisted Fate",
+            "PAX"
+        ],
+        [
+            "Pulsefire Twisted Fate",
+            "Pulsefire"
+        ],
+        [
+            "Space Groove Twisted Fate",
+            "Space Groove"
+        ],
+        [
+            "Jack of Hearts Twisted Fate",
+            "Storybook"
+        ],
+        [
+            "Underworld Twisted Fate",
+            "Tales from the Rift"
+        ],
+        [
+            "Tango Twisted Fate",
+            "The Grind"
+        ],
+        [
+            "Red Card Twisted Fate",
+            "The Grind"
+        ]
+    ],
+    "Graves": [
+        [
+            "Cutthroat Graves",
+            "Ages of Runeterra"
+        ],
+        [
+            "Crime City Graves",
+            "Crime City Nightmare"
+        ],
+        [
+            "EDG Graves",
+            "Esports"
+        ],
+        [
+            "Battle Professor Graves",
+            "God Weapon"
+        ],
+        [
+            "Hired Gun Graves",
+            "Highway Heretics"
+        ],
+        [
+            "Jailbreak Graves",
+            "Legacy"
+        ],
+        [
+            "Porcelain Graves",
+            "Lunar New Year"
+        ],
+        [
+            "Praetorian Graves",
+            "Pulsefire"
+        ],
+        [
+            "Snow Day Graves",
+            "Snowdown"
+        ],
+        [
+            "Pool Party Graves",
+            "Sunkissed Summer"
+        ],
+        [
+            "Riot Graves",
+            "The Badge"
+        ],
+        [
+            "Sentinel Graves",
+            "The Ruined King Saga"
+        ],
+        [
+            "Victorious Graves",
+            "Victorious"
+        ]
+    ],
+    "Fiddlesticks": [
+        [
+            "Fiddle Me Timbers",
+            "Ages of Runeterra"
+        ],
+        [
+            "Spectral Fiddlesticks",
+            "Eclipse"
+        ],
+        [
+            "Risen Fiddlesticks",
+            "Guardian of the Sands"
+        ],
+        [
+            "Bandito Fiddlesticks",
+            "High Noon Gothic"
+        ],
+        [
+            "Blood Moon Fiddlesticks",
+            "Moons of Ionia"
+        ],
+        [
+            "Praetorian Fiddlesticks",
+            "Pulsefire"
+        ],
+        [
+            "Star Nemesis Fiddlesticks",
+            "Star Guardian"
+        ],
+        [
+            "Dark Candy Fiddlesticks",
+            "Sugar Rush"
+        ],
+        [
+            "Pumpkinhead Fiddlesticks",
+            "Tales from the Rift"
+        ],
+        [
+            "Surprise Party Fiddlesticks",
+            "The Grind"
+        ],
+        [
+            "Union Jack Fiddlesticks",
+            "Winter Sports"
+        ]
+    ],
+    "Malphite": [
+        [
+            "Ironside Malphite",
+            "Ages of Runeterra"
+        ],
+        [
+            "Old God Malphite",
+            "Eclipse"
+        ],
+        [
+            "Old God Malphite",
+            "Eclipse"
+        ],
+        [
+            "FPX Malphite",
+            "Esports"
+        ],
+        [
+            "Dark Star Malphite",
+            "Event Horizon"
+        ],
+        [
+            "Prestige Dark Star Malphite",
+            "Event Horizon"
+        ],
+        [
+            "Coral Reef Malphite",
+            "Forgotten Depths"
+        ],
+        [
+            "Glacial Malphite",
+            "Glacial"
+        ],
+        [
+            "Obsidian Malphite",
+            "Infernal"
+        ],
+        [
+            "Marble Malphite",
+            "Legacy"
+        ],
+        [
+            "Lunar Guardian Malphite",
+            "Lunar New Year"
+        ],
+        [
+            "Mecha Malphite",
+            "Mecha"
+        ],
+        [
+            "Odyssey Malphite",
+            "Odyssey"
+        ],
+        [
+            "Shamrock Malphite",
+            "Wonders of the World"
+        ]
+    ],
+    "Twitch": [
+        [
+            "Kingpin Twitch",
+            "Ages of Runeterra"
+        ],
+        [
+            "Crime City Twitch",
+            "Crime City Nightmare"
+        ],
+        [
+            "Dragonslayer Twitch",
+            "Dragon World"
+        ],
+        [
+            "SSW Twitch",
+            "Esports"
+        ],
+        [
+            "High Noon Twitch",
+            "High Noon Gothic"
+        ],
+        [
+            "Vandal Twitch",
+            "Highway Heretics"
+        ],
+        [
+            "Twitch Shadowfoot",
+            "Riftquest"
+        ],
+        [
+            "Ice King Twitch",
+            "Snowdown"
+        ],
+        [
+            "Pickpocket Twitch",
+            "The Grind"
+        ],
+        [
+            "Omega Squad Twitch",
+            "War is Heck"
+        ],
+        [
+            "Whistler Village Twitch",
+            "Winter Sports"
+        ],
+        [
+            "Medieval Twitch",
+            "Ye Olde"
+        ],
+        [
+            "Cheddar Chief Twitch",
+            "N/A"
+        ]
+    ],
+    "Garen": [
+        [
+            "Rogue Admiral Garen",
+            "Ages of Runeterra"
+        ],
+        [
+            "Demacia Vice Garen",
+            "Arcade"
+        ],
+        [
+            "Dreadknight Garen",
+            "Dreadknights"
+        ],
+        [
+            "Battle Academia Garen",
+            "God Weapon"
+        ],
+        [
+            "Steel Legion Garen",
+            "Iron Firmament"
+        ],
+        [
+            "Desert Trooper Garen",
+            "Legacy"
+        ],
+        [
+            "Sanguine Garen",
+            "Legacy"
+        ],
+        [
+            "Mecha Kingdoms Garen",
+            "Mecha Kingdoms"
+        ],
+        [
+            "Prestige Mecha Kingdoms Garen",
+            "Mecha Kingdoms"
+        ],
+        [
+            "Rugged Garen",
+            "Riftquest"
+        ],
+        [
+            "Mythmaker Garen",
+            "Storycraft"
+        ],
+        [
+            "Fallen God-King Garen",
+            "Versus"
+        ],
+        [
+            "God-King Garen",
+            "Versus"
+        ],
+        [
+            "Commando Garen",
+            "War is Heck"
+        ],
+        [
+            "Warring Kingdoms Garen",
+            "Warring Kingdoms"
+        ]
+    ],
+    "Aatrox": [
+        [
+            "Sea Hunter Aatrox",
+            "Ages of Runeterra"
+        ],
+        [
+            "Primordian Aatrox",
+            "AnimaTech"
+        ],
+        [
+            "Justicar Aatrox",
+            "Arclight"
+        ],
+        [
+            "Lunar Eclipse Aatrox",
+            "Eclipse"
+        ],
+        [
+            "DRX Aatrox",
+            "Esports"
+        ],
+        [
+            "Prestige DRX Aatrox",
+            "Esports"
+        ],
+        [
+            "Mecha Aatrox",
+            "Mecha"
+        ],
+        [
+            "Blood Moon Aatrox",
+            "Moons of Ionia"
+        ],
+        [
+            "Prestige Blood Moon Aatrox",
+            "Moons of Ionia"
+        ],
+        [
+            "Prestige Blood Moon Aatrox (2022)",
+            "Moons of Ionia"
+        ],
+        [
+            "Odyssey Aatrox",
+            "Odyssey"
+        ],
+        [
+            "Victorious Aatrox",
+            "Victorious"
+        ]
+    ],
+    "Zilean": [
+        [
+            "Shurima Desert Zilean",
+            "Ages of Runeterra"
+        ],
+        [
+            "Blood Moon Zilean",
+            "Moons of Ionia"
+        ],
+        [
+            "Old Saint Zilean",
+            "Snowdown"
+        ],
+        [
+            "Sugar Rush Zilean",
+            "Sugar Rush"
+        ],
+        [
+            "Winterblessed Zilean",
+            "Tales of Borealis"
+        ],
+        [
+            "Groovy Zilean",
+            "The Grind"
+        ],
+        [
+            "Time Machine Zilean",
+            "The Grind"
+        ]
+    ],
+    "Alistar": [
+        [
+            "Unchained Alistar",
+            "Ages of Runeterra"
+        ],
+        [
+            "Blackfrost Alistar",
+            "Blackfrost"
+        ],
+        [
+            "Black Alistar",
+            "Collector Edition"
+        ],
+        [
+            "Conqueror Alistar",
+            "Esports"
+        ],
+        [
+            "SKT T1 Alistar",
+            "Esports"
+        ],
+        [
+            "Hextech Alistar",
+            "Hextech"
+        ],
+        [
+            "Longhorn Alistar",
+            "High Noon Gothic"
+        ],
+        [
+            "Infernal Alistar",
+            "Infernal"
+        ],
+        [
+            "Marauder Alistar",
+            "Institute of War"
+        ],
+        [
+            "Golden Alistar",
+            "Legacy"
+        ],
+        [
+            "Lunar Beast Alistar",
+            "Lunar New Year"
+        ],
+        [
+            "Matador Alistar",
+            "The Grind"
+        ],
+        [
+            "Sweeper Alistar",
+            "The Grind"
+        ],
+        [
+            "Moo Cow Alistar",
+            "Toy Box"
+        ]
+    ],
+    "Xin Zhao": [
+        [
+            "Viscero Xin Zhao",
+            "Ages of Runeterra"
+        ],
+        [
+            "Dragonslayer Xin Zhao",
+            "Dragon World"
+        ],
+        [
+            "Cosmic Defender Xin Zhao",
+            "Event Horizon"
+        ],
+        [
+            "Marauder Xin Zhao",
+            "Institute of War"
+        ],
+        [
+            "Imperial Xin Zhao",
+            "Legacy"
+        ],
+        [
+            "Firecracker Xin Zhao",
+            "Lunar New Year"
+        ],
+        [
+            "Secret Agent Xin Zhao",
+            "The Grind"
+        ],
+        [
+            "Commando Xin Zhao",
+            "War is Heck"
+        ],
+        [
+            "Warring Kingdoms Xin Zhao",
+            "Warring Kingdoms"
+        ],
+        [
+            "Winged Hussar Xin Zhao",
+            "Wonders of the World"
+        ]
+    ],
+    "Kassadin": [
+        [
+            "Pre-Void Kassadin",
+            "Ages of Runeterra"
+        ],
+        [
+            "Shockblade Kassadin",
+            "Cloudedge"
+        ],
+        [
+            "Cosmic Reaver Kassadin",
+            "Event Horizon"
+        ],
+        [
+            "Deep One Kassadin",
+            "Forgotten Depths"
+        ],
+        [
+            "Dragonmancer Kassadin",
+            "Four Beasts"
+        ],
+        [
+            "Hextech Kassadin",
+            "Hextech"
+        ],
+        [
+            "Harbinger Kassadin",
+            "Legacy"
+        ],
+        [
+            "Count Kassadin",
+            "Tales from the Rift"
+        ],
+        [
+            "Festival Kassadin",
+            "Winter Sports"
+        ]
+    ],
+    "Fizz": [
+        [
+            "Void Fizz",
+            "Ages of Runeterra"
+        ],
+        [
+            "Fuzz Fizz",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Prestige Fuzz Fizz",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Prestige Fuzz Fizz (2022)",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Cottontail Fizz",
+            "Cottontail"
+        ],
+        [
+            "Little Devil Fizz",
+            "Demonic"
+        ],
+        [
+            "Atlantean Fizz",
+            "Forgotten Depths"
+        ],
+        [
+            "Tundra Fizz",
+            "Legacy"
+        ],
+        [
+            "Astronaut Fizz",
+            "Star Voyagers"
+        ],
+        [
+            "Super Galaxy Fizz",
+            "Super Galaxy"
+        ],
+        [
+            "Fisherman Fizz",
+            "The Grind"
+        ],
+        [
+            "Omega Squad Fizz",
+            "War is Heck"
+        ],
+        [
+            "Rain Shepherd Fizz",
+            "N/A"
+        ]
+    ],
+    "Nocturne": [
+        [
+            "Void Nocturne",
+            "Ages of Runeterra"
+        ],
+        [
+            "Old God Nocturne",
+            "Eclipse"
+        ],
+        [
+            "Old God Nocturne",
+            "Eclipse"
+        ],
+        [
+            "Cursed Revenant Nocturne",
+            "Eclipse"
+        ],
+        [
+            "Broken Covenant Nocturne",
+            "Forsaken Hymn"
+        ],
+        [
+            "Frozen Terror Nocturne",
+            "Glacial"
+        ],
+        [
+            "Hextech Nocturne",
+            "Hextech"
+        ],
+        [
+            "Eternum Nocturne",
+            "Iron Firmament"
+        ],
+        [
+            "Empyrean Nocturne",
+            "Neon Strata"
+        ],
+        [
+            "Ravager Nocturne",
+            "Silver Age"
+        ],
+        [
+            "Haunting Nocturne",
+            "Tales from the Rift"
+        ]
+    ],
+    "Illaoi": [
+        [
+            "Void Bringer Illaoi",
+            "Ages of Runeterra"
+        ],
+        [
+            "Battle Bear Illaoi",
+            "AnimaTech"
+        ],
+        [
+            "Resistance Illaoi",
+            "Battlecast"
+        ],
+        [
+            "Cosmic Invoker Illaoi",
+            "Event Horizon"
+        ],
+        [
+            "Snow Moon Illaoi",
+            "Moons of Ionia"
+        ]
+    ],
+    "Ashe": [
+        [
+            "Freljord Ashe",
+            "Ages of Runeterra"
+        ],
+        [
+            "Heartseeker Ashe",
+            "Be Mine"
+        ],
+        [
+            "Coven Ashe",
+            "Eclipse"
+        ],
+        [
+            "DRX Ashe",
+            "Esports"
+        ],
+        [
+            "Worlds 2017 Ashe",
+            "Esports"
+        ],
+        [
+            "Cosmic Queen Ashe",
+            "Event Horizon"
+        ],
+        [
+            "Fae Dragon Ashe",
+            "Four Beasts"
+        ],
+        [
+            "High Noon Ashe",
+            "High Noon Gothic"
+        ],
+        [
+            "Infernal Ashe",
+            "Infernal"
+        ],
+        [
+            "Marauder Ashe",
+            "Institute of War"
+        ],
+        [
+            "Amethyst Ashe",
+            "Legacy"
+        ],
+        [
+            "Lunar Empress Ashe",
+            "Lunar New Year"
+        ],
+        [
+            "Crystalis Motus Ashe",
+            "Magicae Prismatica"
+        ],
+        [
+            "PROJECT: Ashe",
+            "PROJECT"
+        ],
+        [
+            "Ocean Song Ashe",
+            "Sunkissed Summer"
+        ],
+        [
+            "Woad Ashe",
+            "Woad Tribe"
+        ],
+        [
+            "Sherwood Forest Ashe",
+            "Ye Olde"
+        ],
+        [
+            "Queen Ashe",
+            "Ye Olde"
+        ]
+    ],
+    "Rammus": [
+        [
+            "Freljord Rammus",
+            "Ages of Runeterra"
+        ],
+        [
+            "King Rammus",
+            "Beta"
+        ],
+        [
+            "Guardian of the Sands Rammus",
+            "Guardian of the Sands"
+        ],
+        [
+            "Full Metal Rammus",
+            "Heavy Metal"
+        ],
+        [
+            "Hextech Rammus",
+            "Hextech"
+        ],
+        [
+            "Molten Rammus",
+            "Infernal"
+        ],
+        [
+            "Chrome Rammus",
+            "Legacy"
+        ],
+        [
+            "Ninja Rammus",
+            "Legacy"
+        ],
+        [
+            "Astronaut Rammus",
+            "Star Voyagers"
+        ],
+        [
+            "Sweeper Rammus",
+            "The Grind"
+        ],
+        [
+            "Durian Defender Rammus",
+            "N/A"
+        ]
+    ],
+    "Sylas": [
+        [
+            "Freljord Sylas",
+            "Ages of Runeterra"
+        ],
+        [
+            "Battle Wolf Sylas",
+            "AnimaTech"
+        ],
+        [
+            "Ashen Slayer Sylas",
+            "Fallen World"
+        ],
+        [
+            "Lunar Wraith Sylas",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige PROJECT: Sylas",
+            "PROJECT"
+        ],
+        [
+            "PROJECT: Sylas",
+            "PROJECT"
+        ],
+        [
+            "Winterblessed Sylas",
+            "Tales of Borealis"
+        ]
+    ],
+    "Taliyah": [
+        [
+            "Freljord Taliyah",
+            "Ages of Runeterra"
+        ],
+        [
+            "SSG Taliyah",
+            "Esports"
+        ],
+        [
+            "Crystalis Motus Taliyah",
+            "Magicae Prismatica"
+        ],
+        [
+            "Star Guardian Taliyah",
+            "Star Guardian"
+        ],
+        [
+            "Pool Party Taliyah",
+            "Sunkissed Summer"
+        ]
+    ],
+    "Janna": [
+        [
+            "Frost Queen Janna",
+            "Ages of Runeterra"
+        ],
+        [
+            "Battle Queen Janna",
+            "Battle Queens"
+        ],
+        [
+            "Crystal Rose Janna",
+            "Crystal Rose"
+        ],
+        [
+            "Fnatic Janna",
+            "Esports"
+        ],
+        [
+            "Guardian of the Sands Janna",
+            "Guardian of the Sands"
+        ],
+        [
+            "Hextech Janna",
+            "Hextech"
+        ],
+        [
+            "Sacred Sword Janna",
+            "Immortal Journey"
+        ],
+        [
+            "Cyber Halo Janna",
+            "Iron Firmament"
+        ],
+        [
+            "Prestige Cyber Halo Janna",
+            "Iron Firmament"
+        ],
+        [
+            "Tempest Janna",
+            "Legacy"
+        ],
+        [
+            "Heavenscale Janna",
+            "Lunar New Year"
+        ],
+        [
+            "Star Guardian Janna",
+            "Star Guardian"
+        ],
+        [
+            "Bewitching Janna",
+            "Tales from the Rift"
+        ],
+        [
+            "Forecast Janna",
+            "The Grind"
+        ],
+        [
+            "Victorious Janna",
+            "Victorious"
+        ]
+    ],
+    "Ezreal": [
+        [
+            "Frosted Ezreal",
+            "Ages of Runeterra"
+        ],
+        [
+            "Arcade Ezreal",
+            "Arcade"
+        ],
+        [
+            "Debonair Ezreal",
+            "Crime City Nightmare"
+        ],
+        [
+            "TPA Ezreal",
+            "Esports"
+        ],
+        [
+            "SSG Ezreal",
+            "Esports"
+        ],
+        [
+            "Battle Academia Ezreal",
+            "God Weapon"
+        ],
+        [
+            "Explorer Ezreal",
+            "Legacy"
+        ],
+        [
+            "Heavenscale Ezreal",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Heavenscale Ezreal",
+            "Lunar New Year"
+        ],
+        [
+            "Porcelain Protector Ezreal",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige PsyOps Ezreal",
+            "PsyOps"
+        ],
+        [
+            "PsyOps Ezreal",
+            "PsyOps"
+        ],
+        [
+            "Pulsefire Ezreal",
+            "Pulsefire"
+        ],
+        [
+            "HEARTSTEEL Ezreal",
+            "Riot Records"
+        ],
+        [
+            "Pajama Guardian Ezreal",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Ezreal",
+            "Star Guardian"
+        ],
+        [
+            "Ace of Spades Ezreal",
+            "Storybook"
+        ],
+        [
+            "Striker Ezreal",
+            "The Grind"
+        ],
+        [
+            "Faerie Court Ezreal",
+            "Winged Reign"
+        ],
+        [
+            "Nottingham Ezreal",
+            "Ye Olde"
+        ]
+    ],
+    "Warwick": [
+        [
+            "Tundra Hunter Warwick",
+            "Ages of Runeterra"
+        ],
+        [
+            "Old God Warwick",
+            "Eclipse"
+        ],
+        [
+            "Old God Warwick",
+            "Eclipse"
+        ],
+        [
+            "Grey Warwick",
+            "Eclipse"
+        ],
+        [
+            "Hyena Warwick",
+            "Highway Heretics"
+        ],
+        [
+            "Firefang Warwick",
+            "Infernal"
+        ],
+        [
+            "Marauder Warwick",
+            "Institute of War"
+        ],
+        [
+            "Lunar Guardian Warwick",
+            "Lunar New Year"
+        ],
+        [
+            "PROJECT: Warwick",
+            "PROJECT"
+        ],
+        [
+            "Feral Warwick",
+            "Silver Age"
+        ],
+        [
+            "Big Bad Warwick",
+            "Storybook"
+        ],
+        [
+            "Prestige Winterblessed Warwick",
+            "Tales of Borealis"
+        ],
+        [
+            "Winterblessed Warwick",
+            "Tales of Borealis"
+        ],
+        [
+            "Urf the Manatee",
+            "The Grind"
+        ],
+        [
+            "Urfwick",
+            "The Grind"
+        ]
+    ],
+    "Lee Sin": [
+        [
+            "Acolyte Lee Sin",
+            "Ages of Runeterra"
+        ],
+        [
+            "Traditional Lee Sin",
+            "Ages of Runeterra"
+        ],
+        [
+            "Knockout Lee Sin",
+            "Crime City Nightmare"
+        ],
+        [
+            "SKT T1 Lee Sin",
+            "Esports"
+        ],
+        [
+            "FPX Lee Sin",
+            "Esports"
+        ],
+        [
+            "T1 Lee Sin",
+            "Esports"
+        ],
+        [
+            "Storm Dragon Lee Sin",
+            "Four Beasts"
+        ],
+        [
+            "God Fist Lee Sin",
+            "Immortal Journey"
+        ],
+        [
+            "Zenith Games Lee Sin",
+            "Kinetex Machina"
+        ],
+        [
+            "Divine Heavenscale Lee Sin",
+            "Lunar New Year"
+        ],
+        [
+            "Heavenscale Lee Sin",
+            "Lunar New Year"
+        ],
+        [
+            "Dragon Fist Lee Sin",
+            "Lunar New Year"
+        ],
+        [
+            "Pool Party Lee Sin",
+            "Sunkissed Summer"
+        ],
+        [
+            "Playmaker Lee Sin",
+            "The Grind"
+        ],
+        [
+            "Nightbringer Lee Sin",
+            "Versus"
+        ],
+        [
+            "Prestige Nightbringer Lee Sin",
+            "Versus"
+        ],
+        [
+            "Prestige Nightbringer Lee Sin (2022)",
+            "Versus"
+        ],
+        [
+            "Muay Thai Lee Sin",
+            "Wonders of the World"
+        ]
+    ],
+    "Tryndamere": [
+        [
+            "Demonblade Tryndamere",
+            "Ages of Runeterra"
+        ],
+        [
+            "Highland Tryndamere",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Tryndamere",
+            "Moons of Ionia"
+        ],
+        [
+            "Beast Hunter Tryndamere",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Chemtech Tryndamere",
+            "Silver Age"
+        ],
+        [
+            "Nightmare Tryndamere",
+            "Tales from the Rift"
+        ],
+        [
+            "Nightbringer Tryndamere",
+            "Versus"
+        ],
+        [
+            "Victorious Tryndamere",
+            "Victorious"
+        ],
+        [
+            "Warring Kingdoms Tryndamere",
+            "Warring Kingdoms"
+        ],
+        [
+            "Sultan Tryndamere",
+            "Wonders of the World"
+        ],
+        [
+            "Viking Tryndamere",
+            "Wonders of the World"
+        ],
+        [
+            "King Tryndamere",
+            "Ye Olde"
+        ]
+    ],
+    "Soraka": [
+        [
+            "Divine Soraka",
+            "Ages of Runeterra"
+        ],
+        [
+            "Cafe Cuties Soraka",
+            "Cafe Cuties"
+        ],
+        [
+            "Reaper Soraka",
+            "Death Sworn"
+        ],
+        [
+            "Dryad Soraka",
+            "Eclipse"
+        ],
+        [
+            "Immortal Journey Soraka",
+            "Immortal Journey"
+        ],
+        [
+            "Program Soraka",
+            "PROJECT"
+        ],
+        [
+            "Celestine Soraka",
+            "Riftquest"
+        ],
+        [
+            "Winter Wonder Soraka",
+            "Snowdown"
+        ],
+        [
+            "Spirit Blossom Soraka",
+            "Spirit Blossom"
+        ],
+        [
+            "Pajama Guardian Soraka",
+            "Star Guardian"
+        ],
+        [
+            "Prestige Star Guardian Soraka",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Soraka",
+            "Star Guardian"
+        ],
+        [
+            "Order of the Banana Soraka",
+            "The Grind"
+        ],
+        [
+            "Dawnbringer Soraka",
+            "Versus"
+        ],
+        [
+            "Nightbringer Soraka",
+            "Versus"
+        ],
+        [
+            "Faerie Court Soraka",
+            "Winged Reign"
+        ]
+    ],
+    "Yasuo": [
+        [
+            "Foreseen Yasuo",
+            "Ages of Runeterra"
+        ],
+        [
+            "Battle Wolf Yasuo",
+            "AnimaTech"
+        ],
+        [
+            "Battle Boss Yasuo",
+            "Arcade"
+        ],
+        [
+            "Dream Dragon Yasuo",
+            "Four Beasts"
+        ],
+        [
+            "Truth Dragon Yasuo",
+            "Four Beasts"
+        ],
+        [
+            "High Noon Yasuo",
+            "High Noon Gothic"
+        ],
+        [
+            "Inkshadow Yasuo",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Prestige Inkshadow Yasuo",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Blood Moon Yasuo",
+            "Moons of Ionia"
+        ],
+        [
+            "Odyssey Yasuo",
+            "Odyssey"
+        ],
+        [
+            "PROJECT: Yasuo",
+            "PROJECT"
+        ],
+        [
+            "Prestige True Damage Yasuo",
+            "Riot Records"
+        ],
+        [
+            "True Damage Yasuo",
+            "Riot Records"
+        ],
+        [
+            "Spirit Blossom Yasuo",
+            "Spirit Blossom"
+        ],
+        [
+            "Sea Dog Yasuo",
+            "The Ruined King Saga"
+        ],
+        [
+            "Genesis Nightbringer Yasuo",
+            "Versus"
+        ],
+        [
+            "Nightbringer Yasuo",
+            "Versus"
+        ]
+    ],
+    "Poppy": [
+        [
+            "Noxus Poppy",
+            "Ages of Runeterra"
+        ],
+        [
+            "Cafe Cuties Poppy",
+            "Cafe Cuties"
+        ],
+        [
+            "Scarlet Hammer Poppy",
+            "Dragon World"
+        ],
+        [
+            "Hextech Poppy",
+            "Hextech"
+        ],
+        [
+            "Battle Regalia Poppy",
+            "Legacy"
+        ],
+        [
+            "Snow Fawn Poppy",
+            "Snowdown"
+        ],
+        [
+            "Star Guardian Poppy",
+            "Star Guardian"
+        ],
+        [
+            "Astronaut Poppy",
+            "Star Voyagers"
+        ],
+        [
+            "Lollipoppy",
+            "Sugar Rush"
+        ],
+        [
+            "Bewitching Poppy",
+            "Tales from the Rift"
+        ],
+        [
+            "Ragdoll Poppy",
+            "Toy Box"
+        ],
+        [
+            "Blacksmith Poppy",
+            "Ye Olde"
+        ]
+    ],
+    "Viktor": [
+        [
+            "Prototype Viktor",
+            "Ages of Runeterra"
+        ],
+        [
+            "Creator Viktor",
+            "Battlecast"
+        ],
+        [
+            "Death Sworn Viktor",
+            "Death Sworn"
+        ],
+        [
+            "Full Machine Viktor",
+            "Heavy Metal"
+        ],
+        [
+            "High Noon Viktor",
+            "High Noon Gothic"
+        ],
+        [
+            "PsyOps Viktor",
+            "PsyOps"
+        ]
+    ],
+    "Riven": [
+        [
+            "Redeemed Riven",
+            "Ages of Runeterra"
+        ],
+        [
+            "Battle Bunny Prime Riven",
+            "AnimaTech"
+        ],
+        [
+            "Arcade Riven",
+            "Arcade"
+        ],
+        [
+            "Crimson Elite Riven",
+            "Crimson Elite"
+        ],
+        [
+            "Reignited Worlds 2012 Riven",
+            "Esports"
+        ],
+        [
+            "Worlds 2012 Riven",
+            "Esports"
+        ],
+        [
+            "Broken Covenant Riven",
+            "Forsaken Hymn"
+        ],
+        [
+            "Primal Ambush Riven",
+            "Fury and Fang"
+        ],
+        [
+            "Prestige Valiant Sword Riven",
+            "Immortal Journey"
+        ],
+        [
+            "Prestige Valiant Sword Riven (2022)",
+            "Immortal Journey"
+        ],
+        [
+            "Valiant Sword Riven",
+            "Immortal Journey"
+        ],
+        [
+            "Pulsefire Riven",
+            "Pulsefire"
+        ],
+        [
+            "Spirit Blossom Riven",
+            "Spirit Blossom"
+        ],
+        [
+            "Battle Bunny Riven",
+            "The Grind"
+        ],
+        [
+            "Sentinel Riven",
+            "The Ruined King Saga"
+        ],
+        [
+            "Dawnbringer Riven",
+            "Versus"
+        ],
+        [
+            "Dragonblade Riven",
+            "Warring Kingdoms"
+        ]
+    ],
+    "Renekton": [
+        [
+            "Rune Wars Renekton",
+            "Ages of Runeterra"
+        ],
+        [
+            "Blackfrost Renekton",
+            "Blackfrost"
+        ],
+        [
+            "Bloodfury Renekton",
+            "Bloodstone"
+        ],
+        [
+            "SKT T1 Renekton",
+            "Esports"
+        ],
+        [
+            "Worlds 2023 Renekton",
+            "Esports"
+        ],
+        [
+            "Galactic Renekton",
+            "Galactic"
+        ],
+        [
+            "Hextech Renekton",
+            "Hextech"
+        ],
+        [
+            "Scorched Earth Renekton",
+            "Infernal"
+        ],
+        [
+            "Prehistoric Renekton",
+            "Prehistoric Hunters"
+        ],
+        [
+            "PROJECT: Renekton",
+            "PROJECT"
+        ],
+        [
+            "Pool Party Renekton",
+            "Sunkissed Summer"
+        ],
+        [
+            "Renektoy",
+            "Toy Box"
+        ],
+        [
+            "Dawnbringer Renekton",
+            "Versus"
+        ],
+        [
+            "Outback Renekton",
+            "Wonders of the World"
+        ]
+    ],
+    "Volibear": [
+        [
+            "Runeguard Volibear",
+            "Ages of Runeterra"
+        ],
+        [
+            "The Thousand-Pierced Bear",
+            "Eclipse"
+        ],
+        [
+            "Duality Dragon Volibear",
+            "Four Beasts"
+        ],
+        [
+            "Prestige Duality Dragon Volibear",
+            "Four Beasts"
+        ],
+        [
+            "Inkshadow Volibear",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Northern Storm Volibear",
+            "PsyOps"
+        ],
+        [
+            "Captain Volibear",
+            "The Grind"
+        ],
+        [
+            "El Rayo Volibear",
+            "The Grind"
+        ],
+        [
+            "Thunder Lord Volibear",
+            "Thunder Lord"
+        ]
+    ],
+    "Kayle": [
+        [
+            "Transcended Kayle",
+            "Ages of Runeterra"
+        ],
+        [
+            "Silver Kayle",
+            "Collector Edition"
+        ],
+        [
+            "Dragonslayer Kayle",
+            "Dragon World"
+        ],
+        [
+            "Sun-Eater Kayle",
+            "Eclipse"
+        ],
+        [
+            "Iron Inquisitor Kayle",
+            "Eclipse"
+        ],
+        [
+            "Immortal Journey Kayle",
+            "Immortal Journey"
+        ],
+        [
+            "Aether Wing Kayle",
+            "Iron Firmament"
+        ],
+        [
+            "Judgment Kayle",
+            "Legacy"
+        ],
+        [
+            "Empyrean Kayle",
+            "Neon Strata"
+        ],
+        [
+            "Prestige Empyrean Kayle",
+            "Neon Strata"
+        ],
+        [
+            "PsyOps Kayle",
+            "PsyOps"
+        ],
+        [
+            "Pentakill Kayle",
+            "Riot Records"
+        ],
+        [
+            "Pentakill III: Lost Chapter Kayle",
+            "Riot Records"
+        ],
+        [
+            "Riot Kayle",
+            "The Badge"
+        ],
+        [
+            "Battleborn Kayle",
+            "Woad Tribe"
+        ],
+        [
+            "Viridian Kayle",
+            "Ye Olde"
+        ]
+    ],
+    "Viego": [
+        [
+            "King Viego",
+            "Ages of Runeterra"
+        ],
+        [
+            "EDG Viego",
+            "Esports"
+        ],
+        [
+            "Worlds 2024 Viego",
+            "Esports"
+        ],
+        [
+            "Lunar Beast Viego",
+            "Lunar New Year"
+        ],
+        [
+            "Dissonance of Pentakill Viego",
+            "Riot Records"
+        ],
+        [
+            "Soul Fighter Viego",
+            "Soul Fighter"
+        ]
+    ],
+    "Karma": [
+        [
+            "Traditional Karma",
+            "Ages of Runeterra"
+        ],
+        [
+            "Conqueror Karma",
+            "Esports"
+        ],
+        [
+            "Dark Star Karma",
+            "Event Horizon"
+        ],
+        [
+            "Tranquility Dragon Karma",
+            "Four Beasts"
+        ],
+        [
+            "Infernal Karma",
+            "Infernal"
+        ],
+        [
+            "Warden Karma",
+            "Institute of War"
+        ],
+        [
+            "Sakura Karma",
+            "Legacy"
+        ],
+        [
+            "Odyssey Karma",
+            "Odyssey"
+        ],
+        [
+            "Order of the Lotus Karma",
+            "Order of the Lotus"
+        ],
+        [
+            "Winter Wonder Karma",
+            "Snowdown"
+        ],
+        [
+            "Ruined Karma",
+            "The Ruined King Saga"
+        ],
+        [
+            "Dawnbringer Karma",
+            "Versus"
+        ],
+        [
+            "Faerie Queen Karma",
+            "Winged Reign"
+        ],
+        [
+            "Sun Goddess Karma",
+            "Worldbreaker"
+        ]
+    ],
+    "Sejuani": [
+        [
+            "Traditional Sejuani",
+            "Ages of Runeterra"
+        ],
+        [
+            "Darkrider Sejuani",
+            "Death Sworn"
+        ],
+        [
+            "Solar Eclipse Sejuani",
+            "Eclipse"
+        ],
+        [
+            "Hextech Sejuani",
+            "Hextech"
+        ],
+        [
+            "Firecracker Sejuani",
+            "Lunar New Year"
+        ],
+        [
+            "Beast Hunter Sejuani",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Sabretusk Sejuani",
+            "Prehistoric Hunters"
+        ],
+        [
+            "PROJECT: Sejuani",
+            "PROJECT"
+        ],
+        [
+            "Sejuani Dawnchaser",
+            "Riftquest"
+        ],
+        [
+            "Poro Rider Sejuani",
+            "Snowdown"
+        ],
+        [
+            "Victorious Sejuani",
+            "Victorious"
+        ],
+        [
+            "Bear Cavalry Sejuani",
+            "Wonders of the World"
+        ]
+    ],
+    "Trundle": [
+        [
+            "Traditional Trundle",
+            "Ages of Runeterra"
+        ],
+        [
+            "Dragonslayer Trundle",
+            "Dragon World"
+        ],
+        [
+            "Junkyard Trundle",
+            "Highway Heretics"
+        ],
+        [
+            "Fright Night Trundle",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Constable Trundle",
+            "The Grind"
+        ],
+        [
+            "Lil' Slugger Trundle",
+            "The Grind"
+        ],
+        [
+            "Worldbreaker Trundle",
+            "Worldbreaker"
+        ],
+        [
+            "Esports Fan Trundle",
+            "N/A"
+        ]
+    ],
+    "Vayne": [
+        [
+            "Battle Bat Vayne",
+            "AnimaTech"
+        ],
+        [
+            "Arclight Vayne",
+            "Arclight"
+        ],
+        [
+            "Heartseeker Vayne",
+            "Be Mine"
+        ],
+        [
+            "Dragonslayer Vayne",
+            "Dragon World"
+        ],
+        [
+            "SKT T1 Vayne",
+            "Esports"
+        ],
+        [
+            "FPX Vayne",
+            "Esports"
+        ],
+        [
+            "Dragonmancer Vayne",
+            "Four Beasts"
+        ],
+        [
+            "Firecracker Vayne",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Firecracker Vayne",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Firecracker Vayne (2022)",
+            "Lunar New Year"
+        ],
+        [
+            "PROJECT: Vayne",
+            "PROJECT"
+        ],
+        [
+            "Soulstealer Vayne",
+            "Soulstealer"
+        ],
+        [
+            "Spirit Blossom Vayne",
+            "Spirit Blossom"
+        ],
+        [
+            "Vindicator Vayne",
+            "Tales from the Rift"
+        ],
+        [
+            "Aristocrat Vayne",
+            "The Grind"
+        ],
+        [
+            "Sentinel Vayne",
+            "The Ruined King Saga"
+        ],
+        [
+            "Dawnbringer Vayne",
+            "Versus"
+        ]
+    ],
+    "Xayah": [
+        [
+            "Battle Bat Xayah",
+            "AnimaTech"
+        ],
+        [
+            "Arcana Xayah",
+            "Arcana"
+        ],
+        [
+            "Sweetheart Xayah",
+            "Be Mine"
+        ],
+        [
+            "Elderwood Xayah",
+            "Eclipse"
+        ],
+        [
+            "SSG Xayah",
+            "Esports"
+        ],
+        [
+            "Cosmic Dusk Xayah",
+            "Event Horizon"
+        ],
+        [
+            "Broken Covenant Xayah",
+            "Forsaken Hymn"
+        ],
+        [
+            "Brave Phoenix Xayah",
+            "Four Beasts"
+        ],
+        [
+            "Prestige Brave Phoenix Xayah",
+            "Four Beasts"
+        ],
+        [
+            "Star Guardian Xayah",
+            "Star Guardian"
+        ],
+        [
+            "Redeemed Star Guardian Xayah",
+            "Star Guardian"
+        ]
+    ],
+    "Aurora": [
+        [
+            "Battle Bunny Aurora",
+            "AnimaTech"
+        ]
+    ],
+    "Jinx": [
+        [
+            "Battle Cat Jinx",
+            "AnimaTech"
+        ],
+        [
+            "Prestige Battle Cat Jinx",
+            "AnimaTech"
+        ],
+        [
+            "Arcane Jinx",
+            "Arcane"
+        ],
+        [
+            "Heartseeker Jinx",
+            "Be Mine"
+        ],
+        [
+            "Cafe Cuties Jinx",
+            "Cafe Cuties"
+        ],
+        [
+            "Crime City Jinx",
+            "Crime City Nightmare"
+        ],
+        [
+            "T1 Jinx",
+            "Esports"
+        ],
+        [
+            "Firecracker Jinx",
+            "Lunar New Year"
+        ],
+        [
+            "Odyssey Jinx",
+            "Odyssey"
+        ],
+        [
+            "PROJECT: Jinx",
+            "PROJECT"
+        ],
+        [
+            "Ambitious Elf Jinx",
+            "Snowdown"
+        ],
+        [
+            "Star Guardian Jinx",
+            "Star Guardian"
+        ],
+        [
+            "Zombie Slayer Jinx",
+            "Zombie VS Slayers"
+        ]
+    ],
+    "Seraphine": [
+        [
+            "Battle Dove Seraphine",
+            "AnimaTech"
+        ],
+        [
+            "Graceful Phoenix Seraphine",
+            "Four Beasts"
+        ],
+        [
+            "K/DA ALL OUT Seraphine Indie",
+            "Riot Records"
+        ],
+        [
+            "K/DA ALL OUT Seraphine Rising Star",
+            "Riot Records"
+        ],
+        [
+            "K/DA ALL OUT Seraphine Superstar",
+            "Riot Records"
+        ],
+        [
+            "Star Guardian Seraphine",
+            "Star Guardian"
+        ],
+        [
+            "Ocean Song Seraphine",
+            "Sunkissed Summer"
+        ],
+        [
+            "Prestige Ocean Song Seraphine",
+            "Sunkissed Summer"
+        ],
+        [
+            "Faerie Court Seraphine",
+            "Winged Reign"
+        ]
+    ],
+    "Leona": [
+        [
+            "Battle Lion Leona",
+            "AnimaTech"
+        ],
+        [
+            "Prestige Battle Lion Leona",
+            "AnimaTech"
+        ],
+        [
+            "Debonair Leona",
+            "Crime City Nightmare"
+        ],
+        [
+            "Barbecue Leona",
+            "Culinary Masters"
+        ],
+        [
+            "Lunar Eclipse Leona",
+            "Eclipse"
+        ],
+        [
+            "Solar Eclipse Leona",
+            "Eclipse"
+        ],
+        [
+            "DWG Leona",
+            "Esports"
+        ],
+        [
+            "Valkyrie Leona",
+            "Fables"
+        ],
+        [
+            "Battle Academia Leona",
+            "God Weapon"
+        ],
+        [
+            "Prestige Battle Academia Leona",
+            "God Weapon"
+        ],
+        [
+            "High Noon Leona",
+            "High Noon Gothic"
+        ],
+        [
+            "Defender Leona",
+            "Legacy"
+        ],
+        [
+            "Iron Solari Leona",
+            "Legacy"
+        ],
+        [
+            "Crystalis Motus Leona",
+            "Magicae Prismatica"
+        ],
+        [
+            "Mecha Kingdoms Leona",
+            "Mecha Kingdoms"
+        ],
+        [
+            "PROJECT: Leona",
+            "PROJECT"
+        ],
+        [
+            "Pool Party Leona",
+            "Sunkissed Summer"
+        ]
+    ],
+    "Yuumi": [
+        [
+            "Cyber Cat Yuumi",
+            "AnimaTech"
+        ],
+        [
+            "Prestige Cyber Cat Yuumi",
+            "AnimaTech"
+        ],
+        [
+            "Heartseeker Yuumi",
+            "Be Mine"
+        ],
+        [
+            "Yuubee",
+            "Bees"
+        ],
+        [
+            "Shiba Yuumi",
+            "Cats Versus Dogs"
+        ],
+        [
+            "EDG Yuumi",
+            "Esports"
+        ],
+        [
+            "Battle Principal Yuumi",
+            "God Weapon"
+        ],
+        [
+            "Bewitching Yuumi",
+            "Tales from the Rift"
+        ]
+    ],
+    "Briar": [
+        [
+            "Primordian Briar",
+            "AnimaTech"
+        ],
+        [
+            "Street Demons Briar",
+            "Concrete Canvas"
+        ]
+    ],
+    "Bel'Veth": [
+        [
+            "Primordian Bel'Veth",
+            "AnimaTech"
+        ],
+        [
+            "Battle Boss Bel'Veth",
+            "Arcade"
+        ],
+        [
+            "Cosmic Matriarch Bel'Veth",
+            "Event Horizon"
+        ]
+    ],
+    "Rek'Sai": [
+        [
+            "Primordian Rek'Sai",
+            "AnimaTech"
+        ],
+        [
+            "Blackfrost Rek'Sai",
+            "Blackfrost"
+        ],
+        [
+            "Elderwood Rek'Sai",
+            "Eclipse"
+        ],
+        [
+            "Eternum Rek'Sai",
+            "Iron Firmament"
+        ],
+        [
+            "Pool Party Rek'Sai",
+            "Sunkissed Summer"
+        ]
+    ],
+    "Blitzcrank": [
+        [
+            "Battle Boss Blitzcrank",
+            "Arcade"
+        ],
+        [
+            "Beezcrank",
+            "Bees"
+        ],
+        [
+            "Definitely Not Blitzcrank",
+            "Definitely Not"
+        ],
+        [
+            "Zenith Games Blitzcrank",
+            "Kinetex Machina"
+        ],
+        [
+            "Lancer Paragon Blitzcrank",
+            "Legacy"
+        ],
+        [
+            "Lancer Rogue Blitzcrank",
+            "Legacy"
+        ],
+        [
+            "Rusty Blitzcrank",
+            "Legacy"
+        ],
+        [
+            "Piltover Customs Blitzcrank",
+            "Piltover Customs"
+        ],
+        [
+            "iBlitzcrank",
+            "PROJECT"
+        ],
+        [
+            "Space Groove Blitz & Crank",
+            "Space Groove"
+        ],
+        [
+            "Witch's Brew Blitzcrank",
+            "Tales from the Rift"
+        ],
+        [
+            "Riot Blitzcrank",
+            "The Badge"
+        ],
+        [
+            "Boom Boom Blitzcrank",
+            "The Grind"
+        ],
+        [
+            "Goalkeeper Blitzcrank",
+            "The Grind"
+        ],
+        [
+            "Victorious Blitzcrank",
+            "Victorious"
+        ]
+    ],
+    "Brand": [
+        [
+            "Battle Boss Brand",
+            "Arcade"
+        ],
+        [
+            "Arclight Brand",
+            "Arclight"
+        ],
+        [
+            "Street Demons Brand",
+            "Concrete Canvas"
+        ],
+        [
+            "Debonair Brand",
+            "Crime City Nightmare"
+        ],
+        [
+            "Prestige Debonair Brand",
+            "Crime City Nightmare"
+        ],
+        [
+            "Eternal Dragon Brand",
+            "Four Beasts"
+        ],
+        [
+            "Apocalyptic Brand",
+            "Highway Heretics"
+        ],
+        [
+            "Vandal Brand",
+            "Highway Heretics"
+        ],
+        [
+            "Empyrean Brand",
+            "Neon Strata"
+        ],
+        [
+            "Cryocore Brand",
+            "Silver Age"
+        ],
+        [
+            "Spirit Fire Brand",
+            "Worldbreaker"
+        ],
+        [
+            "Zombie Brand",
+            "Zombie VS Slayers"
+        ]
+    ],
+    "Malzahar": [
+        [
+            "Battle Boss Malzahar",
+            "Arcade"
+        ],
+        [
+            "Beezahar",
+            "Bees"
+        ],
+        [
+            "Debonair Malzahar",
+            "Crime City Nightmare"
+        ],
+        [
+            "Overlord Malzahar",
+            "Definitely Not"
+        ],
+        [
+            "Djinn Malzahar",
+            "Fables"
+        ],
+        [
+            "Hextech Malzahar",
+            "Hextech"
+        ],
+        [
+            "Three Honors Malzahar",
+            "Honor"
+        ],
+        [
+            "Shadow Prince Malzahar",
+            "Legacy"
+        ],
+        [
+            "Empyrean Malzahar",
+            "Neon Strata"
+        ],
+        [
+            "Snow Day Malzahar",
+            "Snowdown"
+        ],
+        [
+            "Vizier Malzahar",
+            "Wonders of the World"
+        ],
+        [
+            "Worldbreaker Malzahar",
+            "Worldbreaker"
+        ]
+    ],
+    "Qiyana": [
+        [
+            "Battle Boss Qiyana",
+            "Arcade"
+        ],
+        [
+            "Battle Queen Qiyana",
+            "Battle Queens"
+        ],
+        [
+            "Shockblade Qiyana",
+            "Cloudedge"
+        ],
+        [
+            "Lunar Empress Qiyana",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige True Damage Qiyana",
+            "Riot Records"
+        ],
+        [
+            "Prestige True Damage Qiyana (2022)",
+            "Riot Records"
+        ],
+        [
+            "True Damage Qiyana",
+            "Riot Records"
+        ],
+        [
+            "La Ilusión Qiyana",
+            "Sueño de Vida"
+        ]
+    ],
+    "Ziggs": [
+        [
+            "Battle Boss Ziggs",
+            "Arcade"
+        ],
+        [
+            "Master Arcanist Ziggs",
+            "Arcanists"
+        ],
+        [
+            "BZZZiggs",
+            "Bees"
+        ],
+        [
+            "Hextech Ziggs",
+            "Hextech"
+        ],
+        [
+            "Major Ziggs",
+            "Legacy"
+        ],
+        [
+            "Odyssey Ziggs",
+            "Odyssey"
+        ],
+        [
+            "Snow Day Ziggs",
+            "Snowdown"
+        ],
+        [
+            "La Ilusión Ziggs",
+            "Sueño de Vida"
+        ],
+        [
+            "Sugar Rush Ziggs",
+            "Sugar Rush"
+        ],
+        [
+            "Pool Party Ziggs",
+            "Sunkissed Summer"
+        ],
+        [
+            "Mad Scientist Ziggs",
+            "The Grind"
+        ]
+    ],
+    "Veigar": [
+        [
+            "Final Boss Veigar",
+            "Arcade"
+        ],
+        [
+            "King Beegar",
+            "Bees"
+        ],
+        [
+            "Furyhorn Cosplay Veigar",
+            "Definitely Not"
+        ],
+        [
+            "Elderwood Veigar",
+            "Eclipse"
+        ],
+        [
+            "Leprechaun Veigar",
+            "Fables"
+        ],
+        [
+            "Baron Von Veigar",
+            "Highway Heretics"
+        ],
+        [
+            "Monster Tamer Veigar",
+            "Monster Tamers"
+        ],
+        [
+            "Fright Night Veigar",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Veigar Greybeard",
+            "Riftquest"
+        ],
+        [
+            "Superb Villain Veigar",
+            "Silver Age"
+        ],
+        [
+            "Bad Santa Veigar",
+            "Snowdown"
+        ],
+        [
+            "Astronaut Veigar",
+            "Star Voyagers"
+        ],
+        [
+            "Omega Squad Veigar",
+            "War is Heck"
+        ],
+        [
+            "Curling Veigar",
+            "Winter Sports"
+        ],
+        [
+            "White Mage Veigar",
+            "Ye Olde"
+        ]
+    ],
+    "Caitlyn": [
+        [
+            "Arcade Caitlyn",
+            "Arcade"
+        ],
+        [
+            "Prestige Arcade Caitlyn",
+            "Arcade"
+        ],
+        [
+            "Prestige Arcade Caitlyn (2022)",
+            "Arcade"
+        ],
+        [
+            "Arcane Caitlyn",
+            "Arcane"
+        ],
+        [
+            "Resistance Caitlyn",
+            "Battlecast"
+        ],
+        [
+            "DRX Caitlyn",
+            "Esports"
+        ],
+        [
+            "Battle Academia Caitlyn",
+            "God Weapon"
+        ],
+        [
+            "Headhunter Caitlyn",
+            "Headhunter"
+        ],
+        [
+            "Sheriff Caitlyn",
+            "High Noon Gothic"
+        ],
+        [
+            "Safari Caitlyn",
+            "Legacy"
+        ],
+        [
+            "Lunar Wraith Caitlyn",
+            "Lunar New Year"
+        ],
+        [
+            "Snow Moon Caitlyn",
+            "Moons of Ionia"
+        ],
+        [
+            "Arctic Warfare Caitlyn",
+            "PsyOps"
+        ],
+        [
+            "Pulsefire Caitlyn",
+            "Pulsefire"
+        ],
+        [
+            "Pool Party Caitlyn",
+            "Sunkissed Summer"
+        ],
+        [
+            "Officer Caitlyn",
+            "The Grind"
+        ],
+        [
+            "Heartthrob Caitlyn",
+            "ᐸ3"
+        ]
+    ],
+    "Corki": [
+        [
+            "Arcade Corki",
+            "Arcade"
+        ],
+        [
+            "Corgi Corki",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Fnatic Corki",
+            "Esports"
+        ],
+        [
+            "Red Baron Corki",
+            "Legacy"
+        ],
+        [
+            "Dragonwing Corki",
+            "Lunar New Year"
+        ],
+        [
+            "Hot Rod Corki",
+            "Piltover Customs"
+        ],
+        [
+            "Astronaut Corki",
+            "Star Voyagers"
+        ],
+        [
+            "UFO Corki",
+            "Star Voyagers"
+        ],
+        [
+            "Urfrider Corki",
+            "The Grind"
+        ],
+        [
+            "Ice Toboggan Corki",
+            "Winter Sports"
+        ]
+    ],
+    "Hecarim": [
+        [
+            "Arcade Hecarim",
+            "Arcade"
+        ],
+        [
+            "Arcana Hecarim",
+            "Arcana"
+        ],
+        [
+            "Blood Knight Hecarim",
+            "Bloodstone"
+        ],
+        [
+            "Reaper Hecarim",
+            "Death Sworn"
+        ],
+        [
+            "Elderwood Hecarim",
+            "Eclipse"
+        ],
+        [
+            "Cosmic Charger Hecarim",
+            "Event Horizon"
+        ],
+        [
+            "High Noon Hecarim",
+            "High Noon Gothic"
+        ],
+        [
+            "Lancer Zero Hecarim",
+            "Legacy"
+        ],
+        [
+            "Headless Hecarim",
+            "Tales from the Rift"
+        ],
+        [
+            "Winterblessed Hecarim",
+            "Tales of Borealis"
+        ],
+        [
+            "Worldbreaker Hecarim",
+            "Worldbreaker"
+        ]
+    ],
+    "Kai'Sa": [
+        [
+            "Arcade Kai'Sa",
+            "Arcade"
+        ],
+        [
+            "iG Kai'Sa",
+            "Esports"
+        ],
+        [
+            "Lagoon Dragon Kai'Sa",
+            "Four Beasts"
+        ],
+        [
+            "Inkshadow Kai'Sa",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Bullet Angel Kai'Sa",
+            "Iron Firmament"
+        ],
+        [
+            "Heavenscale Kai'Sa",
+            "Lunar New Year"
+        ],
+        [
+            "K/DA Kai'Sa",
+            "Riot Records"
+        ],
+        [
+            "K/DA ALL OUT Kai'Sa",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Kai'Sa",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Kai'Sa (2022)",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA ALL OUT Kai'Sa",
+            "Riot Records"
+        ],
+        [
+            "Star Guardian Kai'Sa",
+            "Star Guardian"
+        ]
+    ],
+    "Sona": [
+        [
+            "Arcade Sona",
+            "Arcade"
+        ],
+        [
+            "Sweetheart Sona",
+            "Be Mine"
+        ],
+        [
+            "Muse Sona",
+            "Fables"
+        ],
+        [
+            "Immortal Journey Sona",
+            "Immortal Journey"
+        ],
+        [
+            "Prestige Immortal Journey Sona",
+            "Immortal Journey"
+        ],
+        [
+            "Guqin Sona",
+            "Lunar New Year"
+        ],
+        [
+            "Odyssey Sona",
+            "Odyssey"
+        ],
+        [
+            "PsyOps Sona",
+            "PsyOps"
+        ],
+        [
+            "DJ Sona",
+            "Riot Records"
+        ],
+        [
+            "Pentakill Sona",
+            "Riot Records"
+        ],
+        [
+            "Pentakill III: Lost Chapter Sona",
+            "Riot Records"
+        ],
+        [
+            "Silent Night Sona",
+            "Snowdown"
+        ],
+        [
+            "Star Guardian Sona",
+            "Star Guardian"
+        ],
+        [
+            "Victorious Sona",
+            "Victorious"
+        ]
+    ],
+    "Taric": [
+        [
+            "Armor of the Fifth Age Taric",
+            "Arcade"
+        ],
+        [
+            "Bloodstone Taric",
+            "Bloodstone"
+        ],
+        [
+            "Emerald Taric",
+            "Eclipse"
+        ],
+        [
+            "Taric Luminshield",
+            "Riftquest"
+        ],
+        [
+            "Space Groove Taric",
+            "Space Groove"
+        ],
+        [
+            "Pool Party Taric",
+            "Sunkissed Summer"
+        ]
+    ],
+    "Lucian": [
+        [
+            "Demacia Vice Lucian",
+            "Arcade"
+        ],
+        [
+            "Arcana Lucian",
+            "Arcana"
+        ],
+        [
+            "Heartseeker Lucian",
+            "Be Mine"
+        ],
+        [
+            "High Noon Lucian",
+            "High Noon Gothic"
+        ],
+        [
+            "Strike Paladin Lucian",
+            "Iron Firmament"
+        ],
+        [
+            "Hired Gun Lucian",
+            "Legacy"
+        ],
+        [
+            "PROJECT: Lucian",
+            "PROJECT"
+        ],
+        [
+            "Prestige Pulsefire Lucian",
+            "Pulsefire"
+        ],
+        [
+            "Pulsefire Lucian",
+            "Pulsefire"
+        ],
+        [
+            "Winterblessed Lucian",
+            "Tales of Borealis"
+        ],
+        [
+            "Striker Lucian",
+            "The Grind"
+        ],
+        [
+            "Victorious Lucian",
+            "Victorious"
+        ]
+    ],
+    "Vi": [
+        [
+            "Neon Strike Vi",
+            "Arcade"
+        ],
+        [
+            "Arcane Vi",
+            "Arcane"
+        ],
+        [
+            "Heartbreaker Vi",
+            "Be Mine"
+        ],
+        [
+            "Debonair Vi",
+            "Crime City Nightmare"
+        ],
+        [
+            "Demon Vi",
+            "Demonic"
+        ],
+        [
+            "Primal Ambush Vi",
+            "Fury and Fang"
+        ],
+        [
+            "PROJECT: Vi",
+            "PROJECT"
+        ],
+        [
+            "PsyOps Vi",
+            "PsyOps"
+        ],
+        [
+            "Officer Vi",
+            "The Grind"
+        ],
+        [
+            "Warring Kingdoms Vi",
+            "Warring Kingdoms"
+        ],
+        [
+            "Heartache Vi",
+            "ᐸ3"
+        ]
+    ],
+    "Camille": [
+        [
+            "Arcana Camille",
+            "Arcana"
+        ],
+        [
+            "Coven Camille",
+            "Eclipse"
+        ],
+        [
+            "iG Camille",
+            "Esports"
+        ],
+        [
+            "Strike Commander Camille",
+            "Iron Firmament"
+        ],
+        [
+            "Program Camille",
+            "PROJECT"
+        ],
+        [
+            "Prestige Winterblessed Camille",
+            "Tales of Borealis"
+        ],
+        [
+            "Winterblessed Camille",
+            "Tales of Borealis"
+        ]
+    ],
+    "Rakan": [
+        [
+            "Arcana Rakan",
+            "Arcana"
+        ],
+        [
+            "Sweetheart Rakan",
+            "Be Mine"
+        ],
+        [
+            "Elderwood Rakan",
+            "Eclipse"
+        ],
+        [
+            "SSG Rakan",
+            "Esports"
+        ],
+        [
+            "iG Rakan",
+            "Esports"
+        ],
+        [
+            "Cosmic Dawn Rakan",
+            "Event Horizon"
+        ],
+        [
+            "Broken Covenant Rakan",
+            "Forsaken Hymn"
+        ],
+        [
+            "Dragonmancer Rakan",
+            "Four Beasts"
+        ],
+        [
+            "Prestige Dragonmancer Rakan",
+            "Four Beasts"
+        ],
+        [
+            "Star Guardian Rakan",
+            "Star Guardian"
+        ],
+        [
+            "Redeemed Star Guardian Rakan",
+            "Star Guardian"
+        ]
+    ],
+    "Tahm Kench": [
+        [
+            "Arcana Tahm Kench",
+            "Arcana"
+        ],
+        [
+            "Master Chef Tahm Kench",
+            "Culinary Masters"
+        ],
+        [
+            "High Noon Tahm Kench",
+            "High Noon Gothic"
+        ],
+        [
+            "Coin Emperor Tahm Kench",
+            "Lunar New Year"
+        ],
+        [
+            "Shan Hai Scrolls Tahm Kench",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Urf Kench",
+            "The Grind"
+        ]
+    ],
+    "Xerath": [
+        [
+            "Arcana Xerath",
+            "Arcana"
+        ],
+        [
+            "Battlecast Xerath",
+            "Battlecast"
+        ],
+        [
+            "Dark Star Xerath",
+            "Event Horizon"
+        ],
+        [
+            "Guardian of the Sands Xerath",
+            "Guardian of the Sands"
+        ],
+        [
+            "Scorched Earth Xerath",
+            "Infernal"
+        ],
+        [
+            "Runeborn Xerath",
+            "Legacy"
+        ],
+        [
+            "Crystalis Indomitus Xerath",
+            "Magicae Prismatica"
+        ],
+        [
+            "Astronaut Xerath",
+            "Star Voyagers"
+        ]
+    ],
+    "Jayce": [
+        [
+            "Arcane Jayce",
+            "Arcane"
+        ],
+        [
+            "Resistance Jayce",
+            "Battlecast"
+        ],
+        [
+            "Debonair Jayce",
+            "Crime City Nightmare"
+        ],
+        [
+            "Prestige T1 Jayce",
+            "Esports"
+        ],
+        [
+            "T1 Jayce",
+            "Esports"
+        ],
+        [
+            "Battle Academia Jayce",
+            "God Weapon"
+        ],
+        [
+            "Full Metal Jayce",
+            "Heavy Metal"
+        ],
+        [
+            "Zenith Games Jayce",
+            "Kinetex Machina"
+        ],
+        [
+            "Forsaken Jayce",
+            "Legacy"
+        ],
+        [
+            "Jayce Brighthammer",
+            "Riftquest"
+        ]
+    ],
+    "Kog'Maw": [
+        [
+            "Arcanist Kog'Maw",
+            "Arcanists"
+        ],
+        [
+            "Battlecast Kog'Maw",
+            "Battlecast"
+        ],
+        [
+            "Bee'Maw",
+            "Bees"
+        ],
+        [
+            "Deep Sea Kog'Maw",
+            "Forgotten Depths"
+        ],
+        [
+            "Hextech Kog'Maw",
+            "Hextech"
+        ],
+        [
+            "Sonoran Kog'Maw",
+            "High Noon Gothic"
+        ],
+        [
+            "Monarch Kog'Maw",
+            "Legacy"
+        ],
+        [
+            "Lion Dance Kog'Maw",
+            "Lunar New Year"
+        ],
+        [
+            "Zap'Maw",
+            "Monster Tamers"
+        ],
+        [
+            "Shan Hai Scrolls Kog'Maw",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Reindeer Kog'Maw",
+            "Snowdown"
+        ],
+        [
+            "Caterpillar Kog'Maw",
+            "Storybook"
+        ],
+        [
+            "Jurassic Kog'Maw",
+            "The Grind"
+        ],
+        [
+            "Pug'Maw",
+            "Toy Box"
+        ],
+        [
+            "Victorious Kog'Maw",
+            "Victorious"
+        ]
+    ],
+    "Shaco": [
+        [
+            "Arcanist Shaco",
+            "Arcanists"
+        ],
+        [
+            "Crime City Nightmare Shaco",
+            "Crime City Nightmare"
+        ],
+        [
+            "Dark Star Shaco",
+            "Event Horizon"
+        ],
+        [
+            "Asylum Shaco",
+            "Legacy"
+        ],
+        [
+            "Royal Shaco",
+            "Legacy"
+        ],
+        [
+            "Workshop Shaco",
+            "Legacy"
+        ],
+        [
+            "Fright Night Shaco",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Nutcracko",
+            "Snowdown"
+        ],
+        [
+            "Prestige Soul Fighter Shaco",
+            "Soul Fighter"
+        ],
+        [
+            "Soul Fighter Shaco",
+            "Soul Fighter"
+        ],
+        [
+            "Wild Card Shaco",
+            "Storybook"
+        ],
+        [
+            "Mad Hatter Shaco",
+            "Storybook"
+        ],
+        [
+            "Winterblessed Shaco",
+            "Tales of Borealis"
+        ],
+        [
+            "Masked Shaco",
+            "Wonders of the World"
+        ]
+    ],
+    "Zoe": [
+        [
+            "Arcanist Zoe",
+            "Arcanists"
+        ],
+        [
+            "Prestige Arcanist Zoe",
+            "Arcanists"
+        ],
+        [
+            "EDG Zoe",
+            "Esports"
+        ],
+        [
+            "Cyber Pop Zoe",
+            "PROJECT"
+        ],
+        [
+            "Star Guardian Zoe",
+            "Star Guardian"
+        ],
+        [
+            "Pool Party Zoe",
+            "Sunkissed Summer"
+        ],
+        [
+            "Winterblessed Zoe",
+            "Tales of Borealis"
+        ]
+    ],
+    "Lux": [
+        [
+            "Spellthief Lux",
+            "Arcanists"
+        ],
+        [
+            "Elementalist Lux",
+            "Elementalist"
+        ],
+        [
+            "Cosmic Lux",
+            "Event Horizon"
+        ],
+        [
+            "Dark Cosmic Lux",
+            "Event Horizon"
+        ],
+        [
+            "Battle Academia Lux",
+            "God Weapon"
+        ],
+        [
+            "Prestige Battle Academia Lux",
+            "God Weapon"
+        ],
+        [
+            "Prestige Battle Academia Lux (2022)",
+            "God Weapon"
+        ],
+        [
+            "Steel Legion Lux",
+            "Iron Firmament"
+        ],
+        [
+            "Imperial Lux",
+            "Legacy"
+        ],
+        [
+            "Lunar Empress Lux",
+            "Lunar New Year"
+        ],
+        [
+            "Porcelain Lux",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Porcelain Lux",
+            "Lunar New Year"
+        ],
+        [
+            "Empyrean Lux",
+            "Neon Strata"
+        ],
+        [
+            "Soul Fighter Lux",
+            "Soul Fighter"
+        ],
+        [
+            "Space Groove Lux",
+            "Space Groove"
+        ],
+        [
+            "Pajama Guardian Lux",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Lux",
+            "Star Guardian"
+        ],
+        [
+            "Commando Lux",
+            "War is Heck"
+        ],
+        [
+            "Faerie Court Lux",
+            "Winged Reign"
+        ],
+        [
+            "Sorceress Lux",
+            "Ye Olde"
+        ]
+    ],
+    "Varus": [
+        [
+            "Arclight Varus",
+            "Arclight"
+        ],
+        [
+            "Heartseeker Varus",
+            "Be Mine"
+        ],
+        [
+            "Conqueror Varus",
+            "Esports"
+        ],
+        [
+            "Cosmic Hunter Varus",
+            "Event Horizon"
+        ],
+        [
+            "Dark Star Varus",
+            "Event Horizon"
+        ],
+        [
+            "High Noon Varus",
+            "High Noon Gothic"
+        ],
+        [
+            "Infernal Varus",
+            "Infernal"
+        ],
+        [
+            "Blight Crystal Varus",
+            "Legacy"
+        ],
+        [
+            "Snow Moon Varus",
+            "Moons of Ionia"
+        ],
+        [
+            "Empyrean Varus",
+            "Neon Strata"
+        ],
+        [
+            "PROJECT: Varus",
+            "PROJECT"
+        ],
+        [
+            "Arctic Ops Varus",
+            "PsyOps"
+        ],
+        [
+            "Varus Swiftbolt",
+            "Riftquest"
+        ]
+    ],
+    "Vel'Koz": [
+        [
+            "Arclight Vel'Koz",
+            "Arclight"
+        ],
+        [
+            "Battlecast Vel'Koz",
+            "Battlecast"
+        ],
+        [
+            "Bee'Koz",
+            "Bees"
+        ],
+        [
+            "Blackfrost Vel'Koz",
+            "Blackfrost"
+        ],
+        [
+            "Definitely Not Vel'Koz",
+            "Definitely Not"
+        ],
+        [
+            "Infernal Vel'Koz",
+            "Infernal"
+        ]
+    ],
+    "Yorick": [
+        [
+            "Arclight Yorick",
+            "Arclight"
+        ],
+        [
+            "Resistance Yorick",
+            "Battlecast"
+        ],
+        [
+            "Meowrick",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Undertaker Yorick",
+            "Eclipse"
+        ],
+        [
+            "Pentakill Yorick",
+            "Riot Records"
+        ],
+        [
+            "Pentakill III: Lost Chapter Yorick",
+            "Riot Records"
+        ],
+        [
+            "Spirit Blossom Yorick",
+            "Spirit Blossom"
+        ]
+    ],
+    "Syndra": [
+        [
+            "Justicar Syndra",
+            "Arclight"
+        ],
+        [
+            "Withered Rose Syndra",
+            "Crystal Rose"
+        ],
+        [
+            "Coven Syndra",
+            "Eclipse"
+        ],
+        [
+            "SKT T1 Syndra",
+            "Esports"
+        ],
+        [
+            "Atlantean Syndra",
+            "Forgotten Depths"
+        ],
+        [
+            "Snow Day Syndra",
+            "Snowdown"
+        ],
+        [
+            "Spirit Blossom Syndra",
+            "Spirit Blossom"
+        ],
+        [
+            "Star Guardian Syndra",
+            "Star Guardian"
+        ],
+        [
+            "Prestige Star Guardian Syndra",
+            "Star Guardian"
+        ],
+        [
+            "Queen of Diamonds Syndra",
+            "Storybook"
+        ],
+        [
+            "Pool Party Syndra",
+            "Sunkissed Summer"
+        ],
+        [
+            "Bewitching Syndra",
+            "Tales from the Rift"
+        ]
+    ],
+    "Annie": [
+        [
+            "Battle Princess Annie",
+            "Battle Queens"
+        ],
+        [
+            "Sweetheart Annie",
+            "Be Mine"
+        ],
+        [
+            "Cafe Cuties Annie",
+            "Cafe Cuties"
+        ],
+        [
+            "Hextech Annie",
+            "Hextech"
+        ],
+        [
+            "Reverse Annie",
+            "Legacy"
+        ],
+        [
+            "Lunar Beast Annie",
+            "Lunar New Year"
+        ],
+        [
+            "Panda Annie",
+            "Lunar New Year"
+        ],
+        [
+            "Fright Night Annie",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Goth Annie",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Frostfire Annie",
+            "Snowdown"
+        ],
+        [
+            "Annie in Wonderland",
+            "Storybook"
+        ],
+        [
+            "Red Riding Annie",
+            "Storybook"
+        ],
+        [
+            "Super Galaxy Annie",
+            "Super Galaxy"
+        ],
+        [
+            "FrankenTibbers Annie",
+            "Tales from the Rift"
+        ],
+        [
+            "Winterblessed Annie",
+            "Tales of Borealis"
+        ],
+        [
+            "Prom Queen Annie",
+            "The Grind"
+        ],
+        [
+            "Annie-Versary",
+            "The Grind"
+        ]
+    ],
+    "Diana": [
+        [
+            "Battle Queen Diana",
+            "Battle Queens"
+        ],
+        [
+            "Prestige Battle Queen Diana",
+            "Battle Queens"
+        ],
+        [
+            "Dark Waters Diana",
+            "Dark Waters"
+        ],
+        [
+            "Dragonslayer Diana",
+            "Dragon World"
+        ],
+        [
+            "Dark Valkyrie Diana",
+            "Fables"
+        ],
+        [
+            "Infernal Diana",
+            "Infernal"
+        ],
+        [
+            "Heavenscale Diana",
+            "Lunar New Year"
+        ],
+        [
+            "Lunar Goddess Diana",
+            "Lunar New Year"
+        ],
+        [
+            "Firecracker Diana",
+            "Lunar New Year"
+        ],
+        [
+            "Blood Moon Diana",
+            "Moons of Ionia"
+        ],
+        [
+            "Winterblessed Diana",
+            "Tales of Borealis"
+        ],
+        [
+            "Sentinel Diana",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Gwen": [
+        [
+            "Battle Queen Gwen",
+            "Battle Queens"
+        ],
+        [
+            "Cafe Cuties Gwen",
+            "Cafe Cuties"
+        ],
+        [
+            "Soul Fighter Gwen",
+            "Soul Fighter"
+        ],
+        [
+            "Space Groove Gwen",
+            "Space Groove"
+        ]
+    ],
+    "Rell": [
+        [
+            "Battle Queen Rell",
+            "Battle Queens"
+        ],
+        [
+            "High Noon Rell",
+            "High Noon Gothic"
+        ],
+        [
+            "Star Guardian Rell",
+            "Star Guardian"
+        ]
+    ],
+    "Nasus": [
+        [
+            "Battlecast Nasus",
+            "Battlecast"
+        ],
+        [
+            "Dreadknight Nasus",
+            "Dreadknights"
+        ],
+        [
+            "Galactic Nasus",
+            "Galactic"
+        ],
+        [
+            "Pharaoh Nasus",
+            "Guardian of the Sands"
+        ],
+        [
+            "Infernal Nasus",
+            "Infernal"
+        ],
+        [
+            "Armored Titan Nasus",
+            "Iron Firmament"
+        ],
+        [
+            "Lunar Guardian Nasus",
+            "Lunar New Year"
+        ],
+        [
+            "Space Groove Nasus",
+            "Space Groove"
+        ],
+        [
+            "Riot K-9 Nasus",
+            "The Badge"
+        ],
+        [
+            "Archduke Nasus",
+            "The Grind"
+        ],
+        [
+            "Nightbringer Nasus",
+            "Versus"
+        ],
+        [
+            "Worldbreaker Nasus",
+            "Worldbreaker"
+        ]
+    ],
+    "Urgot": [
+        [
+            "Battlecast Urgot",
+            "Battlecast"
+        ],
+        [
+            "Pajama Guardian Cosplay Urgot",
+            "Definitely Not"
+        ],
+        [
+            "High Noon Urgot",
+            "High Noon Gothic"
+        ],
+        [
+            "Giant Enemy Crabgot",
+            "Mecha"
+        ],
+        [
+            "Fright Night Urgot",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Butcher Urgot",
+            "Tales from the Rift"
+        ]
+    ],
+    "Zac": [
+        [
+            "Battlecast Zac",
+            "Battlecast"
+        ],
+        [
+            "SKT T1 Zac",
+            "Esports"
+        ],
+        [
+            "Special Weapon Zac",
+            "Legacy"
+        ],
+        [
+            "Empyrean Zac",
+            "Neon Strata"
+        ],
+        [
+            "Pool Party Zac",
+            "Sunkissed Summer"
+        ],
+        [
+            "Zesty Dip Zac",
+            "N/A"
+        ]
+    ],
+    "Skarner": [
+        [
+            "Battlecast Alpha Skarner",
+            "Battlecast"
+        ],
+        [
+            "Cosmic Sting Skarner",
+            "Event Horizon"
+        ],
+        [
+            "Guardian of the Sands Skarner",
+            "Guardian of the Sands"
+        ],
+        [
+            "Sandscourge Skarner",
+            "High Noon Gothic"
+        ],
+        [
+            "Earthrune Skarner",
+            "N/A"
+        ]
+    ],
+    "Cho'Gath": [
+        [
+            "Battlecast Prime Cho'Gath",
+            "Battlecast"
+        ],
+        [
+            "Dark Star Cho'Gath",
+            "Event Horizon"
+        ],
+        [
+            "Loch Ness Cho'Gath",
+            "Fables"
+        ],
+        [
+            "Broken Covenant Cho'Gath",
+            "Forsaken Hymn"
+        ],
+        [
+            "Nightmare Cho'Gath",
+            "Legacy"
+        ],
+        [
+            "Prehistoric Cho'Gath",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Shan Hai Scrolls Cho'Gath",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Jurassic Cho'Gath",
+            "The Grind"
+        ],
+        [
+            "Gentleman Cho'Gath",
+            "The Grind"
+        ],
+        [
+            "Toy Terror Cho'Gath",
+            "Toy Box"
+        ]
+    ],
+    "Singed": [
+        [
+            "Resistance Singed",
+            "Battlecast"
+        ],
+        [
+            "Beekeeper Singed",
+            "Bees"
+        ],
+        [
+            "Black Scourge Singed",
+            "Eclipse"
+        ],
+        [
+            "SSW Singed",
+            "Esports"
+        ],
+        [
+            "Hextech Singed",
+            "Hextech"
+        ],
+        [
+            "Augmented Singed",
+            "Silver Age"
+        ],
+        [
+            "Snow Day Singed",
+            "Snowdown"
+        ],
+        [
+            "Astronaut Singed",
+            "Star Voyagers"
+        ],
+        [
+            "Surfer Singed",
+            "Sunkissed Summer"
+        ],
+        [
+            "Riot Squad Singed",
+            "The Badge"
+        ],
+        [
+            "Mad Scientist Singed",
+            "The Grind"
+        ]
+    ],
+    "Orianna": [
+        [
+            "Heartseeker Orianna",
+            "Be Mine"
+        ],
+        [
+            "Orbeeanna",
+            "Bees"
+        ],
+        [
+            "TPA Orianna",
+            "Esports"
+        ],
+        [
+            "T1 Orianna",
+            "Esports"
+        ],
+        [
+            "Dark Star Orianna",
+            "Event Horizon"
+        ],
+        [
+            "Bladecraft Orianna",
+            "Legacy"
+        ],
+        [
+            "Gothic Orianna",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Winter Wonder Orianna",
+            "Snowdown"
+        ],
+        [
+            "Star Guardian Orianna",
+            "Star Guardian"
+        ],
+        [
+            "Pool Party Orianna",
+            "Sunkissed Summer"
+        ],
+        [
+            "Sewn Chaos Orianna",
+            "Toy Box"
+        ],
+        [
+            "Victorious Orianna",
+            "Victorious"
+        ]
+    ],
+    "Teemo": [
+        [
+            "Beemo",
+            "Bees"
+        ],
+        [
+            "Cottontail Teemo",
+            "Cottontail"
+        ],
+        [
+            "Little Devil Teemo",
+            "Demonic"
+        ],
+        [
+            "Badger Teemo",
+            "Legacy"
+        ],
+        [
+            "Recon Teemo",
+            "Legacy"
+        ],
+        [
+            "Firecracker Teemo",
+            "Lunar New Year"
+        ],
+        [
+            "Super Teemo",
+            "Silver Age"
+        ],
+        [
+            "Happy Elf Teemo",
+            "Snowdown"
+        ],
+        [
+            "Space Groove Teemo",
+            "Space Groove"
+        ],
+        [
+            "Prestige Spirit Blossom Teemo",
+            "Spirit Blossom"
+        ],
+        [
+            "Spirit Blossom Teemo",
+            "Spirit Blossom"
+        ],
+        [
+            "Astronaut Teemo",
+            "Star Voyagers"
+        ],
+        [
+            "Omega Squad Teemo",
+            "War is Heck"
+        ],
+        [
+            "Panda Teemo",
+            "Wonders of the World"
+        ]
+    ],
+    "Heimerdinger": [
+        [
+            "Heimerstinger",
+            "Bees"
+        ],
+        [
+            "Dragon Trainer Heimerdinger",
+            "Dragon World"
+        ],
+        [
+            "Blast Zone Heimerdinger",
+            "Highway Heretics"
+        ],
+        [
+            "Piltover Customs Heimerdinger",
+            "Piltover Customs"
+        ],
+        [
+            "Snowmerdinger",
+            "Snowdown"
+        ],
+        [
+            "Alien Invader Heimerdinger",
+            "Star Voyagers"
+        ],
+        [
+            "Pool Party Heimerdinger",
+            "Sunkissed Summer"
+        ],
+        [
+            "Hazmat Heimerdinger",
+            "The Grind"
+        ]
+    ],
+    "Nunu & Willump": [
+        [
+            "Nunu & Beelump",
+            "Bees"
+        ],
+        [
+            "TPA Nunu & Willump",
+            "Esports"
+        ],
+        [
+            "Cosmic Paladins Nunu & Willump",
+            "Event Horizon"
+        ],
+        [
+            "Sasquatch Nunu & Willump",
+            "Fables"
+        ],
+        [
+            "Papercraft Nunu & Willump",
+            "Folded Edges"
+        ],
+        [
+            "Nunu & Willump Bot",
+            "Heavy Metal"
+        ],
+        [
+            "Fright Night Nunu & Willump",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Demolisher Nunu & Willump",
+            "Riftquest"
+        ],
+        [
+            "Workshop Nunu & Willump",
+            "Snowdown"
+        ],
+        [
+            "Space Groove Nunu & Willump",
+            "Space Groove"
+        ],
+        [
+            "Grungy Nunu & Willump",
+            "Toy Box"
+        ],
+        [
+            "Zombie Nunu & Willump",
+            "Zombie VS Slayers"
+        ]
+    ],
+    "Anivia": [
+        [
+            "Blackfrost Anivia",
+            "Blackfrost"
+        ],
+        [
+            "Cosmic Flight Anivia",
+            "Event Horizon"
+        ],
+        [
+            "Papercraft Anivia",
+            "Folded Edges"
+        ],
+        [
+            "Divine Phoenix Anivia",
+            "Four Beasts"
+        ],
+        [
+            "Hextech Anivia",
+            "Hextech"
+        ],
+        [
+            "Noxus Hunter Anivia",
+            "Legacy"
+        ],
+        [
+            "Prehistoric Anivia",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Bewitching Batnivia",
+            "Tales from the Rift"
+        ],
+        [
+            "Victorious Anivia",
+            "Victorious"
+        ],
+        [
+            "Team Spirit Anivia",
+            "Winter Sports"
+        ],
+        [
+            "Bird of Prey Anivia",
+            "Wonders of the World"
+        ],
+        [
+            "Festival Queen Anivia",
+            "Wonders of the World"
+        ]
+    ],
+    "Sion": [
+        [
+            "Blackfrost Sion",
+            "Blackfrost"
+        ],
+        [
+            "Cosmic Paladin Sion",
+            "Event Horizon"
+        ],
+        [
+            "Hextech Sion",
+            "Hextech"
+        ],
+        [
+            "High Noon Sion",
+            "High Noon Gothic"
+        ],
+        [
+            "Warmonger Sion",
+            "Legacy"
+        ],
+        [
+            "Mecha Zero Sion",
+            "Mecha"
+        ],
+        [
+            "Barbarian Sion",
+            "Riftquest"
+        ],
+        [
+            "Lumberjack Sion",
+            "The Grind"
+        ],
+        [
+            "Worldbreaker Sion",
+            "Worldbreaker"
+        ]
+    ],
+    "Shyvana": [
+        [
+            "Ice Drake Shyvana",
+            "Blackfrost"
+        ],
+        [
+            "Worlds 2014 Shyvana",
+            "Esports"
+        ],
+        [
+            "Immortal Journey Shyvana",
+            "Immortal Journey"
+        ],
+        [
+            "Darkflame Shyvana",
+            "Legacy"
+        ],
+        [
+            "Ironscale Shyvana",
+            "Legacy"
+        ],
+        [
+            "Boneclaw Shyvana",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Super Galaxy Shyvana",
+            "Super Galaxy"
+        ],
+        [
+            "Ruined Shyvana",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Lissandra": [
+        [
+            "Bloodstone Lissandra",
+            "Bloodstone"
+        ],
+        [
+            "Coven Lissandra",
+            "Eclipse"
+        ],
+        [
+            "Blade Queen Lissandra",
+            "Eclipse"
+        ],
+        [
+            "Dark Cosmic Lissandra",
+            "Event Horizon"
+        ],
+        [
+            "Porcelain Lissandra",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Porcelain Lissandra",
+            "Lunar New Year"
+        ],
+        [
+            "Program Lissandra",
+            "PROJECT"
+        ],
+        [
+            "Space Groove Lissandra",
+            "Space Groove"
+        ]
+    ],
+    "Bard": [
+        [
+            "Cafe Cuties Bard",
+            "Cafe Cuties"
+        ],
+        [
+            "Elderwood Bard",
+            "Eclipse"
+        ],
+        [
+            "T1 Bard",
+            "Esports"
+        ],
+        [
+            "Bard Bard",
+            "Riftquest"
+        ],
+        [
+            "Shan Hai Scrolls Bard",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Snow Day Bard",
+            "Snowdown"
+        ],
+        [
+            "Astronaut Bard",
+            "Star Voyagers"
+        ]
+    ],
+    "Lulu": [
+        [
+            "Cafe Cuties Lulu",
+            "Cafe Cuties"
+        ],
+        [
+            "Dragon Trainer Lulu",
+            "Dragon World"
+        ],
+        [
+            "Cosmic Enchantress Lulu",
+            "Event Horizon"
+        ],
+        [
+            "Monster Tamer Lulu",
+            "Monster Tamers"
+        ],
+        [
+            "Winter Wonder Lulu",
+            "Snowdown"
+        ],
+        [
+            "Prestige Space Groove Lulu",
+            "Space Groove"
+        ],
+        [
+            "Space Groove Lulu",
+            "Space Groove"
+        ],
+        [
+            "Pajama Guardian Lulu",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Lulu",
+            "Star Guardian"
+        ],
+        [
+            "Bittersweet Lulu",
+            "Sugar Rush"
+        ],
+        [
+            "Pool Party Lulu",
+            "Sunkissed Summer"
+        ],
+        [
+            "Wicked Lulu",
+            "Tales from the Rift"
+        ]
+    ],
+    "Sivir": [
+        [
+            "Cafe Cuties Sivir",
+            "Cafe Cuties"
+        ],
+        [
+            "Pizza Delivery Sivir",
+            "Culinary Masters"
+        ],
+        [
+            "Solar Eclipse Sivir",
+            "Eclipse"
+        ],
+        [
+            "Primal Ambush Sivir",
+            "Fury and Fang"
+        ],
+        [
+            "Warden Sivir",
+            "Institute of War"
+        ],
+        [
+            "Bandit Sivir",
+            "Legacy"
+        ],
+        [
+            "Spectacular Sivir",
+            "Legacy"
+        ],
+        [
+            "Warrior Princess Sivir",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Sivir",
+            "Moons of Ionia"
+        ],
+        [
+            "Odyssey Sivir",
+            "Odyssey"
+        ],
+        [
+            "Neo PAX Sivir",
+            "PAX"
+        ],
+        [
+            "PAX Sivir",
+            "PAX"
+        ],
+        [
+            "Huntress Sivir",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Snowstorm Sivir",
+            "Snowdown"
+        ],
+        [
+            "Mythmaker Sivir",
+            "Storycraft"
+        ],
+        [
+            "Prestige Mythmaker Sivir",
+            "Storycraft"
+        ],
+        [
+            "Victorious Sivir",
+            "Victorious"
+        ],
+        [
+            "Ann-Sivir-sary",
+            "N/A"
+        ]
+    ],
+    "Kled": [
+        [
+            "Kibble-Head Kled",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Marauder Kled",
+            "Institute of War"
+        ],
+        [
+            "Count Kledula",
+            "Tales from the Rift"
+        ],
+        [
+            "Sir Kled",
+            "Ye Olde"
+        ]
+    ],
+    "Nidalee": [
+        [
+            "Kittalee",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Challenger Nidalee",
+            "Esports"
+        ],
+        [
+            "DWG Nidalee",
+            "Esports"
+        ],
+        [
+            "Cosmic Huntress Nidalee",
+            "Event Horizon"
+        ],
+        [
+            "Pharaoh Nidalee",
+            "Guardian of the Sands"
+        ],
+        [
+            "Headhunter Nidalee",
+            "Headhunter"
+        ],
+        [
+            "Leopard Nidalee",
+            "Legacy"
+        ],
+        [
+            "Snow Bunny Nidalee",
+            "Snowdown"
+        ],
+        [
+            "La Ilusión Nidalee",
+            "Sueño de Vida"
+        ],
+        [
+            "Ocean Song Nidalee",
+            "Sunkissed Summer"
+        ],
+        [
+            "Super Galaxy Nidalee",
+            "Super Galaxy"
+        ],
+        [
+            "Bewitching Nidalee",
+            "Tales from the Rift"
+        ],
+        [
+            "French Maid Nidalee",
+            "The Grind"
+        ],
+        [
+            "Dawnbringer Nidalee",
+            "Versus"
+        ],
+        [
+            "Warring Kingdoms Nidalee",
+            "Warring Kingdoms"
+        ]
+    ],
+    "Maokai": [
+        [
+            "Meowkai",
+            "Cats Versus Dogs"
+        ],
+        [
+            "DRX Maokai",
+            "Esports"
+        ],
+        [
+            "Charred Maokai",
+            "Infernal"
+        ],
+        [
+            "Totemic Maokai",
+            "Legacy"
+        ],
+        [
+            "Festive Maokai",
+            "Snowdown"
+        ],
+        [
+            "Astronaut Maokai",
+            "Star Voyagers"
+        ],
+        [
+            "Haunted Maokai",
+            "Tales from the Rift"
+        ],
+        [
+            "Goalkeeper Maokai",
+            "The Grind"
+        ],
+        [
+            "Victorious Maokai",
+            "Victorious"
+        ],
+        [
+            "Worldbreaker Maokai",
+            "Worldbreaker"
+        ]
+    ],
+    "Rengar": [
+        [
+            "Pretty Kitty Rengar",
+            "Cats Versus Dogs"
+        ],
+        [
+            "Street Demons Rengar",
+            "Concrete Canvas"
+        ],
+        [
+            "SSW Rengar",
+            "Esports"
+        ],
+        [
+            "Guardian of the Sands Rengar",
+            "Guardian of the Sands"
+        ],
+        [
+            "Headhunter Rengar",
+            "Headhunter"
+        ],
+        [
+            "Night Hunter Rengar",
+            "Legacy"
+        ],
+        [
+            "Mecha Rengar",
+            "Mecha"
+        ],
+        [
+            "Sentinel Rengar",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Kindred": [
+        [
+            "Woof and Lamb Kindred",
+            "Cats Versus Dogs"
+        ],
+        [
+            "DRX Kindred",
+            "Esports"
+        ],
+        [
+            "Shadowfire Kindred",
+            "Infernal"
+        ],
+        [
+            "Porcelain Kindred",
+            "Lunar New Year"
+        ],
+        [
+            "Prestige Porcelain Kindred",
+            "Lunar New Year"
+        ],
+        [
+            "Spirit Blossom Kindred",
+            "Spirit Blossom"
+        ],
+        [
+            "Super Galaxy Kindred",
+            "Super Galaxy"
+        ]
+    ],
+    "Shen": [
+        [
+            "Shockblade Shen",
+            "Cloudedge"
+        ],
+        [
+            "TPA Shen",
+            "Esports"
+        ],
+        [
+            "Ashen Guardian Shen",
+            "Fallen World"
+        ],
+        [
+            "Frozen Shen",
+            "Glacial"
+        ],
+        [
+            "Infernal Shen",
+            "Infernal"
+        ],
+        [
+            "Warlord Shen",
+            "Legacy"
+        ],
+        [
+            "Yellow Jacket Shen",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Shen",
+            "Moons of Ionia"
+        ],
+        [
+            "PsyOps Shen",
+            "PsyOps"
+        ],
+        [
+            "Pulsefire Shen",
+            "Pulsefire"
+        ],
+        [
+            "Surgeon Shen",
+            "The Grind"
+        ]
+    ],
+    "Zed": [
+        [
+            "Shockblade Zed",
+            "Cloudedge"
+        ],
+        [
+            "Debonair Zed",
+            "Crime City Nightmare"
+        ],
+        [
+            "Death Sworn Zed",
+            "Death Sworn"
+        ],
+        [
+            "SKT T1 Zed",
+            "Esports"
+        ],
+        [
+            "Worlds 2016 Zed",
+            "Esports"
+        ],
+        [
+            "Immortal Journey Zed",
+            "Immortal Journey"
+        ],
+        [
+            "Blood Moon Zed",
+            "Moons of Ionia"
+        ],
+        [
+            "Empyrean Zed",
+            "Neon Strata"
+        ],
+        [
+            "Galaxy Slayer Zed",
+            "Odyssey"
+        ],
+        [
+            "Prestige PROJECT: Zed",
+            "PROJECT"
+        ],
+        [
+            "PROJECT: Zed",
+            "PROJECT"
+        ],
+        [
+            "PsyOps Zed",
+            "PsyOps"
+        ]
+    ],
+    "Dr. Mundo": [
+        [
+            "Street Demons Dr. Mundo",
+            "Concrete Canvas"
+        ],
+        [
+            "Executioner Mundo",
+            "Eclipse"
+        ],
+        [
+            "TPA Mundo",
+            "Esports"
+        ],
+        [
+            "Mr. Mundoverse",
+            "Legacy"
+        ],
+        [
+            "Rageborn Mundo",
+            "Riftquest"
+        ],
+        [
+            "Toxic Dr. Mundo",
+            "Silver Age"
+        ],
+        [
+            "Frozen Prince Mundo",
+            "Snowdown"
+        ],
+        [
+            "Pool Party Mundo",
+            "Sunkissed Summer"
+        ],
+        [
+            "Mundo Mundo",
+            "Tales from the Rift"
+        ],
+        [
+            "Corporate Mundo",
+            "The Grind"
+        ],
+        [
+            "El Macho Mundo",
+            "The Grind"
+        ]
+    ],
+    "Neeko": [
+        [
+            "Street Demons Neeko",
+            "Concrete Canvas"
+        ],
+        [
+            "Shan Hai Scrolls Neeko",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Winter Wonder Neeko",
+            "Snowdown"
+        ],
+        [
+            "Prestige Star Guardian Neeko",
+            "Star Guardian"
+        ],
+        [
+            "Prestige Star Guardian Neeko (2022)",
+            "Star Guardian"
+        ],
+        [
+            "Star Guardian Neeko",
+            "Star Guardian"
+        ],
+        [
+            "Bewitching Neeko",
+            "Tales from the Rift"
+        ],
+        [
+            "Cosplayer Neeko",
+            "N/A"
+        ]
+    ],
+    "Zyra": [
+        [
+            "Street Demons Zyra",
+            "Concrete Canvas"
+        ],
+        [
+            "Crime City Nightmare Zyra",
+            "Crime City Nightmare"
+        ],
+        [
+            "Crystal Rose Zyra",
+            "Crystal Rose"
+        ],
+        [
+            "Dragon Sorceress Zyra",
+            "Dragon World"
+        ],
+        [
+            "Coven Zyra",
+            "Eclipse"
+        ],
+        [
+            "Prestige Coven Zyra",
+            "Eclipse"
+        ],
+        [
+            "SKT T1 Zyra",
+            "Esports"
+        ],
+        [
+            "Wildfire Zyra",
+            "Infernal"
+        ],
+        [
+            "Blood Moon Zyra",
+            "Moons of Ionia"
+        ],
+        [
+            "Mythmaker Zyra",
+            "Storycraft"
+        ],
+        [
+            "Haunted Zyra",
+            "Tales from the Rift"
+        ]
+    ],
+    "Braum": [
+        [
+            "Crime City Braum",
+            "Crime City Nightmare"
+        ],
+        [
+            "Dragonslayer Braum",
+            "Dragon World"
+        ],
+        [
+            "Braum Lionheart",
+            "Riftquest"
+        ],
+        [
+            "Santa Braum",
+            "Snowdown"
+        ],
+        [
+            "Sugar Rush Braum",
+            "Sugar Rush"
+        ],
+        [
+            "Pool Party Braum",
+            "Sunkissed Summer"
+        ],
+        [
+            "El Tigre Braum",
+            "The Grind"
+        ]
+    ],
+    "Gragas": [
+        [
+            "Gragas, Esq.",
+            "Crime City Nightmare"
+        ],
+        [
+            "Fnatic Gragas",
+            "Esports"
+        ],
+        [
+            "High Noon Gragas",
+            "High Noon Gothic"
+        ],
+        [
+            "Vandal Gragas",
+            "Highway Heretics"
+        ],
+        [
+            "Warden Gragas",
+            "Institute of War"
+        ],
+        [
+            "Hillbilly Gragas",
+            "Legacy"
+        ],
+        [
+            "Arctic Ops Gragas",
+            "PsyOps"
+        ],
+        [
+            "Gragas Caskbreaker",
+            "Riftquest"
+        ],
+        [
+            "Santa Gragas",
+            "Snowdown"
+        ],
+        [
+            "Space Groove Gragas",
+            "Space Groove"
+        ],
+        [
+            "Scuba Gragas",
+            "The Grind"
+        ],
+        [
+            "Superfan Gragas",
+            "The Grind"
+        ],
+        [
+            "Oktoberfest Gragas",
+            "Wonders of the World"
+        ],
+        [
+            "Music Fan Gragas",
+            "N/A"
+        ]
+    ],
+    "Akali": [
+        [
+            "Crime City Nightmare Akali",
+            "Crime City Nightmare"
+        ],
+        [
+            "Sashimi Akali",
+            "Culinary Masters"
+        ],
+        [
+            "Coven Akali",
+            "Eclipse"
+        ],
+        [
+            "Prestige Coven Akali",
+            "Eclipse"
+        ],
+        [
+            "DRX Akali",
+            "Esports"
+        ],
+        [
+            "Headhunter Akali",
+            "Headhunter"
+        ],
+        [
+            "Infernal Akali",
+            "Infernal"
+        ],
+        [
+            "Silverfang Akali",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Akali",
+            "Moons of Ionia"
+        ],
+        [
+            "Empyrean Akali",
+            "Neon Strata"
+        ],
+        [
+            "PROJECT: Akali",
+            "PROJECT"
+        ],
+        [
+            "K/DA Akali",
+            "Riot Records"
+        ],
+        [
+            "K/DA ALL OUT Akali",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Akali",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Akali (2022)",
+            "Riot Records"
+        ],
+        [
+            "True Damage Akali",
+            "Riot Records"
+        ],
+        [
+            "Star Guardian Akali",
+            "Star Guardian"
+        ],
+        [
+            "Nurse Akali",
+            "The Grind"
+        ],
+        [
+            "All-star Akali",
+            "The Grind"
+        ],
+        [
+            "Stinger Akali",
+            "N/A"
+        ]
+    ],
+    "Draven": [
+        [
+            "Debonair Draven",
+            "Crime City Nightmare"
+        ],
+        [
+            "Soul Reaver Draven",
+            "Death Sworn"
+        ],
+        [
+            "Draven Draven",
+            "Definitely Not"
+        ],
+        [
+            "Gladiator Draven",
+            "Legacy"
+        ],
+        [
+            "Mecha Kingdoms Draven",
+            "Mecha Kingdoms"
+        ],
+        [
+            "Fright Night Draven",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Beast Hunter Draven",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Santa Draven",
+            "Snowdown"
+        ],
+        [
+            "La Ilusión Draven",
+            "Sueño de Vida"
+        ],
+        [
+            "Pool Party Draven",
+            "Sunkissed Summer"
+        ],
+        [
+            "Primetime Draven",
+            "The Grind"
+        ],
+        [
+            "Ruined Draven",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Galio": [
+        [
+            "Debonair Galio",
+            "Crime City Nightmare"
+        ],
+        [
+            "Birdio",
+            "Culinary Masters"
+        ],
+        [
+            "Gatekeeper Galio",
+            "Demonic"
+        ],
+        [
+            "Dragon Guardian Galio",
+            "Dragon World"
+        ],
+        [
+            "Hextech Galio",
+            "Hextech"
+        ],
+        [
+            "Infernal Galio",
+            "Infernal"
+        ],
+        [
+            "Enchanted Galio",
+            "Legacy"
+        ],
+        [
+            "Mythmaker Galio",
+            "Storycraft"
+        ],
+        [
+            "Commando Galio",
+            "War is Heck"
+        ]
+    ],
+    "LeBlanc": [
+        [
+            "Debonair LeBlanc",
+            "Crime City Nightmare"
+        ],
+        [
+            "Coven LeBlanc",
+            "Eclipse"
+        ],
+        [
+            "Prestige Coven LeBlanc",
+            "Eclipse"
+        ],
+        [
+            "Elderwood LeBlanc",
+            "Eclipse"
+        ],
+        [
+            "iG LeBlanc",
+            "Esports"
+        ],
+        [
+            "Worlds 2020 LeBlanc",
+            "Esports"
+        ],
+        [
+            "Wicked LeBlanc",
+            "Legacy"
+        ],
+        [
+            "Program LeBlanc",
+            "PROJECT"
+        ],
+        [
+            "Mistletoe LeBlanc",
+            "Snowdown"
+        ],
+        [
+            "Bewitching LeBlanc",
+            "Tales from the Rift"
+        ],
+        [
+            "Ravenborn LeBlanc",
+            "Tales from the Rift"
+        ],
+        [
+            "Prestigious LeBlanc",
+            "The Grind"
+        ],
+        [
+            "Risen Legend LeBlanc",
+            "N/A"
+        ]
+    ],
+    "Master Yi": [
+        [
+            "Debonair Master Yi",
+            "Crime City Nightmare"
+        ],
+        [
+            "Cosmic Blade Master Yi",
+            "Event Horizon"
+        ],
+        [
+            "Headhunter Master Yi",
+            "Headhunter"
+        ],
+        [
+            "Eternal Sword Yi",
+            "Immortal Journey"
+        ],
+        [
+            "Inkshadow Master Yi",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Assassin Master Yi",
+            "Legacy"
+        ],
+        [
+            "Chosen Master Yi",
+            "Legacy"
+        ],
+        [
+            "Ionia Master Yi",
+            "Legacy"
+        ],
+        [
+            "Samurai Yi",
+            "Legacy"
+        ],
+        [
+            "Heavenscale Master Yi",
+            "Lunar New Year"
+        ],
+        [
+            "Blood Moon Master Yi",
+            "Moons of Ionia"
+        ],
+        [
+            "PROJECT: Yi",
+            "PROJECT"
+        ],
+        [
+            "PsyOps Master Yi",
+            "PsyOps"
+        ],
+        [
+            "Snow Man Yi",
+            "Snowdown"
+        ],
+        [
+            "Prestige Spirit Blossom Master Yi",
+            "Spirit Blossom"
+        ],
+        [
+            "Spirit Blossom Master Yi",
+            "Spirit Blossom"
+        ]
+    ],
+    "Talon": [
+        [
+            "Crimson Elite Talon",
+            "Crimson Elite"
+        ],
+        [
+            "Withered Rose Talon",
+            "Crystal Rose"
+        ],
+        [
+            "SSW Talon",
+            "Esports"
+        ],
+        [
+            "Primal Ambush Talon",
+            "Fury and Fang"
+        ],
+        [
+            "High Noon Talon",
+            "High Noon Gothic"
+        ],
+        [
+            "Prestige High Noon Talon",
+            "High Noon Gothic"
+        ],
+        [
+            "Enduring Sword Talon",
+            "Immortal Journey"
+        ],
+        [
+            "Renegade Talon",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Talon",
+            "Moons of Ionia"
+        ],
+        [
+            "Talon Blackwood",
+            "Riftquest"
+        ],
+        [
+            "Dragonblade Talon",
+            "Warring Kingdoms"
+        ]
+    ],
+    "Akshan": [
+        [
+            "Crystal Rose Akshan",
+            "Crystal Rose"
+        ],
+        [
+            "Three Honors Akshan",
+            "Honor"
+        ],
+        [
+            "Cyber Pop Akshan",
+            "PROJECT"
+        ]
+    ],
+    "Elise": [
+        [
+            "Withered Rose Elise",
+            "Crystal Rose"
+        ],
+        [
+            "Coven Elise",
+            "Eclipse"
+        ],
+        [
+            "Death Blossom Elise",
+            "Eclipse"
+        ],
+        [
+            "SKT T1 Elise",
+            "Esports"
+        ],
+        [
+            "Blood Moon Elise",
+            "Moons of Ionia"
+        ],
+        [
+            "Super Galaxy Elise",
+            "Super Galaxy"
+        ],
+        [
+            "Bewitching Elise",
+            "Tales from the Rift"
+        ],
+        [
+            "Victorious Elise",
+            "Victorious"
+        ]
+    ],
+    "Zeri": [
+        [
+            "Withered Rose Zeri",
+            "Crystal Rose"
+        ],
+        [
+            "Immortal Journey Zeri",
+            "Immortal Journey"
+        ],
+        [
+            "Fright Night Zeri",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Prestige Fright Night Zeri",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Ocean Song Zeri",
+            "Sunkissed Summer"
+        ]
+    ],
+    "Pantheon": [
+        [
+            "Baker Pantheon",
+            "Culinary Masters"
+        ],
+        [
+            "Dragonslayer Pantheon",
+            "Dragon World"
+        ],
+        [
+            "Perseus Pantheon",
+            "Fables"
+        ],
+        [
+            "Ashen Conqueror Pantheon",
+            "Fallen World"
+        ],
+        [
+            "Full Metal Pantheon",
+            "Heavy Metal"
+        ],
+        [
+            "Ruthless Pantheon",
+            "Highway Heretics"
+        ],
+        [
+            "Pulsefire Pantheon",
+            "Pulsefire"
+        ],
+        [
+            "Prestige Ascended Pantheon",
+            "The Ruined King Saga"
+        ],
+        [
+            "Ruined Pantheon",
+            "The Ruined King Saga"
+        ],
+        [
+            "Glaive Warrior Pantheon",
+            "Wonders of the World"
+        ],
+        [
+            "Myrmidon Pantheon",
+            "Wonders of the World"
+        ],
+        [
+            "Zombie Slayer Pantheon",
+            "Zombie VS Slayers"
+        ]
+    ],
+    "Olaf": [
+        [
+            "Butcher Olaf",
+            "Culinary Masters"
+        ],
+        [
+            "Dragonslayer Olaf",
+            "Dragon World"
+        ],
+        [
+            "SKT T1 Olaf",
+            "Esports"
+        ],
+        [
+            "Glacial Olaf",
+            "Glacial"
+        ],
+        [
+            "Infernal Olaf",
+            "Infernal"
+        ],
+        [
+            "Marauder Olaf",
+            "Institute of War"
+        ],
+        [
+            "Forsaken Olaf",
+            "Legacy"
+        ],
+        [
+            "Pentakill Olaf",
+            "Riot Records"
+        ],
+        [
+            "Pentakill III: Lost Chapter Olaf",
+            "Riot Records"
+        ],
+        [
+            "Brolaf",
+            "The Grind"
+        ],
+        [
+            "Sentinel Olaf",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Morgana": [
+        [
+            "Sinful Succulence Morgana",
+            "Culinary Masters"
+        ],
+        [
+            "Coven Morgana",
+            "Eclipse"
+        ],
+        [
+            "Ghost Bride Morgana",
+            "Fables"
+        ],
+        [
+            "Majestic Empress Morgana",
+            "Immortal Journey"
+        ],
+        [
+            "Blade Mistress Morgana",
+            "Iron Firmament"
+        ],
+        [
+            "Lunar Wraith Morgana",
+            "Lunar New Year"
+        ],
+        [
+            "Porcelain Morgana",
+            "Lunar New Year"
+        ],
+        [
+            "Snow Moon Morgana",
+            "Moons of Ionia"
+        ],
+        [
+            "Star Nemesis Morgana",
+            "Star Guardian"
+        ],
+        [
+            "Bewitching Morgana",
+            "Tales from the Rift"
+        ],
+        [
+            "Prestige Bewitching Morgana",
+            "Tales from the Rift"
+        ],
+        [
+            "Dawnbringer Morgana",
+            "Versus"
+        ],
+        [
+            "Victorious Morgana",
+            "Victorious"
+        ],
+        [
+            "Exiled Morgana",
+            "Woad Tribe"
+        ],
+        [
+            "Blackthorn Morgana",
+            "Ye Olde"
+        ]
+    ],
+    "Kayn": [
+        [
+            "Soulhunter Kayn",
+            "Dark Waters"
+        ],
+        [
+            "Snow Moon Kayn",
+            "Moons of Ionia"
+        ],
+        [
+            "Odyssey Kayn",
+            "Odyssey"
+        ],
+        [
+            "HEARTSTEEL Kayn",
+            "Riot Records"
+        ],
+        [
+            "Nightbringer Kayn",
+            "Versus"
+        ],
+        [
+            "Prestige Nightbringer Kayn",
+            "Versus"
+        ]
+    ],
+    "Azir": [
+        [
+            "Gravelord Azir",
+            "Death Sworn"
+        ],
+        [
+            "Elderwood Azir",
+            "Eclipse"
+        ],
+        [
+            "SKT T1 Azir",
+            "Esports"
+        ],
+        [
+            "Worlds 2022 Azir",
+            "Esports"
+        ],
+        [
+            "Galactic Azir",
+            "Galactic"
+        ],
+        [
+            "Attorney Azir",
+            "The Grind"
+        ],
+        [
+            "Warring Kingdoms Azir",
+            "Warring Kingdoms"
+        ]
+    ],
+    "Evelynn": [
+        [
+            "Shadow Evelynn",
+            "Death Sworn"
+        ],
+        [
+            "Coven Evelynn",
+            "Eclipse"
+        ],
+        [
+            "High Noon Evelynn",
+            "High Noon Gothic"
+        ],
+        [
+            "Prestige High Noon Evelynn",
+            "High Noon Gothic"
+        ],
+        [
+            "Masquerade Evelynn",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Evelynn",
+            "Moons of Ionia"
+        ],
+        [
+            "K/DA Evelynn",
+            "Riot Records"
+        ],
+        [
+            "K/DA ALL OUT Evelynn",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Evelynn",
+            "Riot Records"
+        ],
+        [
+            "Prestige K/DA Evelynn (2022)",
+            "Riot Records"
+        ],
+        [
+            "Soul Fighter Evelynn",
+            "Soul Fighter"
+        ],
+        [
+            "Spirit Blossom Evelynn",
+            "Spirit Blossom"
+        ],
+        [
+            "Sugar Rush Evelynn",
+            "Sugar Rush"
+        ],
+        [
+            "Safecracker Evelynn",
+            "The Grind"
+        ],
+        [
+            "Tango Evelynn",
+            "The Grind"
+        ]
+    ],
+    "Wukong": [
+        [
+            "Underworld Wukong",
+            "Death Sworn"
+        ],
+        [
+            "Elderwood Wukong",
+            "Eclipse"
+        ],
+        [
+            "Battle Academia Wukong",
+            "God Weapon"
+        ],
+        [
+            "Volcanic Wukong",
+            "Infernal"
+        ],
+        [
+            "Lancer Stratus Wukong",
+            "Legacy"
+        ],
+        [
+            "General Wukong",
+            "Legacy"
+        ],
+        [
+            "Jade Dragon Wukong",
+            "Lunar New Year"
+        ],
+        [
+            "Radiant Wukong",
+            "Lunar New Year"
+        ]
+    ],
+    "Udyr": [
+        [
+            "Definitely Not Udyr",
+            "Definitely Not"
+        ],
+        [
+            "Dragon Oracle Udyr",
+            "Dragon World"
+        ],
+        [
+            "Inkshadow Udyr",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Primal Udyr",
+            "Prehistoric Hunters"
+        ],
+        [
+            "Spirit Guard Udyr",
+            "Spirit Guard"
+        ],
+        [
+            "Black Belt Udyr",
+            "The Grind"
+        ]
+    ],
+    "Mordekaiser": [
+        [
+            "Dragon Knight Mordekaiser",
+            "Dragon World"
+        ],
+        [
+            "Old God Mordekaiser",
+            "Eclipse"
+        ],
+        [
+            "Dark Star Mordekaiser",
+            "Event Horizon"
+        ],
+        [
+            "Ashen Graveknight Mordekaiser",
+            "Fallen World"
+        ],
+        [
+            "High Noon Mordekaiser",
+            "High Noon Gothic"
+        ],
+        [
+            "Infernal Mordekaiser",
+            "Infernal"
+        ],
+        [
+            "PROJECT: Mordekaiser",
+            "PROJECT"
+        ],
+        [
+            "Lord Mordekaiser",
+            "Riftquest"
+        ],
+        [
+            "Pentakill Mordekaiser",
+            "Riot Records"
+        ],
+        [
+            "Pentakill III: Lost Chapter Mordekaiser",
+            "Riot Records"
+        ],
+        [
+            "King of Clubs Mordekaiser",
+            "Storybook"
+        ]
+    ],
+    "Jarvan IV": [
+        [
+            "Dragonslayer Jarvan IV",
+            "Dragon World"
+        ],
+        [
+            "Fnatic Jarvan IV",
+            "Esports"
+        ],
+        [
+            "SSG Jarvan IV",
+            "Esports"
+        ],
+        [
+            "Worlds 2021 Jarvan IV",
+            "Esports"
+        ],
+        [
+            "Dark Star Jarvan IV",
+            "Event Horizon"
+        ],
+        [
+            "Hextech Jarvan IV",
+            "Hextech"
+        ],
+        [
+            "Darkforge Jarvan IV",
+            "Legacy"
+        ],
+        [
+            "Lunar Beast Jarvan IV",
+            "Lunar New Year"
+        ],
+        [
+            "Pool Party Jarvan IV",
+            "Sunkissed Summer"
+        ],
+        [
+            "Nightbringer Jarvan IV",
+            "Versus"
+        ],
+        [
+            "Victorious Jarvan IV",
+            "Victorious"
+        ],
+        [
+            "Commando Jarvan IV",
+            "War is Heck"
+        ],
+        [
+            "Warring Kingdoms Jarvan IV",
+            "Warring Kingdoms"
+        ]
+    ],
+    "Cassiopeia": [
+        [
+            "Coven Cassiopeia",
+            "Eclipse"
+        ],
+        [
+            "Mythic Cassiopeia",
+            "Fables"
+        ],
+        [
+            "Siren Cassiopeia",
+            "Fables"
+        ],
+        [
+            "Desperada Cassiopeia",
+            "High Noon Gothic"
+        ],
+        [
+            "Eternum Cassiopeia",
+            "Iron Firmament"
+        ],
+        [
+            "Jade Fang Cassiopeia",
+            "Lunar New Year"
+        ],
+        [
+            "Spirit Blossom Cassiopeia",
+            "Spirit Blossom"
+        ],
+        [
+            "Bewitching Cassiopeia",
+            "Tales from the Rift"
+        ]
+    ],
+    "Nami": [
+        [
+            "Coven Nami",
+            "Eclipse"
+        ],
+        [
+            "SKT T1 Nami",
+            "Esports"
+        ],
+        [
+            "Cosmic Destiny Nami",
+            "Event Horizon"
+        ],
+        [
+            "River Spirit Nami",
+            "Fables"
+        ],
+        [
+            "Deep Sea Nami",
+            "Forgotten Depths"
+        ],
+        [
+            "Splendid Staff Nami",
+            "Immortal Journey"
+        ],
+        [
+            "Koi Nami",
+            "Legacy"
+        ],
+        [
+            "Program Nami",
+            "PROJECT"
+        ],
+        [
+            "Prestige Space Groove Nami",
+            "Space Groove"
+        ],
+        [
+            "Space Groove Nami",
+            "Space Groove"
+        ],
+        [
+            "Bewitching Nami",
+            "Tales from the Rift"
+        ],
+        [
+            "Urf the Nami-tee",
+            "The Grind"
+        ]
+    ],
+    "Nilah": [
+        [
+            "Coven Nilah",
+            "Eclipse"
+        ],
+        [
+            "Star Guardian Nilah",
+            "Star Guardian"
+        ]
+    ],
+    "Ivern": [
+        [
+            "Old God Ivern",
+            "Eclipse"
+        ],
+        [
+            "Old God Ivern",
+            "Eclipse"
+        ],
+        [
+            "Astronaut Ivern",
+            "Star Voyagers"
+        ],
+        [
+            "Candy King Ivern",
+            "Sugar Rush"
+        ],
+        [
+            "Dunkmaster Ivern",
+            "The Grind"
+        ]
+    ],
+    "Kha'Zix": [
+        [
+            "Death Blossom Kha'Zix",
+            "Eclipse"
+        ],
+        [
+            "Worlds 2018 Kha'Zix",
+            "Esports"
+        ],
+        [
+            "Dark Star Kha'Zix",
+            "Event Horizon"
+        ],
+        [
+            "Guardian of the Sands Kha'Zix",
+            "Guardian of the Sands"
+        ],
+        [
+            "Lunar Guardian Kha'Zix",
+            "Lunar New Year"
+        ],
+        [
+            "Crystalis Indomitus Kha'Zix",
+            "Magicae Prismatica"
+        ],
+        [
+            "Mecha Kha'Zix",
+            "Mecha"
+        ],
+        [
+            "Odyssey Kha'Zix",
+            "Odyssey"
+        ]
+    ],
+    "Senna": [
+        [
+            "Lunar Eclipse Senna",
+            "Eclipse"
+        ],
+        [
+            "Prestige Lunar Eclipse Senna",
+            "Eclipse"
+        ],
+        [
+            "High Noon Senna",
+            "High Noon Gothic"
+        ],
+        [
+            "PROJECT: Senna",
+            "PROJECT"
+        ],
+        [
+            "Prestige True Damage Senna",
+            "Riot Records"
+        ],
+        [
+            "True Damage Senna",
+            "Riot Records"
+        ],
+        [
+            "Star Guardian Senna",
+            "Star Guardian"
+        ],
+        [
+            "Bewitching Senna",
+            "Tales from the Rift"
+        ],
+        [
+            "Winterblessed Senna",
+            "Tales of Borealis"
+        ]
+    ],
+    "Gnar": [
+        [
+            "Elderwood Gnar",
+            "Eclipse"
+        ],
+        [
+            "SSG Gnar",
+            "Esports"
+        ],
+        [
+            "Snow Day Gnar",
+            "Snowdown"
+        ],
+        [
+            "Astronaut Gnar",
+            "Star Voyagers"
+        ],
+        [
+            "La Ilusión Gnar",
+            "Sueño de Vida"
+        ],
+        [
+            "Super Galaxy Gnar",
+            "Super Galaxy"
+        ],
+        [
+            "Gentleman Gnar",
+            "The Grind"
+        ],
+        [
+            "El León Gnar",
+            "The Grind"
+        ],
+        [
+            "Dino Gnar",
+            "Toy Box"
+        ]
+    ],
+    "Karthus": [
+        [
+            "Elderwood Karthus",
+            "Eclipse"
+        ],
+        [
+            "Fnatic Karthus",
+            "Esports"
+        ],
+        [
+            "Infernal Karthus",
+            "Infernal"
+        ],
+        [
+            "Phantom Karthus",
+            "Legacy"
+        ],
+        [
+            "Karthus Lightsbane",
+            "Riftquest"
+        ],
+        [
+            "Pentakill Karthus",
+            "Riot Records"
+        ],
+        [
+            "Pentakill III: Lost Chapter Karthus",
+            "Riot Records"
+        ],
+        [
+            "Grim Reaper Karthus",
+            "Tales from the Rift"
+        ],
+        [
+            "Statue of Karthus",
+            "Wonders of the World"
+        ]
+    ],
+    "Ornn": [
+        [
+            "Elderwood Ornn",
+            "Eclipse"
+        ],
+        [
+            "Space Groove Ornn",
+            "Space Groove"
+        ],
+        [
+            "Thunder Lord Ornn",
+            "Thunder Lord"
+        ],
+        [
+            "Choo-Choo Ornn",
+            "Toy Box"
+        ]
+    ],
+    "Jax": [
+        [
+            "Conqueror Jax",
+            "Esports"
+        ],
+        [
+            "Prestige Conqueror Jax",
+            "Esports"
+        ],
+        [
+            "SKT T1 Jax",
+            "Esports"
+        ],
+        [
+            "Vandal Jax",
+            "Highway Heretics"
+        ],
+        [
+            "God Staff Jax",
+            "Immortal Journey"
+        ],
+        [
+            "Warden Jax",
+            "Institute of War"
+        ],
+        [
+            "Jaximus",
+            "Legacy"
+        ],
+        [
+            "Nemesis Jax",
+            "Legacy"
+        ],
+        [
+            "Temple Jax",
+            "Legacy"
+        ],
+        [
+            "Mecha Kingdoms Jax",
+            "Mecha Kingdoms"
+        ],
+        [
+            "Empyrean Jax",
+            "Neon Strata"
+        ],
+        [
+            "Neo PAX Jax",
+            "PAX"
+        ],
+        [
+            "PAX Jax",
+            "PAX"
+        ],
+        [
+            "PROJECT: Jax",
+            "PROJECT"
+        ],
+        [
+            "Angler Jax",
+            "The Grind"
+        ],
+        [
+            "The Mighty Jax",
+            "Winter Sports"
+        ]
+    ],
+    "Nautilus": [
+        [
+            "Conqueror Nautilus",
+            "Esports"
+        ],
+        [
+            "Cosmic Paladin Nautilus",
+            "Event Horizon"
+        ],
+        [
+            "Abyssal Nautilus",
+            "Forgotten Depths"
+        ],
+        [
+            "Warden Nautilus",
+            "Institute of War"
+        ],
+        [
+            "Subterranean Nautilus",
+            "Legacy"
+        ],
+        [
+            "Crystalis Indomitus Nautilus",
+            "Magicae Prismatica"
+        ],
+        [
+            "Fright Night Nautilus",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Shan Hai Scrolls Nautilus",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "AstroNautilus",
+            "Star Voyagers"
+        ],
+        [
+            "Worldbreaker Nautilus",
+            "Worldbreaker"
+        ]
+    ],
+    "Thresh": [
+        [
+            "SSW Thresh",
+            "Esports"
+        ],
+        [
+            "FPX Thresh",
+            "Esports"
+        ],
+        [
+            "Worlds 2013 Thresh",
+            "Esports"
+        ],
+        [
+            "Dark Star Thresh",
+            "Event Horizon"
+        ],
+        [
+            "Deep Terror Thresh",
+            "Forgotten Depths"
+        ],
+        [
+            "Steel Dragon Thresh",
+            "Four Beasts"
+        ],
+        [
+            "High Noon Thresh",
+            "High Noon Gothic"
+        ],
+        [
+            "Lunar Emperor Thresh",
+            "Lunar New Year"
+        ],
+        [
+            "Blood Moon Thresh",
+            "Moons of Ionia"
+        ],
+        [
+            "Prestige Pulsefire Thresh",
+            "Pulsefire"
+        ],
+        [
+            "Prestige Pulsefire Thresh (2022)",
+            "Pulsefire"
+        ],
+        [
+            "Pulsefire Thresh",
+            "Pulsefire"
+        ],
+        [
+            "Spirit Blossom Thresh",
+            "Spirit Blossom"
+        ],
+        [
+            "Winterblessed Thresh",
+            "Tales of Borealis"
+        ],
+        [
+            "Janitor Thresh",
+            "The Grind"
+        ],
+        [
+            "Unbound Thresh",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Kalista": [
+        [
+            "SKT T1 Kalista",
+            "Esports"
+        ],
+        [
+            "Worlds 2015 Kalista",
+            "Esports"
+        ],
+        [
+            "Marauder Kalista",
+            "Institute of War"
+        ],
+        [
+            "Blood Moon Kalista",
+            "Moons of Ionia"
+        ],
+        [
+            "Faerie Court Kalista",
+            "Winged Reign"
+        ]
+    ],
+    "Jhin": [
+        [
+            "SKT T1 Jhin",
+            "Esports"
+        ],
+        [
+            "DWG Jhin",
+            "Esports"
+        ],
+        [
+            "Dark Cosmic Jhin",
+            "Event Horizon"
+        ],
+        [
+            "Dark Cosmic Erasure Jhin",
+            "Event Horizon"
+        ],
+        [
+            "High Noon Jhin",
+            "High Noon Gothic"
+        ],
+        [
+            "Blood Moon Jhin",
+            "Moons of Ionia"
+        ],
+        [
+            "Empyrean Jhin",
+            "Neon Strata"
+        ],
+        [
+            "PROJECT: Jhin",
+            "PROJECT"
+        ],
+        [
+            "Shan Hai Scrolls Jhin",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Soul Fighter Jhin",
+            "Soul Fighter"
+        ]
+    ],
+    "Irelia": [
+        [
+            "iG Irelia",
+            "Esports"
+        ],
+        [
+            "High Noon Irelia",
+            "High Noon Gothic"
+        ],
+        [
+            "Divine Sword Irelia",
+            "Immortal Journey"
+        ],
+        [
+            "Nightblade Irelia",
+            "Legacy"
+        ],
+        [
+            "Porcelain Irelia",
+            "Lunar New Year"
+        ],
+        [
+            "Order of the Lotus Irelia",
+            "Order of the Lotus"
+        ],
+        [
+            "Prestige PROJECT: Irelia",
+            "PROJECT"
+        ],
+        [
+            "Prestige PROJECT: Irelia (2022)",
+            "PROJECT"
+        ],
+        [
+            "PROJECT: Irelia",
+            "PROJECT"
+        ],
+        [
+            "Infiltrator Irelia",
+            "Silver Age"
+        ],
+        [
+            "Frostblade Irelia",
+            "Snowdown"
+        ],
+        [
+            "Mythmaker Irelia",
+            "Storycraft"
+        ],
+        [
+            "Aviator Irelia",
+            "The Grind"
+        ],
+        [
+            "Sentinel Irelia",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Kennen": [
+        [
+            "DWG Kennen",
+            "Esports"
+        ],
+        [
+            "Infernal Kennen",
+            "Infernal"
+        ],
+        [
+            "Karate Kennen",
+            "Legacy"
+        ],
+        [
+            "Swamp Master Kennen",
+            "Legacy"
+        ],
+        [
+            "Blood Moon Kennen",
+            "Moons of Ionia"
+        ],
+        [
+            "Arctic Ops Kennen",
+            "PsyOps"
+        ],
+        [
+            "Deadly Kennen",
+            "Silver Age"
+        ],
+        [
+            "Super Kennen",
+            "Silver Age"
+        ],
+        [
+            "Astronaut Kennen",
+            "Star Voyagers"
+        ],
+        [
+            "Kennen M.D.",
+            "The Grind"
+        ]
+    ],
+    "Aphelios": [
+        [
+            "EDG Aphelios",
+            "Esports"
+        ],
+        [
+            "Lunar Beast Aphelios",
+            "Lunar New Year"
+        ],
+        [
+            "HEARTSTEEL Aphelios",
+            "Riot Records"
+        ],
+        [
+            "Spirit Blossom Aphelios",
+            "Spirit Blossom"
+        ],
+        [
+            "Nightbringer Aphelios",
+            "Versus"
+        ]
+    ],
+    "Pyke": [
+        [
+            "Ashen Knight Pyke",
+            "Fallen World"
+        ],
+        [
+            "Sand Wraith Pyke",
+            "Guardian of the Sands"
+        ],
+        [
+            "Blood Moon Pyke",
+            "Moons of Ionia"
+        ],
+        [
+            "Fright Night Pyke",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Empyrean Pyke",
+            "Neon Strata"
+        ],
+        [
+            "PROJECT: Pyke",
+            "PROJECT"
+        ],
+        [
+            "PsyOps Pyke",
+            "PsyOps"
+        ],
+        [
+            "Prestige Soul Fighter Pyke",
+            "Soul Fighter"
+        ],
+        [
+            "Soul Fighter Pyke",
+            "Soul Fighter"
+        ],
+        [
+            "Sentinel Pyke",
+            "The Ruined King Saga"
+        ]
+    ],
+    "Sett": [
+        [
+            "Obsidian Dragon Sett",
+            "Four Beasts"
+        ],
+        [
+            "Prestige Obsidian Dragon Sett",
+            "Four Beasts"
+        ],
+        [
+            "Firecracker Sett",
+            "Lunar New Year"
+        ],
+        [
+            "Mecha Kingdoms Sett",
+            "Mecha Kingdoms"
+        ],
+        [
+            "HEARTSTEEL Sett",
+            "Riot Records"
+        ],
+        [
+            "Soul Fighter Sett",
+            "Soul Fighter"
+        ],
+        [
+            "Spirit Blossom Sett",
+            "Spirit Blossom"
+        ],
+        [
+            "Pool Party Sett",
+            "Sunkissed Summer"
+        ]
+    ],
+    "Aurelion Sol": [
+        [
+            "Storm Dragon Aurelion Sol",
+            "Four Beasts"
+        ],
+        [
+            "Ashen Lord Aurelion Sol",
+            "Infernal"
+        ],
+        [
+            "Inkshadow Aurelion Sol",
+            "Inkshadow Uprising"
+        ],
+        [
+            "Porcelain Protector Aurelion Sol",
+            "Lunar New Year"
+        ],
+        [
+            "Mecha Aurelion Sol",
+            "Mecha"
+        ]
+    ],
+    "Yone": [
+        [
+            "Battle Academia Yone",
+            "God Weapon"
+        ],
+        [
+            "High Noon Yone",
+            "High Noon Gothic"
+        ],
+        [
+            "Peacemaker High Noon Yone",
+            "High Noon Gothic"
+        ],
+        [
+            "Inkshadow Yone",
+            "Inkshadow Uprising"
+        ],
+        [
+            "HEARTSTEEL Yone",
+            "Riot Records"
+        ],
+        [
+            "Prestige HEARTSTEEL Yone",
+            "Riot Records"
+        ],
+        [
+            "Spirit Blossom Yone",
+            "Spirit Blossom"
+        ],
+        [
+            "Ocean Song Yone",
+            "Sunkissed Summer"
+        ],
+        [
+            "Dawnbringer Yone",
+            "Versus"
+        ]
+    ],
+    "Amumu": [
+        [
+            "Pharaoh Amumu",
+            "Guardian of the Sands"
+        ],
+        [
+            "Hextech Amumu",
+            "Hextech"
+        ],
+        [
+            "Infernal Amumu",
+            "Infernal"
+        ],
+        [
+            "Porcelain Amumu",
+            "Lunar New Year"
+        ],
+        [
+            "Emumu",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "Re-Gifted Amumu",
+            "Snowdown"
+        ],
+        [
+            "Pumpkin Prince Amumu",
+            "Tales from the Rift"
+        ],
+        [
+            "Almost-Prom King Amumu",
+            "The Grind"
+        ],
+        [
+            "Sad Robot Amumu",
+            "The Grind"
+        ],
+        [
+            "Surprise Party Amumu",
+            "The Grind"
+        ],
+        [
+            "Vancouver Amumu",
+            "Winter Sports"
+        ],
+        [
+            "Little Knight Amumu",
+            "Ye Olde"
+        ],
+        [
+            "Heartache Amumu",
+            "ᐸ3"
+        ]
+    ],
+    "Samira": [
+        [
+            "High Noon Samira",
+            "High Noon Gothic"
+        ],
+        [
+            "PsyOps Samira",
+            "PsyOps"
+        ],
+        [
+            "Soul Fighter Samira",
+            "Soul Fighter"
+        ],
+        [
+            "Space Groove Samira",
+            "Space Groove"
+        ]
+    ],
+    "Renata Glasc": [
+        [
+            "Admiral Glasc",
+            "Iron Firmament"
+        ],
+        [
+            "Fright Night Renata Glasc",
+            "Neighborhood Nightmare"
+        ],
+        [
+            "La Ilusión Renata Glasc",
+            "Sueño de Vida"
+        ],
+        [
+            "Prestige La Ilusión Renata Glasc",
+            "Sueño de Vida"
+        ]
+    ],
+    "Smolder": [
+        [
+            "Heavenscale Smolder",
+            "Lunar New Year"
+        ]
+    ],
+    "K'Sante": [
+        [
+            "Empyrean K'Sante",
+            "Neon Strata"
+        ],
+        [
+            "Prestige Empyrean K'Sante",
+            "Neon Strata"
+        ],
+        [
+            "HEARTSTEEL K'Sante",
+            "Riot Records"
+        ]
+    ],
+    "Vex": [
+        [
+            "Empyrean Vex",
+            "Neon Strata"
+        ],
+        [
+            "Dawnbringer Vex",
+            "Versus"
+        ]
+    ],
+    "Naafiri": [
+        [
+            "PROJECT: Naafiri",
+            "PROJECT"
+        ],
+        [
+            "Soul Fighter Naafiri",
+            "Soul Fighter"
+        ]
+    ],
+    "Lillia": [
+        [
+            "Shan Hai Scrolls Lillia",
+            "Shan Hai Scrolls"
+        ],
+        [
+            "Spirit Blossom Lillia",
+            "Spirit Blossom"
+        ],
+        [
+            "Nightbringer Lillia",
+            "Versus"
+        ],
+        [
+            "Faerie Court Lillia",
+            "Winged Reign"
+        ]
+    ],
+    "Hwei": [
+        [
+            "Winterblessed Hwei",
+            "Tales of Borealis"
+        ]
+    ],
+    "Milio": [
+        [
+            "Faerie Court Milio",
+            "Winged Reign"
+        ],
+        [
+            "Rain Shepherd Milio",
+            "N/A"
+        ]
+    ]
+}
