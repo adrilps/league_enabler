@@ -16,6 +16,7 @@ intents.message_content = True
 intents.members = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
+bot.remove_command('help')
  
 @bot.event
 async def on_ready():
@@ -50,39 +51,56 @@ async def gamble(ctx):
         await ctx.send(f"Too bad, {ctx.author.mention}, got fucked..")
 
 @bot.command()
-async def skin_match(ctx, *, input_string):
-    #separates string into champs
+async def match(ctx, *, input_string):
     champion_name_list = [name.strip() for name in input_string.split(',')]
-    #converts all names to lowercase
-    #for i in range(len(champion_name_list)):
-    #    champion_name_list[i] = champion_name_list[i].lower()
+    
     first_champion = champion_name_list[0]
     first_champion_skins = sk.get_champion_skins(first_champion)
-    random.shuffle(first_champion_skins)
-    for index in first_champion_skins:
+    
+    if not first_champion_skins:
+        await ctx.send(f"Champion {first_champion} not found.")
+        return
 
+    random.shuffle(first_champion_skins)
+
+    for index in first_champion_skins:
         universe = sk.get_by_universe(index[1])
-        skins_dict = dict(universe)
-        for key in list(skins_dict.keys()):
-            skins_dict[key][0] = skins_dict[key][0].lower()
+        if not universe:
+            continue
+            
+        skins_dict = {champ.lower(): skin_name for champ, skin_name in universe}
+        
         i = 0
         for champ in champion_name_list:
-            if skins_dict.get(champ) is None:
-                print(f"it retrieved none for {champ}")
+            if skins_dict.get(champ.lower()) is None:
                 break
             else:
-                print(f"{champ} printed this {skins_dict.get(champ)}")
-                i+=1
-        print(5)
+                i += 1
+
         if i == len(champion_name_list):
             await ctx.send(f"{ctx.author.mention}, I found a matching universe: {index[1]}")
             for champ in champion_name_list:
-                await ctx.send(f"{champ} has the skin {skins_dict.get(champ)}.")
-            break
+                await ctx.send(f"{champ.capitalize()} has the skin {skins_dict.get(champ.lower())}.")
+            return #
+    await ctx.send(f"{ctx.author.mention}, I think there are no matching skinlines :(")
+    return
+
+@bot.command()
+async def help(ctx):
+    help_message=(
+        f"heya, {ctx.author.mention} here are the available commands: \n\n" \
+        "!help: this!\n" \
+        "!gamble: test your luck!\n" \
+        "!idea: give me a number and i'll give you that number of random champs that share a skinline\n" \
+        "!match: give me champs and i'll let you know if they share a skinline!\n\n" \
+        "developed by yours truly, <@226542884935958538>"
+    )
+    await ctx.send(help_message)
+        
 
             
 @bot.command()
-async def skin_ideas(ctx, input_string):
+async def ideas(ctx, input_string):
     #get a random universe
     try:
         number_of_champions = int(input_string)
