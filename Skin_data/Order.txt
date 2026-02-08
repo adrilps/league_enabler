@@ -1,0 +1,5 @@
+Raw_skin_data was downloaded from LoL wiki
+
+skin_extraction generates skins
+skins_treatment generates universe_dict
+skins_treatment_by_champ generates skins_dict

@@ -25,7 +25,7 @@
             "Professor Ryze"
         ]
     ],
-    "Arcade: Heroes": [
+    "Arcade": [
         [
             "Ahri",
             "Arcade Ahri"
@@ -35,12 +35,48 @@
             "Arcade Miss Fortune"
         ],
         [
+            "Garen",
+            "Demacia Vice Garen"
+        ],
+        [
             "Ezreal",
             "Arcade Ezreal"
         ],
         [
+            "Yasuo",
+            "Battle Boss Yasuo"
+        ],
+        [
             "Riven",
             "Arcade Riven"
+        ],
+        [
+            "Bel'Veth",
+            "Battle Boss Bel'Veth"
+        ],
+        [
+            "Blitzcrank",
+            "Battle Boss Blitzcrank"
+        ],
+        [
+            "Brand",
+            "Battle Boss Brand"
+        ],
+        [
+            "Malzahar",
+            "Battle Boss Malzahar"
+        ],
+        [
+            "Qiyana",
+            "Battle Boss Qiyana"
+        ],
+        [
+            "Ziggs",
+            "Battle Boss Ziggs"
+        ],
+        [
+            "Veigar",
+            "Final Boss Veigar"
         ],
         [
             "Caitlyn",
@@ -69,6 +105,18 @@
         [
             "Sona",
             "Arcade Sona"
+        ],
+        [
+            "Taric",
+            "Armor of the Fifth Age Taric"
+        ],
+        [
+            "Lucian",
+            "Demacia Vice Lucian"
+        ],
+        [
+            "Vi",
+            "Neon Strike Vi"
         ]
     ],
     "Arcana": [
@@ -109,18 +157,42 @@
             "Arcana Xerath"
         ]
     ],
-    "Coven": [
+    "Eclipse": [
         [
             "Ahri",
             "Coven Ahri"
+        ],
+        [
+            "Ahri",
+            "Elderwood Ahri"
+        ],
+        [
+            "Fiddlesticks",
+            "Spectral Fiddlesticks"
         ],
         [
             "Malphite",
             "Old God Malphite"
         ],
         [
+            "Malphite",
+            "Old God Malphite"
+        ],
+        [
+            "Aatrox",
+            "Lunar Eclipse Aatrox"
+        ],
+        [
             "Nocturne",
             "Old God Nocturne"
+        ],
+        [
+            "Nocturne",
+            "Old God Nocturne"
+        ],
+        [
+            "Nocturne",
+            "Cursed Revenant Nocturne"
         ],
         [
             "Ashe",
@@ -131,20 +203,100 @@
             "Old God Warwick"
         ],
         [
+            "Warwick",
+            "Old God Warwick"
+        ],
+        [
+            "Warwick",
+            "Grey Warwick"
+        ],
+        [
+            "Soraka",
+            "Dryad Soraka"
+        ],
+        [
             "Volibear",
             "The Thousand-Pierced Bear"
+        ],
+        [
+            "Kayle",
+            "Sun-Eater Kayle"
+        ],
+        [
+            "Kayle",
+            "Iron Inquisitor Kayle"
+        ],
+        [
+            "Sejuani",
+            "Solar Eclipse Sejuani"
+        ],
+        [
+            "Xayah",
+            "Elderwood Xayah"
+        ],
+        [
+            "Leona",
+            "Lunar Eclipse Leona"
+        ],
+        [
+            "Leona",
+            "Solar Eclipse Leona"
+        ],
+        [
+            "Rek'Sai",
+            "Elderwood Rek'Sai"
+        ],
+        [
+            "Veigar",
+            "Elderwood Veigar"
+        ],
+        [
+            "Hecarim",
+            "Elderwood Hecarim"
+        ],
+        [
+            "Taric",
+            "Emerald Taric"
         ],
         [
             "Camille",
             "Coven Camille"
         ],
         [
+            "Rakan",
+            "Elderwood Rakan"
+        ],
+        [
+            "Yorick",
+            "Undertaker Yorick"
+        ],
+        [
             "Syndra",
             "Coven Syndra"
         ],
         [
+            "Singed",
+            "Black Scourge Singed"
+        ],
+        [
             "Lissandra",
             "Coven Lissandra"
+        ],
+        [
+            "Lissandra",
+            "Blade Queen Lissandra"
+        ],
+        [
+            "Bard",
+            "Elderwood Bard"
+        ],
+        [
+            "Sivir",
+            "Solar Eclipse Sivir"
+        ],
+        [
+            "Dr. Mundo",
+            "Executioner Mundo"
         ],
         [
             "Zyra",
@@ -171,16 +323,32 @@
             "Prestige Coven LeBlanc"
         ],
         [
+            "LeBlanc",
+            "Elderwood LeBlanc"
+        ],
+        [
             "Elise",
             "Coven Elise"
+        ],
+        [
+            "Elise",
+            "Death Blossom Elise"
         ],
         [
             "Morgana",
             "Coven Morgana"
         ],
         [
+            "Azir",
+            "Elderwood Azir"
+        ],
+        [
             "Evelynn",
             "Coven Evelynn"
+        ],
+        [
+            "Wukong",
+            "Elderwood Wukong"
         ],
         [
             "Mordekaiser",
@@ -201,72 +369,22 @@
         [
             "Ivern",
             "Old God Ivern"
-        ]
-    ],
-    "Elderwood": [
-        [
-            "Ahri",
-            "Elderwood Ahri"
-        ],
-        [
-            "Malphite",
-            "Old God Malphite"
-        ],
-        [
-            "Nocturne",
-            "Old God Nocturne"
-        ],
-        [
-            "Warwick",
-            "Old God Warwick"
-        ],
-        [
-            "Soraka",
-            "Dryad Soraka"
-        ],
-        [
-            "Xayah",
-            "Elderwood Xayah"
-        ],
-        [
-            "Rek'Sai",
-            "Elderwood Rek'Sai"
-        ],
-        [
-            "Veigar",
-            "Elderwood Veigar"
-        ],
-        [
-            "Hecarim",
-            "Elderwood Hecarim"
-        ],
-        [
-            "Taric",
-            "Emerald Taric"
-        ],
-        [
-            "Rakan",
-            "Elderwood Rakan"
-        ],
-        [
-            "Bard",
-            "Elderwood Bard"
-        ],
-        [
-            "LeBlanc",
-            "Elderwood LeBlanc"
-        ],
-        [
-            "Azir",
-            "Elderwood Azir"
-        ],
-        [
-            "Wukong",
-            "Elderwood Wukong"
         ],
         [
             "Ivern",
             "Old God Ivern"
+        ],
+        [
+            "Kha'Zix",
+            "Death Blossom Kha'Zix"
+        ],
+        [
+            "Senna",
+            "Lunar Eclipse Senna"
+        ],
+        [
+            "Senna",
+            "Prestige Lunar Eclipse Senna"
         ],
         [
             "Gnar",
@@ -281,14 +399,382 @@
             "Elderwood Ornn"
         ]
     ],
-    "Challenger": [
+    "Esports": [
         [
             "Ahri",
             "Challenger Ahri"
         ],
         [
+            "Ekko",
+            "SKT T1 Ekko"
+        ],
+        [
+            "Fiora",
+            "iG Fiora"
+        ],
+        [
+            "Ryze",
+            "SKT T1 Ryze"
+        ],
+        [
+            "Ryze",
+            "Worlds 2019 Ryze"
+        ],
+        [
+            "Gangplank",
+            "FPX Gangplank"
+        ],
+        [
+            "Twisted Fate",
+            "DWG Twisted Fate"
+        ],
+        [
+            "Graves",
+            "EDG Graves"
+        ],
+        [
+            "Malphite",
+            "FPX Malphite"
+        ],
+        [
+            "Twitch",
+            "SSW Twitch"
+        ],
+        [
+            "Aatrox",
+            "DRX Aatrox"
+        ],
+        [
+            "Aatrox",
+            "Prestige DRX Aatrox"
+        ],
+        [
+            "Alistar",
+            "Conqueror Alistar"
+        ],
+        [
+            "Alistar",
+            "SKT T1 Alistar"
+        ],
+        [
+            "Ashe",
+            "DRX Ashe"
+        ],
+        [
+            "Ashe",
+            "Worlds 2017 Ashe"
+        ],
+        [
+            "Taliyah",
+            "SSG Taliyah"
+        ],
+        [
+            "Janna",
+            "Fnatic Janna"
+        ],
+        [
+            "Ezreal",
+            "TPA Ezreal"
+        ],
+        [
+            "Ezreal",
+            "SSG Ezreal"
+        ],
+        [
+            "Lee Sin",
+            "SKT T1 Lee Sin"
+        ],
+        [
+            "Lee Sin",
+            "FPX Lee Sin"
+        ],
+        [
+            "Lee Sin",
+            "T1 Lee Sin"
+        ],
+        [
+            "Riven",
+            "Reignited Worlds 2012 Riven"
+        ],
+        [
+            "Riven",
+            "Worlds 2012 Riven"
+        ],
+        [
+            "Renekton",
+            "SKT T1 Renekton"
+        ],
+        [
+            "Renekton",
+            "Worlds 2023 Renekton"
+        ],
+        [
+            "Viego",
+            "EDG Viego"
+        ],
+        [
+            "Viego",
+            "Worlds 2024 Viego"
+        ],
+        [
+            "Karma",
+            "Conqueror Karma"
+        ],
+        [
+            "Vayne",
+            "SKT T1 Vayne"
+        ],
+        [
+            "Vayne",
+            "FPX Vayne"
+        ],
+        [
+            "Xayah",
+            "SSG Xayah"
+        ],
+        [
+            "Jinx",
+            "T1 Jinx"
+        ],
+        [
+            "Leona",
+            "DWG Leona"
+        ],
+        [
+            "Yuumi",
+            "EDG Yuumi"
+        ],
+        [
+            "Caitlyn",
+            "DRX Caitlyn"
+        ],
+        [
+            "Corki",
+            "Fnatic Corki"
+        ],
+        [
+            "Kai'Sa",
+            "iG Kai'Sa"
+        ],
+        [
+            "Camille",
+            "iG Camille"
+        ],
+        [
+            "Rakan",
+            "SSG Rakan"
+        ],
+        [
+            "Rakan",
+            "iG Rakan"
+        ],
+        [
+            "Jayce",
+            "Prestige T1 Jayce"
+        ],
+        [
+            "Jayce",
+            "T1 Jayce"
+        ],
+        [
+            "Zoe",
+            "EDG Zoe"
+        ],
+        [
+            "Varus",
+            "Conqueror Varus"
+        ],
+        [
+            "Syndra",
+            "SKT T1 Syndra"
+        ],
+        [
+            "Zac",
+            "SKT T1 Zac"
+        ],
+        [
+            "Singed",
+            "SSW Singed"
+        ],
+        [
+            "Orianna",
+            "TPA Orianna"
+        ],
+        [
+            "Orianna",
+            "T1 Orianna"
+        ],
+        [
+            "Nunu & Willump",
+            "TPA Nunu & Willump"
+        ],
+        [
+            "Shyvana",
+            "Worlds 2014 Shyvana"
+        ],
+        [
+            "Bard",
+            "T1 Bard"
+        ],
+        [
             "Nidalee",
             "Challenger Nidalee"
+        ],
+        [
+            "Nidalee",
+            "DWG Nidalee"
+        ],
+        [
+            "Maokai",
+            "DRX Maokai"
+        ],
+        [
+            "Rengar",
+            "SSW Rengar"
+        ],
+        [
+            "Kindred",
+            "DRX Kindred"
+        ],
+        [
+            "Shen",
+            "TPA Shen"
+        ],
+        [
+            "Zed",
+            "SKT T1 Zed"
+        ],
+        [
+            "Zed",
+            "Worlds 2016 Zed"
+        ],
+        [
+            "Dr. Mundo",
+            "TPA Mundo"
+        ],
+        [
+            "Zyra",
+            "SKT T1 Zyra"
+        ],
+        [
+            "Gragas",
+            "Fnatic Gragas"
+        ],
+        [
+            "Akali",
+            "DRX Akali"
+        ],
+        [
+            "LeBlanc",
+            "iG LeBlanc"
+        ],
+        [
+            "LeBlanc",
+            "Worlds 2020 LeBlanc"
+        ],
+        [
+            "Talon",
+            "SSW Talon"
+        ],
+        [
+            "Elise",
+            "SKT T1 Elise"
+        ],
+        [
+            "Olaf",
+            "SKT T1 Olaf"
+        ],
+        [
+            "Azir",
+            "SKT T1 Azir"
+        ],
+        [
+            "Azir",
+            "Worlds 2022 Azir"
+        ],
+        [
+            "Jarvan IV",
+            "Fnatic Jarvan IV"
+        ],
+        [
+            "Jarvan IV",
+            "SSG Jarvan IV"
+        ],
+        [
+            "Jarvan IV",
+            "Worlds 2021 Jarvan IV"
+        ],
+        [
+            "Nami",
+            "SKT T1 Nami"
+        ],
+        [
+            "Kha'Zix",
+            "Worlds 2018 Kha'Zix"
+        ],
+        [
+            "Gnar",
+            "SSG Gnar"
+        ],
+        [
+            "Karthus",
+            "Fnatic Karthus"
+        ],
+        [
+            "Jax",
+            "Conqueror Jax"
+        ],
+        [
+            "Jax",
+            "Prestige Conqueror Jax"
+        ],
+        [
+            "Jax",
+            "SKT T1 Jax"
+        ],
+        [
+            "Nautilus",
+            "Conqueror Nautilus"
+        ],
+        [
+            "Thresh",
+            "SSW Thresh"
+        ],
+        [
+            "Thresh",
+            "FPX Thresh"
+        ],
+        [
+            "Thresh",
+            "Worlds 2013 Thresh"
+        ],
+        [
+            "Kalista",
+            "SKT T1 Kalista"
+        ],
+        [
+            "Kalista",
+            "Worlds 2015 Kalista"
+        ],
+        [
+            "Jhin",
+            "SKT T1 Jhin"
+        ],
+        [
+            "Jhin",
+            "DWG Jhin"
+        ],
+        [
+            "Irelia",
+            "iG Irelia"
+        ],
+        [
+            "Kennen",
+            "DWG Kennen"
+        ],
+        [
+            "Aphelios",
+            "EDG Aphelios"
         ]
     ],
     "Infernal": [
@@ -500,6 +986,14 @@
         ],
         [
             "Blitzcrank",
+            "Lancer Paragon Blitzcrank"
+        ],
+        [
+            "Blitzcrank",
+            "Lancer Rogue Blitzcrank"
+        ],
+        [
+            "Blitzcrank",
             "Rusty Blitzcrank"
         ],
         [
@@ -517,6 +1011,10 @@
         [
             "Corki",
             "Red Baron Corki"
+        ],
+        [
+            "Hecarim",
+            "Lancer Zero Hecarim"
         ],
         [
             "Lucian",
@@ -680,6 +1178,10 @@
         ],
         [
             "Wukong",
+            "Lancer Stratus Wukong"
+        ],
+        [
+            "Wukong",
             "General Wukong"
         ],
         [
@@ -723,14 +1225,50 @@
             "Swamp Master Kennen"
         ]
     ],
-    "Snow Moon": [
+    "Moons of Ionia": [
         [
             "Ahri",
             "Snow Moon Ahri"
         ],
         [
+            "Katarina",
+            "Blood Moon Katarina"
+        ],
+        [
+            "Twisted Fate",
+            "Blood Moon Twisted Fate"
+        ],
+        [
+            "Fiddlesticks",
+            "Blood Moon Fiddlesticks"
+        ],
+        [
+            "Aatrox",
+            "Blood Moon Aatrox"
+        ],
+        [
+            "Aatrox",
+            "Prestige Blood Moon Aatrox"
+        ],
+        [
+            "Aatrox",
+            "Prestige Blood Moon Aatrox (2022)"
+        ],
+        [
+            "Zilean",
+            "Blood Moon Zilean"
+        ],
+        [
             "Illaoi",
             "Snow Moon Illaoi"
+        ],
+        [
+            "Tryndamere",
+            "Blood Moon Tryndamere"
+        ],
+        [
+            "Yasuo",
+            "Blood Moon Yasuo"
         ],
         [
             "Caitlyn",
@@ -741,15 +1279,75 @@
             "Snow Moon Varus"
         ],
         [
+            "Diana",
+            "Blood Moon Diana"
+        ],
+        [
+            "Sivir",
+            "Blood Moon Sivir"
+        ],
+        [
+            "Shen",
+            "Blood Moon Shen"
+        ],
+        [
+            "Zed",
+            "Blood Moon Zed"
+        ],
+        [
+            "Zyra",
+            "Blood Moon Zyra"
+        ],
+        [
+            "Akali",
+            "Blood Moon Akali"
+        ],
+        [
+            "Master Yi",
+            "Blood Moon Master Yi"
+        ],
+        [
+            "Talon",
+            "Blood Moon Talon"
+        ],
+        [
+            "Elise",
+            "Blood Moon Elise"
+        ],
+        [
             "Morgana",
             "Snow Moon Morgana"
         ],
         [
             "Kayn",
             "Snow Moon Kayn"
+        ],
+        [
+            "Evelynn",
+            "Blood Moon Evelynn"
+        ],
+        [
+            "Thresh",
+            "Blood Moon Thresh"
+        ],
+        [
+            "Kalista",
+            "Blood Moon Kalista"
+        ],
+        [
+            "Jhin",
+            "Blood Moon Jhin"
+        ],
+        [
+            "Kennen",
+            "Blood Moon Kennen"
+        ],
+        [
+            "Pyke",
+            "Blood Moon Pyke"
         ]
     ],
-    "K/DA": [
+    "Riot Records": [
         [
             "Ahri",
             "K/DA Ahri"
@@ -767,6 +1365,42 @@
             "Prestige K/DA Ahri (2022)"
         ],
         [
+            "Ahri",
+            "Popstar Ahri"
+        ],
+        [
+            "Ekko",
+            "Breakout True Damage Ekko"
+        ],
+        [
+            "Ekko",
+            "True Damage Ekko"
+        ],
+        [
+            "Ezreal",
+            "HEARTSTEEL Ezreal"
+        ],
+        [
+            "Yasuo",
+            "Prestige True Damage Yasuo"
+        ],
+        [
+            "Yasuo",
+            "True Damage Yasuo"
+        ],
+        [
+            "Kayle",
+            "Pentakill Kayle"
+        ],
+        [
+            "Kayle",
+            "Pentakill III: Lost Chapter Kayle"
+        ],
+        [
+            "Viego",
+            "Dissonance of Pentakill Viego"
+        ],
+        [
             "Seraphine",
             "K/DA ALL OUT Seraphine Indie"
         ],
@@ -777,6 +1411,18 @@
         [
             "Seraphine",
             "K/DA ALL OUT Seraphine Superstar"
+        ],
+        [
+            "Qiyana",
+            "Prestige True Damage Qiyana"
+        ],
+        [
+            "Qiyana",
+            "Prestige True Damage Qiyana (2022)"
+        ],
+        [
+            "Qiyana",
+            "True Damage Qiyana"
         ],
         [
             "Kai'Sa",
@@ -799,6 +1445,26 @@
             "Prestige K/DA ALL OUT Kai'Sa"
         ],
         [
+            "Sona",
+            "DJ Sona"
+        ],
+        [
+            "Sona",
+            "Pentakill Sona"
+        ],
+        [
+            "Sona",
+            "Pentakill III: Lost Chapter Sona"
+        ],
+        [
+            "Yorick",
+            "Pentakill Yorick"
+        ],
+        [
+            "Yorick",
+            "Pentakill III: Lost Chapter Yorick"
+        ],
+        [
             "Akali",
             "K/DA Akali"
         ],
@@ -815,6 +1481,22 @@
             "Prestige K/DA Akali (2022)"
         ],
         [
+            "Akali",
+            "True Damage Akali"
+        ],
+        [
+            "Olaf",
+            "Pentakill Olaf"
+        ],
+        [
+            "Olaf",
+            "Pentakill III: Lost Chapter Olaf"
+        ],
+        [
+            "Kayn",
+            "HEARTSTEEL Kayn"
+        ],
+        [
             "Evelynn",
             "K/DA Evelynn"
         ],
@@ -829,12 +1511,50 @@
         [
             "Evelynn",
             "Prestige K/DA Evelynn (2022)"
-        ]
-    ],
-    "Popstar": [
+        ],
         [
-            "Ahri",
-            "Popstar Ahri"
+            "Mordekaiser",
+            "Pentakill Mordekaiser"
+        ],
+        [
+            "Mordekaiser",
+            "Pentakill III: Lost Chapter Mordekaiser"
+        ],
+        [
+            "Senna",
+            "Prestige True Damage Senna"
+        ],
+        [
+            "Senna",
+            "True Damage Senna"
+        ],
+        [
+            "Karthus",
+            "Pentakill Karthus"
+        ],
+        [
+            "Karthus",
+            "Pentakill III: Lost Chapter Karthus"
+        ],
+        [
+            "Aphelios",
+            "HEARTSTEEL Aphelios"
+        ],
+        [
+            "Sett",
+            "HEARTSTEEL Sett"
+        ],
+        [
+            "Yone",
+            "HEARTSTEEL Yone"
+        ],
+        [
+            "Yone",
+            "Prestige HEARTSTEEL Yone"
+        ],
+        [
+            "K'Sante",
+            "HEARTSTEEL K'Sante"
         ]
     ],
     "Spirit Blossom": [
@@ -923,10 +1643,18 @@
             "Spirit Blossom Lillia"
         ]
     ],
-    "Star Guardian Season 2": [
+    "Star Guardian": [
         [
             "Ahri",
             "Star Guardian Ahri"
+        ],
+        [
+            "Ekko",
+            "Prestige Star Guardian Ekko"
+        ],
+        [
+            "Ekko",
+            "Star Guardian Ekko"
         ],
         [
             "Miss Fortune",
@@ -935,6 +1663,22 @@
         [
             "Miss Fortune",
             "Star Guardian Miss Fortune"
+        ],
+        [
+            "Quinn",
+            "Star Guardian Quinn"
+        ],
+        [
+            "Fiddlesticks",
+            "Star Nemesis Fiddlesticks"
+        ],
+        [
+            "Taliyah",
+            "Star Guardian Taliyah"
+        ],
+        [
+            "Janna",
+            "Star Guardian Janna"
         ],
         [
             "Ezreal",
@@ -957,8 +1701,104 @@
             "Star Guardian Soraka"
         ],
         [
+            "Poppy",
+            "Star Guardian Poppy"
+        ],
+        [
+            "Xayah",
+            "Star Guardian Xayah"
+        ],
+        [
+            "Xayah",
+            "Redeemed Star Guardian Xayah"
+        ],
+        [
+            "Jinx",
+            "Star Guardian Jinx"
+        ],
+        [
+            "Seraphine",
+            "Star Guardian Seraphine"
+        ],
+        [
+            "Kai'Sa",
+            "Star Guardian Kai'Sa"
+        ],
+        [
+            "Sona",
+            "Star Guardian Sona"
+        ],
+        [
+            "Rakan",
+            "Star Guardian Rakan"
+        ],
+        [
+            "Rakan",
+            "Redeemed Star Guardian Rakan"
+        ],
+        [
+            "Zoe",
+            "Star Guardian Zoe"
+        ],
+        [
+            "Lux",
+            "Pajama Guardian Lux"
+        ],
+        [
+            "Lux",
+            "Star Guardian Lux"
+        ],
+        [
             "Syndra",
             "Star Guardian Syndra"
+        ],
+        [
+            "Syndra",
+            "Prestige Star Guardian Syndra"
+        ],
+        [
+            "Rell",
+            "Star Guardian Rell"
+        ],
+        [
+            "Orianna",
+            "Star Guardian Orianna"
+        ],
+        [
+            "Lulu",
+            "Pajama Guardian Lulu"
+        ],
+        [
+            "Lulu",
+            "Star Guardian Lulu"
+        ],
+        [
+            "Neeko",
+            "Prestige Star Guardian Neeko"
+        ],
+        [
+            "Neeko",
+            "Prestige Star Guardian Neeko (2022)"
+        ],
+        [
+            "Neeko",
+            "Star Guardian Neeko"
+        ],
+        [
+            "Akali",
+            "Star Guardian Akali"
+        ],
+        [
+            "Morgana",
+            "Star Nemesis Morgana"
+        ],
+        [
+            "Nilah",
+            "Star Guardian Nilah"
+        ],
+        [
+            "Senna",
+            "Star Guardian Senna"
         ]
     ],
     "Wonders of the World": [
@@ -1039,7 +1879,7 @@
             "Statue of Karthus"
         ]
     ],
-    "Risen Legends": [
+    "N/A": [
         [
             "Ahri",
             "Immortalized Legend Ahri"
@@ -1049,8 +1889,52 @@
             "Risen Legend Ahri"
         ],
         [
+            "Twitch",
+            "Cheddar Chief Twitch"
+        ],
+        [
+            "Fizz",
+            "Rain Shepherd Fizz"
+        ],
+        [
+            "Rammus",
+            "Durian Defender Rammus"
+        ],
+        [
+            "Trundle",
+            "Esports Fan Trundle"
+        ],
+        [
+            "Zac",
+            "Zesty Dip Zac"
+        ],
+        [
+            "Skarner",
+            "Earthrune Skarner"
+        ],
+        [
+            "Sivir",
+            "Ann-Sivir-sary"
+        ],
+        [
+            "Neeko",
+            "Cosplayer Neeko"
+        ],
+        [
+            "Gragas",
+            "Music Fan Gragas"
+        ],
+        [
+            "Akali",
+            "Stinger Akali"
+        ],
+        [
             "LeBlanc",
             "Risen Legend LeBlanc"
+        ],
+        [
+            "Milio",
+            "Rain Shepherd Milio"
         ]
     ],
     "Crime City Nightmare": [
@@ -1059,23 +1943,99 @@
             "Crime City Nightmare Darius"
         ],
         [
+            "Miss Fortune",
+            "Crime City Miss Fortune"
+        ],
+        [
             "Twisted Fate",
             "Crime City Nightmare Twisted Fate"
+        ],
+        [
+            "Graves",
+            "Crime City Graves"
+        ],
+        [
+            "Twitch",
+            "Crime City Twitch"
+        ],
+        [
+            "Ezreal",
+            "Debonair Ezreal"
+        ],
+        [
+            "Lee Sin",
+            "Knockout Lee Sin"
+        ],
+        [
+            "Jinx",
+            "Crime City Jinx"
+        ],
+        [
+            "Leona",
+            "Debonair Leona"
+        ],
+        [
+            "Brand",
+            "Debonair Brand"
+        ],
+        [
+            "Brand",
+            "Prestige Debonair Brand"
+        ],
+        [
+            "Malzahar",
+            "Debonair Malzahar"
+        ],
+        [
+            "Vi",
+            "Debonair Vi"
+        ],
+        [
+            "Jayce",
+            "Debonair Jayce"
         ],
         [
             "Shaco",
             "Crime City Nightmare Shaco"
         ],
         [
+            "Zed",
+            "Debonair Zed"
+        ],
+        [
             "Zyra",
             "Crime City Nightmare Zyra"
         ],
         [
+            "Braum",
+            "Crime City Braum"
+        ],
+        [
+            "Gragas",
+            "Gragas, Esq."
+        ],
+        [
             "Akali",
             "Crime City Nightmare Akali"
+        ],
+        [
+            "Draven",
+            "Debonair Draven"
+        ],
+        [
+            "Galio",
+            "Debonair Galio"
+        ],
+        [
+            "LeBlanc",
+            "Debonair LeBlanc"
+        ],
+        [
+            "Master Yi",
+            "Debonair Master Yi"
         ]
     ],
-    "High Noon": [
+    "High Noon Gothic": [
         [
             "Darius",
             "High Noon Darius"
@@ -1217,7 +2177,7 @@
             "High Noon Samira"
         ]
     ],
-    "Dreadnova": [
+    "Iron Firmament": [
         [
             "Darius",
             "Dreadnova Darius"
@@ -1225,12 +2185,76 @@
         [
             "Gangplank",
             "Dreadnova Gangplank"
+        ],
+        [
+            "Miss Fortune",
+            "Gun Goddess Miss Fortune"
+        ],
+        [
+            "Garen",
+            "Steel Legion Garen"
+        ],
+        [
+            "Nocturne",
+            "Eternum Nocturne"
+        ],
+        [
+            "Janna",
+            "Cyber Halo Janna"
+        ],
+        [
+            "Janna",
+            "Prestige Cyber Halo Janna"
+        ],
+        [
+            "Kayle",
+            "Aether Wing Kayle"
+        ],
+        [
+            "Rek'Sai",
+            "Eternum Rek'Sai"
+        ],
+        [
+            "Kai'Sa",
+            "Bullet Angel Kai'Sa"
+        ],
+        [
+            "Lucian",
+            "Strike Paladin Lucian"
+        ],
+        [
+            "Camille",
+            "Strike Commander Camille"
+        ],
+        [
+            "Lux",
+            "Steel Legion Lux"
+        ],
+        [
+            "Nasus",
+            "Armored Titan Nasus"
+        ],
+        [
+            "Morgana",
+            "Blade Mistress Morgana"
+        ],
+        [
+            "Cassiopeia",
+            "Eternum Cassiopeia"
+        ],
+        [
+            "Renata Glasc",
+            "Admiral Glasc"
         ]
     ],
-    "Lunar Beast": [
+    "Lunar New Year": [
         [
             "Darius",
             "Lunar Beast Darius"
+        ],
+        [
+            "Darius",
+            "Porcelain Darius"
         ],
         [
             "Fiora",
@@ -1241,30 +2265,8 @@
             "Prestige Lunar Beast Fiora"
         ],
         [
-            "Alistar",
-            "Lunar Beast Alistar"
-        ],
-        [
-            "Viego",
-            "Lunar Beast Viego"
-        ],
-        [
-            "Annie",
-            "Lunar Beast Annie"
-        ],
-        [
-            "Jarvan IV",
-            "Lunar Beast Jarvan IV"
-        ],
-        [
-            "Aphelios",
-            "Lunar Beast Aphelios"
-        ]
-    ],
-    "Porcelain": [
-        [
-            "Darius",
-            "Porcelain Darius"
+            "Tristana",
+            "Firecracker Tristana"
         ],
         [
             "Miss Fortune",
@@ -1275,8 +2277,112 @@
             "Porcelain Graves"
         ],
         [
+            "Malphite",
+            "Lunar Guardian Malphite"
+        ],
+        [
+            "Alistar",
+            "Lunar Beast Alistar"
+        ],
+        [
+            "Xin Zhao",
+            "Firecracker Xin Zhao"
+        ],
+        [
+            "Ashe",
+            "Lunar Empress Ashe"
+        ],
+        [
+            "Sylas",
+            "Lunar Wraith Sylas"
+        ],
+        [
+            "Janna",
+            "Heavenscale Janna"
+        ],
+        [
+            "Ezreal",
+            "Heavenscale Ezreal"
+        ],
+        [
+            "Ezreal",
+            "Prestige Heavenscale Ezreal"
+        ],
+        [
             "Ezreal",
             "Porcelain Protector Ezreal"
+        ],
+        [
+            "Warwick",
+            "Lunar Guardian Warwick"
+        ],
+        [
+            "Lee Sin",
+            "Divine Heavenscale Lee Sin"
+        ],
+        [
+            "Lee Sin",
+            "Heavenscale Lee Sin"
+        ],
+        [
+            "Lee Sin",
+            "Dragon Fist Lee Sin"
+        ],
+        [
+            "Viego",
+            "Lunar Beast Viego"
+        ],
+        [
+            "Sejuani",
+            "Firecracker Sejuani"
+        ],
+        [
+            "Vayne",
+            "Firecracker Vayne"
+        ],
+        [
+            "Vayne",
+            "Prestige Firecracker Vayne"
+        ],
+        [
+            "Vayne",
+            "Prestige Firecracker Vayne (2022)"
+        ],
+        [
+            "Jinx",
+            "Firecracker Jinx"
+        ],
+        [
+            "Qiyana",
+            "Lunar Empress Qiyana"
+        ],
+        [
+            "Caitlyn",
+            "Lunar Wraith Caitlyn"
+        ],
+        [
+            "Corki",
+            "Dragonwing Corki"
+        ],
+        [
+            "Kai'Sa",
+            "Heavenscale Kai'Sa"
+        ],
+        [
+            "Sona",
+            "Guqin Sona"
+        ],
+        [
+            "Tahm Kench",
+            "Coin Emperor Tahm Kench"
+        ],
+        [
+            "Kog'Maw",
+            "Lion Dance Kog'Maw"
+        ],
+        [
+            "Lux",
+            "Lunar Empress Lux"
         ],
         [
             "Lux",
@@ -1285,6 +2391,34 @@
         [
             "Lux",
             "Prestige Porcelain Lux"
+        ],
+        [
+            "Annie",
+            "Lunar Beast Annie"
+        ],
+        [
+            "Annie",
+            "Panda Annie"
+        ],
+        [
+            "Diana",
+            "Heavenscale Diana"
+        ],
+        [
+            "Diana",
+            "Lunar Goddess Diana"
+        ],
+        [
+            "Diana",
+            "Firecracker Diana"
+        ],
+        [
+            "Nasus",
+            "Lunar Guardian Nasus"
+        ],
+        [
+            "Teemo",
+            "Firecracker Teemo"
         ],
         [
             "Lissandra",
@@ -1303,12 +2437,52 @@
             "Prestige Porcelain Kindred"
         ],
         [
+            "Master Yi",
+            "Heavenscale Master Yi"
+        ],
+        [
+            "Morgana",
+            "Lunar Wraith Morgana"
+        ],
+        [
             "Morgana",
             "Porcelain Morgana"
         ],
         [
+            "Wukong",
+            "Jade Dragon Wukong"
+        ],
+        [
+            "Wukong",
+            "Radiant Wukong"
+        ],
+        [
+            "Jarvan IV",
+            "Lunar Beast Jarvan IV"
+        ],
+        [
+            "Cassiopeia",
+            "Jade Fang Cassiopeia"
+        ],
+        [
+            "Kha'Zix",
+            "Lunar Guardian Kha'Zix"
+        ],
+        [
+            "Thresh",
+            "Lunar Emperor Thresh"
+        ],
+        [
             "Irelia",
             "Porcelain Irelia"
+        ],
+        [
+            "Aphelios",
+            "Lunar Beast Aphelios"
+        ],
+        [
+            "Sett",
+            "Firecracker Sett"
         ],
         [
             "Aurelion Sol",
@@ -1317,9 +2491,13 @@
         [
             "Amumu",
             "Porcelain Amumu"
+        ],
+        [
+            "Smolder",
+            "Heavenscale Smolder"
         ]
     ],
-    "Rift Quest": [
+    "Riftquest": [
         [
             "Darius",
             "Lord Darius"
@@ -1455,17 +2633,305 @@
             "Super Kennen"
         ]
     ],
-    "Dunkmaster": [
+    "The Grind": [
         [
             "Darius",
             "Dunkmaster Darius"
         ],
         [
+            "Vladimir",
+            "Marquis Vladimir"
+        ],
+        [
+            "Katarina",
+            "Red Card Katarina"
+        ],
+        [
+            "Tristana",
+            "Firefighter Tristana"
+        ],
+        [
+            "Gangplank",
+            "Sailor Gangplank"
+        ],
+        [
+            "Miss Fortune",
+            "Secret Agent Miss Fortune"
+        ],
+        [
+            "Twisted Fate",
+            "Tango Twisted Fate"
+        ],
+        [
+            "Twisted Fate",
+            "Red Card Twisted Fate"
+        ],
+        [
+            "Fiddlesticks",
+            "Surprise Party Fiddlesticks"
+        ],
+        [
+            "Twitch",
+            "Pickpocket Twitch"
+        ],
+        [
+            "Zilean",
+            "Groovy Zilean"
+        ],
+        [
+            "Zilean",
+            "Time Machine Zilean"
+        ],
+        [
+            "Alistar",
+            "Matador Alistar"
+        ],
+        [
+            "Alistar",
+            "Sweeper Alistar"
+        ],
+        [
+            "Xin Zhao",
+            "Secret Agent Xin Zhao"
+        ],
+        [
+            "Fizz",
+            "Fisherman Fizz"
+        ],
+        [
+            "Rammus",
+            "Sweeper Rammus"
+        ],
+        [
+            "Janna",
+            "Forecast Janna"
+        ],
+        [
+            "Ezreal",
+            "Striker Ezreal"
+        ],
+        [
+            "Warwick",
+            "Urf the Manatee"
+        ],
+        [
+            "Warwick",
+            "Urfwick"
+        ],
+        [
+            "Lee Sin",
+            "Playmaker Lee Sin"
+        ],
+        [
+            "Soraka",
+            "Order of the Banana Soraka"
+        ],
+        [
+            "Riven",
+            "Battle Bunny Riven"
+        ],
+        [
+            "Volibear",
+            "Captain Volibear"
+        ],
+        [
+            "Volibear",
+            "El Rayo Volibear"
+        ],
+        [
+            "Trundle",
+            "Constable Trundle"
+        ],
+        [
+            "Trundle",
+            "Lil' Slugger Trundle"
+        ],
+        [
+            "Vayne",
+            "Aristocrat Vayne"
+        ],
+        [
+            "Blitzcrank",
+            "Boom Boom Blitzcrank"
+        ],
+        [
+            "Blitzcrank",
+            "Goalkeeper Blitzcrank"
+        ],
+        [
+            "Ziggs",
+            "Mad Scientist Ziggs"
+        ],
+        [
+            "Caitlyn",
+            "Officer Caitlyn"
+        ],
+        [
+            "Corki",
+            "Urfrider Corki"
+        ],
+        [
+            "Lucian",
+            "Striker Lucian"
+        ],
+        [
+            "Vi",
+            "Officer Vi"
+        ],
+        [
+            "Tahm Kench",
+            "Urf Kench"
+        ],
+        [
+            "Kog'Maw",
+            "Jurassic Kog'Maw"
+        ],
+        [
+            "Annie",
+            "Prom Queen Annie"
+        ],
+        [
+            "Annie",
+            "Annie-Versary"
+        ],
+        [
+            "Nasus",
+            "Archduke Nasus"
+        ],
+        [
+            "Cho'Gath",
+            "Jurassic Cho'Gath"
+        ],
+        [
+            "Cho'Gath",
+            "Gentleman Cho'Gath"
+        ],
+        [
+            "Singed",
+            "Mad Scientist Singed"
+        ],
+        [
+            "Heimerdinger",
+            "Hazmat Heimerdinger"
+        ],
+        [
+            "Sion",
+            "Lumberjack Sion"
+        ],
+        [
+            "Nidalee",
+            "French Maid Nidalee"
+        ],
+        [
+            "Maokai",
+            "Goalkeeper Maokai"
+        ],
+        [
+            "Shen",
+            "Surgeon Shen"
+        ],
+        [
+            "Dr. Mundo",
+            "Corporate Mundo"
+        ],
+        [
+            "Dr. Mundo",
+            "El Macho Mundo"
+        ],
+        [
+            "Braum",
+            "El Tigre Braum"
+        ],
+        [
+            "Gragas",
+            "Scuba Gragas"
+        ],
+        [
+            "Gragas",
+            "Superfan Gragas"
+        ],
+        [
+            "Akali",
+            "Nurse Akali"
+        ],
+        [
+            "Akali",
+            "All-star Akali"
+        ],
+        [
+            "Draven",
+            "Primetime Draven"
+        ],
+        [
+            "LeBlanc",
+            "Prestigious LeBlanc"
+        ],
+        [
+            "Olaf",
+            "Brolaf"
+        ],
+        [
+            "Azir",
+            "Attorney Azir"
+        ],
+        [
+            "Evelynn",
+            "Safecracker Evelynn"
+        ],
+        [
+            "Evelynn",
+            "Tango Evelynn"
+        ],
+        [
+            "Udyr",
+            "Black Belt Udyr"
+        ],
+        [
+            "Nami",
+            "Urf the Nami-tee"
+        ],
+        [
             "Ivern",
             "Dunkmaster Ivern"
+        ],
+        [
+            "Gnar",
+            "Gentleman Gnar"
+        ],
+        [
+            "Gnar",
+            "El León Gnar"
+        ],
+        [
+            "Jax",
+            "Angler Jax"
+        ],
+        [
+            "Thresh",
+            "Janitor Thresh"
+        ],
+        [
+            "Irelia",
+            "Aviator Irelia"
+        ],
+        [
+            "Kennen",
+            "Kennen M.D."
+        ],
+        [
+            "Amumu",
+            "Almost-Prom King Amumu"
+        ],
+        [
+            "Amumu",
+            "Sad Robot Amumu"
+        ],
+        [
+            "Amumu",
+            "Surprise Party Amumu"
         ]
     ],
-    "Battle of the God-Kings": [
+    "Versus": [
         [
             "Darius",
             "Divine God-King Darius"
@@ -1475,810 +2941,16 @@
             "God-King Darius"
         ],
         [
+            "Vladimir",
+            "Nightbringer Vladimir"
+        ],
+        [
             "Garen",
             "Fallen God-King Garen"
         ],
         [
             "Garen",
             "God-King Garen"
-        ]
-    ],
-    "Woad": [
-        [
-            "Darius",
-            "Woad King Darius"
-        ],
-        [
-            "Quinn",
-            "Woad Scout Quinn"
-        ],
-        [
-            "Ashe",
-            "Woad Ashe"
-        ],
-        [
-            "Kayle",
-            "Battleborn Kayle"
-        ],
-        [
-            "Morgana",
-            "Exiled Morgana"
-        ]
-    ],
-    "Arcane": [
-        [
-            "Ekko",
-            "Firelight Ekko"
-        ],
-        [
-            "Jinx",
-            "Arcane Jinx"
-        ],
-        [
-            "Caitlyn",
-            "Arcane Caitlyn"
-        ],
-        [
-            "Vi",
-            "Arcane Vi"
-        ],
-        [
-            "Jayce",
-            "Arcane Jayce"
-        ]
-    ],
-    "World Champions: 2016": [
-        [
-            "Ekko",
-            "SKT T1 Ekko"
-        ],
-        [
-            "Syndra",
-            "SKT T1 Syndra"
-        ],
-        [
-            "Zac",
-            "SKT T1 Zac"
-        ],
-        [
-            "Olaf",
-            "SKT T1 Olaf"
-        ],
-        [
-            "Nami",
-            "SKT T1 Nami"
-        ],
-        [
-            "Jhin",
-            "SKT T1 Jhin"
-        ]
-    ],
-    "Guardian of the Sands": [
-        [
-            "Ekko",
-            "Sandstorm Ekko"
-        ],
-        [
-            "Ryze",
-            "Guardian of the Sands Ryze"
-        ],
-        [
-            "Katarina",
-            "Sandstorm Katarina"
-        ],
-        [
-            "Fiddlesticks",
-            "Risen Fiddlesticks"
-        ],
-        [
-            "Rammus",
-            "Guardian of the Sands Rammus"
-        ],
-        [
-            "Janna",
-            "Guardian of the Sands Janna"
-        ],
-        [
-            "Xerath",
-            "Guardian of the Sands Xerath"
-        ],
-        [
-            "Skarner",
-            "Guardian of the Sands Skarner"
-        ],
-        [
-            "Rengar",
-            "Guardian of the Sands Rengar"
-        ],
-        [
-            "Kha'Zix",
-            "Guardian of the Sands Kha'Zix"
-        ],
-        [
-            "Pyke",
-            "Sand Wraith Pyke"
-        ]
-    ],
-    "PROJECT": [
-        [
-            "Ekko",
-            "PROJECT: Ekko"
-        ],
-        [
-            "Fiora",
-            "PROJECT: Fiora"
-        ],
-        [
-            "Katarina",
-            "PROJECT: Katarina"
-        ],
-        [
-            "Gangplank",
-            "PROJECT: Gangplank"
-        ],
-        [
-            "Ashe",
-            "PROJECT: Ashe"
-        ],
-        [
-            "Sylas",
-            "Prestige PROJECT: Sylas"
-        ],
-        [
-            "Sylas",
-            "PROJECT: Sylas"
-        ],
-        [
-            "Warwick",
-            "PROJECT: Warwick"
-        ],
-        [
-            "Yasuo",
-            "PROJECT: Yasuo"
-        ],
-        [
-            "Renekton",
-            "PROJECT: Renekton"
-        ],
-        [
-            "Sejuani",
-            "PROJECT: Sejuani"
-        ],
-        [
-            "Vayne",
-            "PROJECT: Vayne"
-        ],
-        [
-            "Jinx",
-            "PROJECT: Jinx"
-        ],
-        [
-            "Leona",
-            "PROJECT: Leona"
-        ],
-        [
-            "Lucian",
-            "PROJECT: Lucian"
-        ],
-        [
-            "Vi",
-            "PROJECT: Vi"
-        ],
-        [
-            "Varus",
-            "PROJECT: Varus"
-        ],
-        [
-            "Zed",
-            "Prestige PROJECT: Zed"
-        ],
-        [
-            "Zed",
-            "PROJECT: Zed"
-        ],
-        [
-            "Akali",
-            "PROJECT: Akali"
-        ],
-        [
-            "Master Yi",
-            "PROJECT: Yi"
-        ],
-        [
-            "Mordekaiser",
-            "PROJECT: Mordekaiser"
-        ],
-        [
-            "Senna",
-            "PROJECT: Senna"
-        ],
-        [
-            "Jax",
-            "PROJECT: Jax"
-        ],
-        [
-            "Jhin",
-            "PROJECT: Jhin"
-        ],
-        [
-            "Irelia",
-            "Prestige PROJECT: Irelia"
-        ],
-        [
-            "Irelia",
-            "Prestige PROJECT: Irelia (2022)"
-        ],
-        [
-            "Irelia",
-            "PROJECT: Irelia"
-        ],
-        [
-            "Pyke",
-            "PROJECT: Pyke"
-        ],
-        [
-            "Naafiri",
-            "PROJECT: Naafiri"
-        ]
-    ],
-    "Pulsefire": [
-        [
-            "Ekko",
-            "Pulsefire Ekko"
-        ],
-        [
-            "Fiora",
-            "Pulsefire Fiora"
-        ],
-        [
-            "Twisted Fate",
-            "Pulsefire Twisted Fate"
-        ],
-        [
-            "Ezreal",
-            "Pulsefire Ezreal"
-        ],
-        [
-            "Riven",
-            "Pulsefire Riven"
-        ],
-        [
-            "Caitlyn",
-            "Pulsefire Caitlyn"
-        ],
-        [
-            "Lucian",
-            "Prestige Pulsefire Lucian"
-        ],
-        [
-            "Lucian",
-            "Pulsefire Lucian"
-        ],
-        [
-            "Shen",
-            "Pulsefire Shen"
-        ],
-        [
-            "Pantheon",
-            "Pulsefire Pantheon"
-        ],
-        [
-            "Thresh",
-            "Prestige Pulsefire Thresh"
-        ],
-        [
-            "Thresh",
-            "Prestige Pulsefire Thresh (2022)"
-        ],
-        [
-            "Thresh",
-            "Pulsefire Thresh"
-        ]
-    ],
-    "True Damage": [
-        [
-            "Ekko",
-            "Breakout True Damage Ekko"
-        ],
-        [
-            "Ekko",
-            "True Damage Ekko"
-        ],
-        [
-            "Yasuo",
-            "Prestige True Damage Yasuo"
-        ],
-        [
-            "Yasuo",
-            "True Damage Yasuo"
-        ],
-        [
-            "Qiyana",
-            "Prestige True Damage Qiyana"
-        ],
-        [
-            "Qiyana",
-            "Prestige True Damage Qiyana (2022)"
-        ],
-        [
-            "Qiyana",
-            "True Damage Qiyana"
-        ],
-        [
-            "Akali",
-            "True Damage Akali"
-        ],
-        [
-            "Senna",
-            "Prestige True Damage Senna"
-        ],
-        [
-            "Senna",
-            "True Damage Senna"
-        ]
-    ],
-    "Star Guardian Season 4": [
-        [
-            "Ekko",
-            "Prestige Star Guardian Ekko"
-        ],
-        [
-            "Ekko",
-            "Star Guardian Ekko"
-        ],
-        [
-            "Quinn",
-            "Star Guardian Quinn"
-        ],
-        [
-            "Fiddlesticks",
-            "Star Nemesis Fiddlesticks"
-        ],
-        [
-            "Taliyah",
-            "Star Guardian Taliyah"
-        ],
-        [
-            "Xayah",
-            "Redeemed Star Guardian Xayah"
-        ],
-        [
-            "Seraphine",
-            "Star Guardian Seraphine"
-        ],
-        [
-            "Kai'Sa",
-            "Star Guardian Kai'Sa"
-        ],
-        [
-            "Sona",
-            "Star Guardian Sona"
-        ],
-        [
-            "Rakan",
-            "Redeemed Star Guardian Rakan"
-        ],
-        [
-            "Syndra",
-            "Prestige Star Guardian Syndra"
-        ],
-        [
-            "Rell",
-            "Star Guardian Rell"
-        ],
-        [
-            "Orianna",
-            "Star Guardian Orianna"
-        ],
-        [
-            "Akali",
-            "Star Guardian Akali"
-        ],
-        [
-            "Morgana",
-            "Star Nemesis Morgana"
-        ],
-        [
-            "Nilah",
-            "Star Guardian Nilah"
-        ],
-        [
-            "Senna",
-            "Star Guardian Senna"
-        ]
-    ],
-    "Trick-or-Treat": [
-        [
-            "Ekko",
-            "Trick or Treat Ekko"
-        ],
-        [
-            "Vladimir",
-            "Nosferatu Vladimir"
-        ],
-        [
-            "Katarina",
-            "Kitty Cat Katarina"
-        ],
-        [
-            "Gangplank",
-            "Spooky Gangplank"
-        ],
-        [
-            "Twisted Fate",
-            "Underworld Twisted Fate"
-        ],
-        [
-            "Fiddlesticks",
-            "Pumpkinhead Fiddlesticks"
-        ],
-        [
-            "Kassadin",
-            "Count Kassadin"
-        ],
-        [
-            "Nocturne",
-            "Haunting Nocturne"
-        ],
-        [
-            "Tryndamere",
-            "Nightmare Tryndamere"
-        ],
-        [
-            "Vayne",
-            "Vindicator Vayne"
-        ],
-        [
-            "Blitzcrank",
-            "Witch's Brew Blitzcrank"
-        ],
-        [
-            "Hecarim",
-            "Headless Hecarim"
-        ],
-        [
-            "Annie",
-            "FrankenTibbers Annie"
-        ],
-        [
-            "Urgot",
-            "Butcher Urgot"
-        ],
-        [
-            "Lulu",
-            "Wicked Lulu"
-        ],
-        [
-            "Kled",
-            "Count Kledula"
-        ],
-        [
-            "Maokai",
-            "Haunted Maokai"
-        ],
-        [
-            "Dr. Mundo",
-            "Mundo Mundo"
-        ],
-        [
-            "Zyra",
-            "Haunted Zyra"
-        ],
-        [
-            "LeBlanc",
-            "Ravenborn LeBlanc"
-        ],
-        [
-            "Karthus",
-            "Grim Reaper Karthus"
-        ],
-        [
-            "Amumu",
-            "Pumpkin Prince Amumu"
-        ]
-    ],
-    "Bloodstone": [
-        [
-            "Vladimir",
-            "Blood Lord Vladimir"
-        ],
-        [
-            "Fiora",
-            "Nightraven Fiora"
-        ],
-        [
-            "Ryze",
-            "Dark Crystal Ryze"
-        ],
-        [
-            "Renekton",
-            "Bloodfury Renekton"
-        ],
-        [
-            "Hecarim",
-            "Blood Knight Hecarim"
-        ],
-        [
-            "Taric",
-            "Bloodstone Taric"
-        ],
-        [
-            "Lissandra",
-            "Bloodstone Lissandra"
-        ]
-    ],
-    "Cafe Cuties": [
-        [
-            "Vladimir",
-            "Cafe Cuties Vladimir"
-        ],
-        [
-            "Rumble",
-            "Cafe Cuties Rumble"
-        ],
-        [
-            "Soraka",
-            "Cafe Cuties Soraka"
-        ],
-        [
-            "Poppy",
-            "Cafe Cuties Poppy"
-        ],
-        [
-            "Jinx",
-            "Cafe Cuties Jinx"
-        ],
-        [
-            "Annie",
-            "Cafe Cuties Annie"
-        ],
-        [
-            "Gwen",
-            "Cafe Cuties Gwen"
-        ],
-        [
-            "Bard",
-            "Cafe Cuties Bard"
-        ],
-        [
-            "Lulu",
-            "Cafe Cuties Lulu"
-        ],
-        [
-            "Sivir",
-            "Cafe Cuties Sivir"
-        ]
-    ],
-    "Bilgewater: Curse of the Drowned": [
-        [
-            "Vladimir",
-            "Dark Waters Vladimir"
-        ],
-        [
-            "Diana",
-            "Dark Waters Diana"
-        ],
-        [
-            "Kayn",
-            "Soulhunter Kayn"
-        ]
-    ],
-    "Cosmic": [
-        [
-            "Vladimir",
-            "Cosmic Devourer Vladimir"
-        ],
-        [
-            "Xin Zhao",
-            "Cosmic Defender Xin Zhao"
-        ],
-        [
-            "Kassadin",
-            "Cosmic Reaver Kassadin"
-        ],
-        [
-            "Illaoi",
-            "Cosmic Invoker Illaoi"
-        ],
-        [
-            "Ashe",
-            "Cosmic Queen Ashe"
-        ],
-        [
-            "Xayah",
-            "Cosmic Dusk Xayah"
-        ],
-        [
-            "Bel'Veth",
-            "Cosmic Matriarch Bel'Veth"
-        ],
-        [
-            "Hecarim",
-            "Cosmic Charger Hecarim"
-        ],
-        [
-            "Rakan",
-            "Cosmic Dawn Rakan"
-        ],
-        [
-            "Lux",
-            "Cosmic Lux"
-        ],
-        [
-            "Varus",
-            "Cosmic Hunter Varus"
-        ],
-        [
-            "Skarner",
-            "Cosmic Sting Skarner"
-        ],
-        [
-            "Nunu & Willump",
-            "Cosmic Paladins Nunu & Willump"
-        ],
-        [
-            "Anivia",
-            "Cosmic Flight Anivia"
-        ],
-        [
-            "Sion",
-            "Cosmic Paladin Sion"
-        ],
-        [
-            "Lulu",
-            "Cosmic Enchantress Lulu"
-        ],
-        [
-            "Nidalee",
-            "Cosmic Huntress Nidalee"
-        ],
-        [
-            "Master Yi",
-            "Cosmic Blade Master Yi"
-        ],
-        [
-            "Nami",
-            "Cosmic Destiny Nami"
-        ],
-        [
-            "Nautilus",
-            "Cosmic Paladin Nautilus"
-        ]
-    ],
-    "Broken Covenant": [
-        [
-            "Vladimir",
-            "Broken Covenant Vladimir"
-        ],
-        [
-            "Miss Fortune",
-            "Broken Covenant Miss Fortune"
-        ],
-        [
-            "Miss Fortune",
-            "Prestige Broken Covenant Miss Fortune"
-        ],
-        [
-            "Nocturne",
-            "Broken Covenant Nocturne"
-        ],
-        [
-            "Riven",
-            "Broken Covenant Riven"
-        ],
-        [
-            "Xayah",
-            "Broken Covenant Xayah"
-        ],
-        [
-            "Rakan",
-            "Broken Covenant Rakan"
-        ],
-        [
-            "Cho'Gath",
-            "Broken Covenant Cho'Gath"
-        ]
-    ],
-    "Vandal": [
-        [
-            "Vladimir",
-            "Vandal Vladimir"
-        ],
-        [
-            "Graves",
-            "Hired Gun Graves"
-        ],
-        [
-            "Twitch",
-            "Vandal Twitch"
-        ],
-        [
-            "Brand",
-            "Vandal Brand"
-        ],
-        [
-            "Gragas",
-            "Vandal Gragas"
-        ],
-        [
-            "Jax",
-            "Vandal Jax"
-        ]
-    ],
-    "Soulstealer": [
-        [
-            "Vladimir",
-            "Soulstealer Vladimir"
-        ],
-        [
-            "Vayne",
-            "Soulstealer Vayne"
-        ]
-    ],
-    "Storybook": [
-        [
-            "Vladimir",
-            "Count Vladimir"
-        ],
-        [
-            "Warwick",
-            "Big Bad Warwick"
-        ],
-        [
-            "Kog'Maw",
-            "Caterpillar Kog'Maw"
-        ],
-        [
-            "Shaco",
-            "Mad Hatter Shaco"
-        ],
-        [
-            "Annie",
-            "Annie in Wonderland"
-        ],
-        [
-            "Annie",
-            "Red Riding Annie"
-        ]
-    ],
-    "High Society": [
-        [
-            "Vladimir",
-            "Marquis Vladimir"
-        ],
-        [
-            "Twisted Fate",
-            "Tango Twisted Fate"
-        ],
-        [
-            "Soraka",
-            "Order of the Banana Soraka"
-        ],
-        [
-            "Vayne",
-            "Aristocrat Vayne"
-        ],
-        [
-            "Nasus",
-            "Archduke Nasus"
-        ],
-        [
-            "Cho'Gath",
-            "Gentleman Cho'Gath"
-        ],
-        [
-            "Evelynn",
-            "Tango Evelynn"
-        ],
-        [
-            "Gnar",
-            "Gentleman Gnar"
-        ]
-    ],
-    "Nightbringer and Dawnbringer": [
-        [
-            "Vladimir",
-            "Nightbringer Vladimir"
         ],
         [
             "Lee Sin",
@@ -2369,6 +3041,870 @@
             "Nightbringer Lillia"
         ]
     ],
+    "Woad Tribe": [
+        [
+            "Darius",
+            "Woad King Darius"
+        ],
+        [
+            "Quinn",
+            "Woad Scout Quinn"
+        ],
+        [
+            "Ashe",
+            "Woad Ashe"
+        ],
+        [
+            "Kayle",
+            "Battleborn Kayle"
+        ],
+        [
+            "Morgana",
+            "Exiled Morgana"
+        ]
+    ],
+    "Arcane": [
+        [
+            "Ekko",
+            "Firelight Ekko"
+        ],
+        [
+            "Jinx",
+            "Arcane Jinx"
+        ],
+        [
+            "Caitlyn",
+            "Arcane Caitlyn"
+        ],
+        [
+            "Vi",
+            "Arcane Vi"
+        ],
+        [
+            "Jayce",
+            "Arcane Jayce"
+        ]
+    ],
+    "Guardian of the Sands": [
+        [
+            "Ekko",
+            "Sandstorm Ekko"
+        ],
+        [
+            "Ryze",
+            "Guardian of the Sands Ryze"
+        ],
+        [
+            "Katarina",
+            "Sandstorm Katarina"
+        ],
+        [
+            "Fiddlesticks",
+            "Risen Fiddlesticks"
+        ],
+        [
+            "Rammus",
+            "Guardian of the Sands Rammus"
+        ],
+        [
+            "Janna",
+            "Guardian of the Sands Janna"
+        ],
+        [
+            "Xerath",
+            "Guardian of the Sands Xerath"
+        ],
+        [
+            "Nasus",
+            "Pharaoh Nasus"
+        ],
+        [
+            "Skarner",
+            "Guardian of the Sands Skarner"
+        ],
+        [
+            "Nidalee",
+            "Pharaoh Nidalee"
+        ],
+        [
+            "Rengar",
+            "Guardian of the Sands Rengar"
+        ],
+        [
+            "Kha'Zix",
+            "Guardian of the Sands Kha'Zix"
+        ],
+        [
+            "Pyke",
+            "Sand Wraith Pyke"
+        ],
+        [
+            "Amumu",
+            "Pharaoh Amumu"
+        ]
+    ],
+    "PROJECT": [
+        [
+            "Ekko",
+            "PROJECT: Ekko"
+        ],
+        [
+            "Fiora",
+            "PROJECT: Fiora"
+        ],
+        [
+            "Katarina",
+            "PROJECT: Katarina"
+        ],
+        [
+            "Gangplank",
+            "PROJECT: Gangplank"
+        ],
+        [
+            "Ashe",
+            "PROJECT: Ashe"
+        ],
+        [
+            "Sylas",
+            "Prestige PROJECT: Sylas"
+        ],
+        [
+            "Sylas",
+            "PROJECT: Sylas"
+        ],
+        [
+            "Warwick",
+            "PROJECT: Warwick"
+        ],
+        [
+            "Soraka",
+            "Program Soraka"
+        ],
+        [
+            "Yasuo",
+            "PROJECT: Yasuo"
+        ],
+        [
+            "Renekton",
+            "PROJECT: Renekton"
+        ],
+        [
+            "Sejuani",
+            "PROJECT: Sejuani"
+        ],
+        [
+            "Vayne",
+            "PROJECT: Vayne"
+        ],
+        [
+            "Jinx",
+            "PROJECT: Jinx"
+        ],
+        [
+            "Leona",
+            "PROJECT: Leona"
+        ],
+        [
+            "Blitzcrank",
+            "iBlitzcrank"
+        ],
+        [
+            "Lucian",
+            "PROJECT: Lucian"
+        ],
+        [
+            "Vi",
+            "PROJECT: Vi"
+        ],
+        [
+            "Camille",
+            "Program Camille"
+        ],
+        [
+            "Zoe",
+            "Cyber Pop Zoe"
+        ],
+        [
+            "Varus",
+            "PROJECT: Varus"
+        ],
+        [
+            "Lissandra",
+            "Program Lissandra"
+        ],
+        [
+            "Zed",
+            "Prestige PROJECT: Zed"
+        ],
+        [
+            "Zed",
+            "PROJECT: Zed"
+        ],
+        [
+            "Akali",
+            "PROJECT: Akali"
+        ],
+        [
+            "LeBlanc",
+            "Program LeBlanc"
+        ],
+        [
+            "Master Yi",
+            "PROJECT: Yi"
+        ],
+        [
+            "Akshan",
+            "Cyber Pop Akshan"
+        ],
+        [
+            "Mordekaiser",
+            "PROJECT: Mordekaiser"
+        ],
+        [
+            "Nami",
+            "Program Nami"
+        ],
+        [
+            "Senna",
+            "PROJECT: Senna"
+        ],
+        [
+            "Jax",
+            "PROJECT: Jax"
+        ],
+        [
+            "Jhin",
+            "PROJECT: Jhin"
+        ],
+        [
+            "Irelia",
+            "Prestige PROJECT: Irelia"
+        ],
+        [
+            "Irelia",
+            "Prestige PROJECT: Irelia (2022)"
+        ],
+        [
+            "Irelia",
+            "PROJECT: Irelia"
+        ],
+        [
+            "Pyke",
+            "PROJECT: Pyke"
+        ],
+        [
+            "Naafiri",
+            "PROJECT: Naafiri"
+        ]
+    ],
+    "Pulsefire": [
+        [
+            "Ekko",
+            "Pulsefire Ekko"
+        ],
+        [
+            "Fiora",
+            "Pulsefire Fiora"
+        ],
+        [
+            "Twisted Fate",
+            "Pulsefire Twisted Fate"
+        ],
+        [
+            "Graves",
+            "Praetorian Graves"
+        ],
+        [
+            "Fiddlesticks",
+            "Praetorian Fiddlesticks"
+        ],
+        [
+            "Ezreal",
+            "Pulsefire Ezreal"
+        ],
+        [
+            "Riven",
+            "Pulsefire Riven"
+        ],
+        [
+            "Caitlyn",
+            "Pulsefire Caitlyn"
+        ],
+        [
+            "Lucian",
+            "Prestige Pulsefire Lucian"
+        ],
+        [
+            "Lucian",
+            "Pulsefire Lucian"
+        ],
+        [
+            "Shen",
+            "Pulsefire Shen"
+        ],
+        [
+            "Pantheon",
+            "Pulsefire Pantheon"
+        ],
+        [
+            "Thresh",
+            "Prestige Pulsefire Thresh"
+        ],
+        [
+            "Thresh",
+            "Prestige Pulsefire Thresh (2022)"
+        ],
+        [
+            "Thresh",
+            "Pulsefire Thresh"
+        ]
+    ],
+    "Tales from the Rift": [
+        [
+            "Ekko",
+            "Trick or Treat Ekko"
+        ],
+        [
+            "Vladimir",
+            "Nosferatu Vladimir"
+        ],
+        [
+            "Fiora",
+            "Bewitching Fiora"
+        ],
+        [
+            "Katarina",
+            "Kitty Cat Katarina"
+        ],
+        [
+            "Tristana",
+            "Bewitching Tristana"
+        ],
+        [
+            "Gangplank",
+            "Spooky Gangplank"
+        ],
+        [
+            "Miss Fortune",
+            "Bewitching Miss Fortune"
+        ],
+        [
+            "Miss Fortune",
+            "Prestige Bewitching Miss Fortune"
+        ],
+        [
+            "Miss Fortune",
+            "Prestige Bewitching Miss Fortune (2022)"
+        ],
+        [
+            "Twisted Fate",
+            "Underworld Twisted Fate"
+        ],
+        [
+            "Fiddlesticks",
+            "Pumpkinhead Fiddlesticks"
+        ],
+        [
+            "Kassadin",
+            "Count Kassadin"
+        ],
+        [
+            "Nocturne",
+            "Haunting Nocturne"
+        ],
+        [
+            "Janna",
+            "Bewitching Janna"
+        ],
+        [
+            "Tryndamere",
+            "Nightmare Tryndamere"
+        ],
+        [
+            "Poppy",
+            "Bewitching Poppy"
+        ],
+        [
+            "Vayne",
+            "Vindicator Vayne"
+        ],
+        [
+            "Yuumi",
+            "Bewitching Yuumi"
+        ],
+        [
+            "Blitzcrank",
+            "Witch's Brew Blitzcrank"
+        ],
+        [
+            "Hecarim",
+            "Headless Hecarim"
+        ],
+        [
+            "Syndra",
+            "Bewitching Syndra"
+        ],
+        [
+            "Annie",
+            "FrankenTibbers Annie"
+        ],
+        [
+            "Urgot",
+            "Butcher Urgot"
+        ],
+        [
+            "Anivia",
+            "Bewitching Batnivia"
+        ],
+        [
+            "Lulu",
+            "Wicked Lulu"
+        ],
+        [
+            "Kled",
+            "Count Kledula"
+        ],
+        [
+            "Nidalee",
+            "Bewitching Nidalee"
+        ],
+        [
+            "Maokai",
+            "Haunted Maokai"
+        ],
+        [
+            "Dr. Mundo",
+            "Mundo Mundo"
+        ],
+        [
+            "Neeko",
+            "Bewitching Neeko"
+        ],
+        [
+            "Zyra",
+            "Haunted Zyra"
+        ],
+        [
+            "LeBlanc",
+            "Bewitching LeBlanc"
+        ],
+        [
+            "LeBlanc",
+            "Ravenborn LeBlanc"
+        ],
+        [
+            "Elise",
+            "Bewitching Elise"
+        ],
+        [
+            "Morgana",
+            "Bewitching Morgana"
+        ],
+        [
+            "Morgana",
+            "Prestige Bewitching Morgana"
+        ],
+        [
+            "Cassiopeia",
+            "Bewitching Cassiopeia"
+        ],
+        [
+            "Nami",
+            "Bewitching Nami"
+        ],
+        [
+            "Senna",
+            "Bewitching Senna"
+        ],
+        [
+            "Karthus",
+            "Grim Reaper Karthus"
+        ],
+        [
+            "Amumu",
+            "Pumpkin Prince Amumu"
+        ]
+    ],
+    "Bloodstone": [
+        [
+            "Vladimir",
+            "Blood Lord Vladimir"
+        ],
+        [
+            "Fiora",
+            "Nightraven Fiora"
+        ],
+        [
+            "Ryze",
+            "Dark Crystal Ryze"
+        ],
+        [
+            "Renekton",
+            "Bloodfury Renekton"
+        ],
+        [
+            "Hecarim",
+            "Blood Knight Hecarim"
+        ],
+        [
+            "Taric",
+            "Bloodstone Taric"
+        ],
+        [
+            "Lissandra",
+            "Bloodstone Lissandra"
+        ]
+    ],
+    "Cafe Cuties": [
+        [
+            "Vladimir",
+            "Cafe Cuties Vladimir"
+        ],
+        [
+            "Rumble",
+            "Cafe Cuties Rumble"
+        ],
+        [
+            "Soraka",
+            "Cafe Cuties Soraka"
+        ],
+        [
+            "Poppy",
+            "Cafe Cuties Poppy"
+        ],
+        [
+            "Jinx",
+            "Cafe Cuties Jinx"
+        ],
+        [
+            "Annie",
+            "Cafe Cuties Annie"
+        ],
+        [
+            "Gwen",
+            "Cafe Cuties Gwen"
+        ],
+        [
+            "Bard",
+            "Cafe Cuties Bard"
+        ],
+        [
+            "Lulu",
+            "Cafe Cuties Lulu"
+        ],
+        [
+            "Sivir",
+            "Cafe Cuties Sivir"
+        ]
+    ],
+    "Dark Waters": [
+        [
+            "Vladimir",
+            "Dark Waters Vladimir"
+        ],
+        [
+            "Diana",
+            "Dark Waters Diana"
+        ],
+        [
+            "Kayn",
+            "Soulhunter Kayn"
+        ]
+    ],
+    "Event Horizon": [
+        [
+            "Vladimir",
+            "Cosmic Devourer Vladimir"
+        ],
+        [
+            "Malphite",
+            "Dark Star Malphite"
+        ],
+        [
+            "Malphite",
+            "Prestige Dark Star Malphite"
+        ],
+        [
+            "Xin Zhao",
+            "Cosmic Defender Xin Zhao"
+        ],
+        [
+            "Kassadin",
+            "Cosmic Reaver Kassadin"
+        ],
+        [
+            "Illaoi",
+            "Cosmic Invoker Illaoi"
+        ],
+        [
+            "Ashe",
+            "Cosmic Queen Ashe"
+        ],
+        [
+            "Karma",
+            "Dark Star Karma"
+        ],
+        [
+            "Xayah",
+            "Cosmic Dusk Xayah"
+        ],
+        [
+            "Bel'Veth",
+            "Cosmic Matriarch Bel'Veth"
+        ],
+        [
+            "Hecarim",
+            "Cosmic Charger Hecarim"
+        ],
+        [
+            "Rakan",
+            "Cosmic Dawn Rakan"
+        ],
+        [
+            "Xerath",
+            "Dark Star Xerath"
+        ],
+        [
+            "Shaco",
+            "Dark Star Shaco"
+        ],
+        [
+            "Lux",
+            "Cosmic Lux"
+        ],
+        [
+            "Lux",
+            "Dark Cosmic Lux"
+        ],
+        [
+            "Varus",
+            "Cosmic Hunter Varus"
+        ],
+        [
+            "Varus",
+            "Dark Star Varus"
+        ],
+        [
+            "Skarner",
+            "Cosmic Sting Skarner"
+        ],
+        [
+            "Cho'Gath",
+            "Dark Star Cho'Gath"
+        ],
+        [
+            "Orianna",
+            "Dark Star Orianna"
+        ],
+        [
+            "Nunu & Willump",
+            "Cosmic Paladins Nunu & Willump"
+        ],
+        [
+            "Anivia",
+            "Cosmic Flight Anivia"
+        ],
+        [
+            "Sion",
+            "Cosmic Paladin Sion"
+        ],
+        [
+            "Lissandra",
+            "Dark Cosmic Lissandra"
+        ],
+        [
+            "Lulu",
+            "Cosmic Enchantress Lulu"
+        ],
+        [
+            "Nidalee",
+            "Cosmic Huntress Nidalee"
+        ],
+        [
+            "Master Yi",
+            "Cosmic Blade Master Yi"
+        ],
+        [
+            "Mordekaiser",
+            "Dark Star Mordekaiser"
+        ],
+        [
+            "Jarvan IV",
+            "Dark Star Jarvan IV"
+        ],
+        [
+            "Nami",
+            "Cosmic Destiny Nami"
+        ],
+        [
+            "Kha'Zix",
+            "Dark Star Kha'Zix"
+        ],
+        [
+            "Nautilus",
+            "Cosmic Paladin Nautilus"
+        ],
+        [
+            "Thresh",
+            "Dark Star Thresh"
+        ],
+        [
+            "Jhin",
+            "Dark Cosmic Jhin"
+        ],
+        [
+            "Jhin",
+            "Dark Cosmic Erasure Jhin"
+        ]
+    ],
+    "Forsaken Hymn": [
+        [
+            "Vladimir",
+            "Broken Covenant Vladimir"
+        ],
+        [
+            "Miss Fortune",
+            "Broken Covenant Miss Fortune"
+        ],
+        [
+            "Miss Fortune",
+            "Prestige Broken Covenant Miss Fortune"
+        ],
+        [
+            "Nocturne",
+            "Broken Covenant Nocturne"
+        ],
+        [
+            "Riven",
+            "Broken Covenant Riven"
+        ],
+        [
+            "Xayah",
+            "Broken Covenant Xayah"
+        ],
+        [
+            "Rakan",
+            "Broken Covenant Rakan"
+        ],
+        [
+            "Cho'Gath",
+            "Broken Covenant Cho'Gath"
+        ]
+    ],
+    "Highway Heretics": [
+        [
+            "Vladimir",
+            "Vandal Vladimir"
+        ],
+        [
+            "Rumble",
+            "Badlands Baron Rumble"
+        ],
+        [
+            "Miss Fortune",
+            "Road Warrior Miss Fortune"
+        ],
+        [
+            "Graves",
+            "Hired Gun Graves"
+        ],
+        [
+            "Twitch",
+            "Vandal Twitch"
+        ],
+        [
+            "Warwick",
+            "Hyena Warwick"
+        ],
+        [
+            "Trundle",
+            "Junkyard Trundle"
+        ],
+        [
+            "Brand",
+            "Apocalyptic Brand"
+        ],
+        [
+            "Brand",
+            "Vandal Brand"
+        ],
+        [
+            "Veigar",
+            "Baron Von Veigar"
+        ],
+        [
+            "Heimerdinger",
+            "Blast Zone Heimerdinger"
+        ],
+        [
+            "Gragas",
+            "Vandal Gragas"
+        ],
+        [
+            "Pantheon",
+            "Ruthless Pantheon"
+        ],
+        [
+            "Jax",
+            "Vandal Jax"
+        ]
+    ],
+    "Soulstealer": [
+        [
+            "Vladimir",
+            "Soulstealer Vladimir"
+        ],
+        [
+            "Vayne",
+            "Soulstealer Vayne"
+        ]
+    ],
+    "Storybook": [
+        [
+            "Vladimir",
+            "Count Vladimir"
+        ],
+        [
+            "Twisted Fate",
+            "Jack of Hearts Twisted Fate"
+        ],
+        [
+            "Ezreal",
+            "Ace of Spades Ezreal"
+        ],
+        [
+            "Warwick",
+            "Big Bad Warwick"
+        ],
+        [
+            "Kog'Maw",
+            "Caterpillar Kog'Maw"
+        ],
+        [
+            "Shaco",
+            "Wild Card Shaco"
+        ],
+        [
+            "Shaco",
+            "Mad Hatter Shaco"
+        ],
+        [
+            "Syndra",
+            "Queen of Diamonds Syndra"
+        ],
+        [
+            "Annie",
+            "Annie in Wonderland"
+        ],
+        [
+            "Annie",
+            "Red Riding Annie"
+        ],
+        [
+            "Mordekaiser",
+            "King of Clubs Mordekaiser"
+        ]
+    ],
     "Battle Queens": [
         [
             "Fiora",
@@ -2411,7 +3947,7 @@
             "Battle Queen Rell"
         ]
     ],
-    "Heartbreakers": [
+    "Be Mine": [
         [
             "Fiora",
             "Heartpiercer Fiora"
@@ -2467,32 +4003,6 @@
         [
             "Orianna",
             "Heartseeker Orianna"
-        ]
-    ],
-    "World Champions: 2018": [
-        [
-            "Fiora",
-            "iG Fiora"
-        ],
-        [
-            "Kai'Sa",
-            "iG Kai'Sa"
-        ],
-        [
-            "Camille",
-            "iG Camille"
-        ],
-        [
-            "Rakan",
-            "iG Rakan"
-        ],
-        [
-            "LeBlanc",
-            "iG LeBlanc"
-        ],
-        [
-            "Irelia",
-            "iG Irelia"
         ]
     ],
     "Fables": [
@@ -2553,7 +4063,7 @@
             "River Spirit Nami"
         ]
     ],
-    "Dragonmancers": [
+    "Four Beasts": [
         [
             "Fiora",
             "Dragonmancer Fiora"
@@ -2595,6 +4105,18 @@
             "Dragonmancer Vayne"
         ],
         [
+            "Xayah",
+            "Brave Phoenix Xayah"
+        ],
+        [
+            "Xayah",
+            "Prestige Brave Phoenix Xayah"
+        ],
+        [
+            "Seraphine",
+            "Graceful Phoenix Seraphine"
+        ],
+        [
             "Brand",
             "Eternal Dragon Brand"
         ],
@@ -2609,6 +4131,10 @@
         [
             "Rakan",
             "Prestige Dragonmancer Rakan"
+        ],
+        [
+            "Anivia",
+            "Divine Phoenix Anivia"
         ],
         [
             "Thresh",
@@ -2705,7 +4231,7 @@
             "Divine Sword Irelia"
         ]
     ],
-    "Pool Party": [
+    "Sunkissed Summer": [
         [
             "Fiora",
             "Pool Party Fiora"
@@ -2723,6 +4249,10 @@
             "Pool Party Graves"
         ],
         [
+            "Ashe",
+            "Ocean Song Ashe"
+        ],
+        [
             "Taliyah",
             "Pool Party Taliyah"
         ],
@@ -2733,6 +4263,14 @@
         [
             "Renekton",
             "Pool Party Renekton"
+        ],
+        [
+            "Seraphine",
+            "Ocean Song Seraphine"
+        ],
+        [
+            "Seraphine",
+            "Prestige Ocean Song Seraphine"
         ],
         [
             "Leona",
@@ -2783,6 +4321,10 @@
             "Pool Party Lulu"
         ],
         [
+            "Nidalee",
+            "Ocean Song Nidalee"
+        ],
+        [
             "Dr. Mundo",
             "Pool Party Mundo"
         ],
@@ -2795,93 +4337,23 @@
             "Pool Party Draven"
         ],
         [
+            "Zeri",
+            "Ocean Song Zeri"
+        ],
+        [
             "Jarvan IV",
             "Pool Party Jarvan IV"
         ],
         [
             "Sett",
             "Pool Party Sett"
+        ],
+        [
+            "Yone",
+            "Ocean Song Yone"
         ]
     ],
-    "Bewitching": [
-        [
-            "Fiora",
-            "Bewitching Fiora"
-        ],
-        [
-            "Tristana",
-            "Bewitching Tristana"
-        ],
-        [
-            "Miss Fortune",
-            "Bewitching Miss Fortune"
-        ],
-        [
-            "Miss Fortune",
-            "Prestige Bewitching Miss Fortune"
-        ],
-        [
-            "Miss Fortune",
-            "Prestige Bewitching Miss Fortune (2022)"
-        ],
-        [
-            "Janna",
-            "Bewitching Janna"
-        ],
-        [
-            "Poppy",
-            "Bewitching Poppy"
-        ],
-        [
-            "Yuumi",
-            "Bewitching Yuumi"
-        ],
-        [
-            "Syndra",
-            "Bewitching Syndra"
-        ],
-        [
-            "Anivia",
-            "Bewitching Batnivia"
-        ],
-        [
-            "Nidalee",
-            "Bewitching Nidalee"
-        ],
-        [
-            "Neeko",
-            "Bewitching Neeko"
-        ],
-        [
-            "LeBlanc",
-            "Bewitching LeBlanc"
-        ],
-        [
-            "Elise",
-            "Bewitching Elise"
-        ],
-        [
-            "Morgana",
-            "Bewitching Morgana"
-        ],
-        [
-            "Morgana",
-            "Prestige Bewitching Morgana"
-        ],
-        [
-            "Cassiopeia",
-            "Bewitching Cassiopeia"
-        ],
-        [
-            "Nami",
-            "Bewitching Nami"
-        ],
-        [
-            "Senna",
-            "Bewitching Senna"
-        ]
-    ],
-    "Faerie Court": [
+    "Winged Reign": [
         [
             "Fiora",
             "Faerie Court Fiora"
@@ -2931,7 +4403,7 @@
             "Faerie Court Milio"
         ]
     ],
-    "Bilgewater: Burning Tides": [
+    "Ages of Runeterra": [
         [
             "Ryze",
             "Pirate Ryze"
@@ -2945,8 +4417,16 @@
             "Bilgewater Katarina"
         ],
         [
+            "Katarina",
+            "High Command Katarina"
+        ],
+        [
             "Swain",
             "Bilgewater Swain"
+        ],
+        [
+            "Swain",
+            "Tyrant Swain"
         ],
         [
             "Tristana",
@@ -2991,9 +4471,125 @@
         [
             "Aatrox",
             "Sea Hunter Aatrox"
+        ],
+        [
+            "Zilean",
+            "Shurima Desert Zilean"
+        ],
+        [
+            "Alistar",
+            "Unchained Alistar"
+        ],
+        [
+            "Xin Zhao",
+            "Viscero Xin Zhao"
+        ],
+        [
+            "Kassadin",
+            "Pre-Void Kassadin"
+        ],
+        [
+            "Fizz",
+            "Void Fizz"
+        ],
+        [
+            "Nocturne",
+            "Void Nocturne"
+        ],
+        [
+            "Illaoi",
+            "Void Bringer Illaoi"
+        ],
+        [
+            "Ashe",
+            "Freljord Ashe"
+        ],
+        [
+            "Rammus",
+            "Freljord Rammus"
+        ],
+        [
+            "Sylas",
+            "Freljord Sylas"
+        ],
+        [
+            "Taliyah",
+            "Freljord Taliyah"
+        ],
+        [
+            "Janna",
+            "Frost Queen Janna"
+        ],
+        [
+            "Ezreal",
+            "Frosted Ezreal"
+        ],
+        [
+            "Warwick",
+            "Tundra Hunter Warwick"
+        ],
+        [
+            "Lee Sin",
+            "Acolyte Lee Sin"
+        ],
+        [
+            "Lee Sin",
+            "Traditional Lee Sin"
+        ],
+        [
+            "Tryndamere",
+            "Demonblade Tryndamere"
+        ],
+        [
+            "Soraka",
+            "Divine Soraka"
+        ],
+        [
+            "Yasuo",
+            "Foreseen Yasuo"
+        ],
+        [
+            "Poppy",
+            "Noxus Poppy"
+        ],
+        [
+            "Viktor",
+            "Prototype Viktor"
+        ],
+        [
+            "Riven",
+            "Redeemed Riven"
+        ],
+        [
+            "Renekton",
+            "Rune Wars Renekton"
+        ],
+        [
+            "Volibear",
+            "Runeguard Volibear"
+        ],
+        [
+            "Kayle",
+            "Transcended Kayle"
+        ],
+        [
+            "Viego",
+            "King Viego"
+        ],
+        [
+            "Karma",
+            "Traditional Karma"
+        ],
+        [
+            "Sejuani",
+            "Traditional Sejuani"
+        ],
+        [
+            "Trundle",
+            "Traditional Trundle"
         ]
     ],
-    "Collector's Edition": [
+    "Collector Edition": [
         [
             "Ryze",
             "Young Ryze"
@@ -3005,90 +4601,6 @@
         [
             "Kayle",
             "Silver Kayle"
-        ]
-    ],
-    "World Champions: 2015": [
-        [
-            "Ryze",
-            "SKT T1 Ryze"
-        ],
-        [
-            "Alistar",
-            "SKT T1 Alistar"
-        ],
-        [
-            "Renekton",
-            "SKT T1 Renekton"
-        ],
-        [
-            "Elise",
-            "SKT T1 Elise"
-        ],
-        [
-            "Azir",
-            "SKT T1 Azir"
-        ],
-        [
-            "Kalista",
-            "SKT T1 Kalista"
-        ]
-    ],
-    "World Championship": [
-        [
-            "Ryze",
-            "Worlds 2019 Ryze"
-        ],
-        [
-            "Ashe",
-            "Worlds 2017 Ashe"
-        ],
-        [
-            "Riven",
-            "Reignited Worlds 2012 Riven"
-        ],
-        [
-            "Riven",
-            "Worlds 2012 Riven"
-        ],
-        [
-            "Renekton",
-            "Worlds 2023 Renekton"
-        ],
-        [
-            "Viego",
-            "Worlds 2024 Viego"
-        ],
-        [
-            "Shyvana",
-            "Worlds 2014 Shyvana"
-        ],
-        [
-            "Zed",
-            "Worlds 2016 Zed"
-        ],
-        [
-            "LeBlanc",
-            "Worlds 2020 LeBlanc"
-        ],
-        [
-            "Azir",
-            "Worlds 2022 Azir"
-        ],
-        [
-            "Jarvan IV",
-            "Worlds 2021 Jarvan IV"
-        ],
-        [
-            "Kha'Zix",
-            "Worlds 2018 Kha'Zix"
-        ],
-        [
-            "Thresh",
-            "Worlds 2013 Thresh"
-        ],
-        [
-            "Kalista",
-            "Worlds 2015 Kalista"
         ]
     ],
     "Prehistoric Hunters": [
@@ -3143,7 +4655,7 @@
             "Triumphant Ryze"
         ]
     ],
-    "Zombies VS Slayers": [
+    "Zombie VS Slayers": [
         [
             "Ryze",
             "Zombie Ryze"
@@ -3163,40 +4675,6 @@
         [
             "Pantheon",
             "Zombie Slayer Pantheon"
-        ]
-    ],
-    "Road Warrior": [
-        [
-            "Rumble",
-            "Badlands Baron Rumble"
-        ],
-        [
-            "Miss Fortune",
-            "Road Warrior Miss Fortune"
-        ],
-        [
-            "Warwick",
-            "Hyena Warwick"
-        ],
-        [
-            "Trundle",
-            "Junkyard Trundle"
-        ],
-        [
-            "Brand",
-            "Apocalyptic Brand"
-        ],
-        [
-            "Veigar",
-            "Baron Von Veigar"
-        ],
-        [
-            "Heimerdinger",
-            "Blast Zone Heimerdinger"
-        ],
-        [
-            "Pantheon",
-            "Ruthless Pantheon"
         ]
     ],
     "Space Groove": [
@@ -3303,12 +4781,6 @@
             "Super Galaxy Gnar"
         ]
     ],
-    "Bilgewater: Mercs": [
-        [
-            "Katarina",
-            "High Command Katarina"
-        ]
-    ],
     "Death Sworn": [
         [
             "Katarina",
@@ -3351,7 +4823,7 @@
             "Underworld Wukong"
         ]
     ],
-    "Battle Academia": [
+    "God Weapon": [
         [
             "Katarina",
             "Battle Academia Katarina"
@@ -3409,105 +4881,7 @@
             "Battle Academia Yone"
         ]
     ],
-    "Blood Moon": [
-        [
-            "Katarina",
-            "Blood Moon Katarina"
-        ],
-        [
-            "Twisted Fate",
-            "Blood Moon Twisted Fate"
-        ],
-        [
-            "Fiddlesticks",
-            "Blood Moon Fiddlesticks"
-        ],
-        [
-            "Aatrox",
-            "Blood Moon Aatrox"
-        ],
-        [
-            "Aatrox",
-            "Prestige Blood Moon Aatrox"
-        ],
-        [
-            "Aatrox",
-            "Prestige Blood Moon Aatrox (2022)"
-        ],
-        [
-            "Zilean",
-            "Blood Moon Zilean"
-        ],
-        [
-            "Tryndamere",
-            "Blood Moon Tryndamere"
-        ],
-        [
-            "Yasuo",
-            "Blood Moon Yasuo"
-        ],
-        [
-            "Diana",
-            "Blood Moon Diana"
-        ],
-        [
-            "Sivir",
-            "Blood Moon Sivir"
-        ],
-        [
-            "Shen",
-            "Blood Moon Shen"
-        ],
-        [
-            "Zed",
-            "Blood Moon Zed"
-        ],
-        [
-            "Zyra",
-            "Blood Moon Zyra"
-        ],
-        [
-            "Akali",
-            "Blood Moon Akali"
-        ],
-        [
-            "Master Yi",
-            "Blood Moon Master Yi"
-        ],
-        [
-            "Talon",
-            "Blood Moon Talon"
-        ],
-        [
-            "Elise",
-            "Blood Moon Elise"
-        ],
-        [
-            "Evelynn",
-            "Blood Moon Evelynn"
-        ],
-        [
-            "Thresh",
-            "Blood Moon Thresh"
-        ],
-        [
-            "Kalista",
-            "Blood Moon Kalista"
-        ],
-        [
-            "Jhin",
-            "Blood Moon Jhin"
-        ],
-        [
-            "Kennen",
-            "Blood Moon Kennen"
-        ],
-        [
-            "Pyke",
-            "Blood Moon Pyke"
-        ]
-    ],
-    "Snowdown Showdown": [
+    "Snowdown": [
         [
             "Katarina",
             "Slay Belle Katarina"
@@ -3521,12 +4895,44 @@
             "Candy Cane Miss Fortune"
         ],
         [
+            "Graves",
+            "Snow Day Graves"
+        ],
+        [
+            "Twitch",
+            "Ice King Twitch"
+        ],
+        [
             "Zilean",
             "Old Saint Zilean"
         ],
         [
+            "Soraka",
+            "Winter Wonder Soraka"
+        ],
+        [
+            "Poppy",
+            "Snow Fawn Poppy"
+        ],
+        [
+            "Karma",
+            "Winter Wonder Karma"
+        ],
+        [
+            "Sejuani",
+            "Poro Rider Sejuani"
+        ],
+        [
             "Jinx",
             "Ambitious Elf Jinx"
+        ],
+        [
+            "Malzahar",
+            "Snow Day Malzahar"
+        ],
+        [
+            "Ziggs",
+            "Snow Day Ziggs"
         ],
         [
             "Veigar",
@@ -3545,6 +4951,22 @@
             "Nutcracko"
         ],
         [
+            "Syndra",
+            "Snow Day Syndra"
+        ],
+        [
+            "Annie",
+            "Frostfire Annie"
+        ],
+        [
+            "Singed",
+            "Snow Day Singed"
+        ],
+        [
+            "Orianna",
+            "Winter Wonder Orianna"
+        ],
+        [
             "Teemo",
             "Happy Elf Teemo"
         ],
@@ -3557,12 +4979,32 @@
             "Workshop Nunu & Willump"
         ],
         [
+            "Bard",
+            "Snow Day Bard"
+        ],
+        [
+            "Lulu",
+            "Winter Wonder Lulu"
+        ],
+        [
+            "Sivir",
+            "Snowstorm Sivir"
+        ],
+        [
             "Nidalee",
             "Snow Bunny Nidalee"
         ],
         [
             "Maokai",
             "Festive Maokai"
+        ],
+        [
+            "Dr. Mundo",
+            "Frozen Prince Mundo"
+        ],
+        [
+            "Neeko",
+            "Winter Wonder Neeko"
         ],
         [
             "Braum",
@@ -3581,57 +5023,23 @@
             "Mistletoe LeBlanc"
         ],
         [
+            "Master Yi",
+            "Snow Man Yi"
+        ],
+        [
+            "Gnar",
+            "Snow Day Gnar"
+        ],
+        [
+            "Irelia",
+            "Frostblade Irelia"
+        ],
+        [
             "Amumu",
             "Re-Gifted Amumu"
         ]
     ],
-    "Soccer Cup": [
-        [
-            "Katarina",
-            "Red Card Katarina"
-        ],
-        [
-            "Twisted Fate",
-            "Red Card Twisted Fate"
-        ],
-        [
-            "Alistar",
-            "Sweeper Alistar"
-        ],
-        [
-            "Rammus",
-            "Sweeper Rammus"
-        ],
-        [
-            "Ezreal",
-            "Striker Ezreal"
-        ],
-        [
-            "Lee Sin",
-            "Playmaker Lee Sin"
-        ],
-        [
-            "Blitzcrank",
-            "Goalkeeper Blitzcrank"
-        ],
-        [
-            "Lucian",
-            "Striker Lucian"
-        ],
-        [
-            "Maokai",
-            "Goalkeeper Maokai"
-        ],
-        [
-            "Gragas",
-            "Superfan Gragas"
-        ],
-        [
-            "Akali",
-            "All-star Akali"
-        ]
-    ],
-    "Lunar Revel: Warring Kingdoms": [
+    "Warring Kingdoms": [
         [
             "Katarina",
             "Warring Kingdoms Katarina"
@@ -3673,52 +5081,6 @@
             "Warring Kingdoms Jarvan IV"
         ]
     ],
-    "Otherroads": [
-        [
-            "Swain",
-            "Tyrant Swain"
-        ],
-        [
-            "Lee Sin",
-            "Acolyte Lee Sin"
-        ],
-        [
-            "Tryndamere",
-            "Demonblade Tryndamere"
-        ],
-        [
-            "Soraka",
-            "Divine Soraka"
-        ],
-        [
-            "Yasuo",
-            "Foreseen Yasuo"
-        ],
-        [
-            "Poppy",
-            "Noxus Poppy"
-        ],
-        [
-            "Viktor",
-            "Prototype Viktor"
-        ],
-        [
-            "Riven",
-            "Redeemed Riven"
-        ],
-        [
-            "Renekton",
-            "Rune Wars Renekton"
-        ],
-        [
-            "Volibear",
-            "Runeguard Volibear"
-        ],
-        [
-            "Kayle",
-            "Transcended Kayle"
-        ]
-    ],
     "Crystal Rose": [
         [
             "Swain",
@@ -3729,12 +5091,28 @@
             "Crystal Rose Janna"
         ],
         [
+            "Syndra",
+            "Withered Rose Syndra"
+        ],
+        [
             "Zyra",
             "Crystal Rose Zyra"
         ],
         [
+            "Talon",
+            "Withered Rose Talon"
+        ],
+        [
             "Akshan",
             "Crystal Rose Akshan"
+        ],
+        [
+            "Elise",
+            "Withered Rose Elise"
+        ],
+        [
+            "Zeri",
+            "Withered Rose Zeri"
         ]
     ],
     "Dragon World": [
@@ -3897,33 +5275,77 @@
             "Hextech Amumu"
         ]
     ],
-    "Arctic Ops": [
+    "PsyOps": [
         [
             "Swain",
             "Northern Front Swain"
+        ],
+        [
+            "Ezreal",
+            "Prestige PsyOps Ezreal"
+        ],
+        [
+            "Ezreal",
+            "PsyOps Ezreal"
+        ],
+        [
+            "Viktor",
+            "PsyOps Viktor"
         ],
         [
             "Volibear",
             "Northern Storm Volibear"
         ],
         [
+            "Kayle",
+            "PsyOps Kayle"
+        ],
+        [
             "Caitlyn",
             "Arctic Warfare Caitlyn"
+        ],
+        [
+            "Sona",
+            "PsyOps Sona"
+        ],
+        [
+            "Vi",
+            "PsyOps Vi"
         ],
         [
             "Varus",
             "Arctic Ops Varus"
         ],
         [
+            "Shen",
+            "PsyOps Shen"
+        ],
+        [
+            "Zed",
+            "PsyOps Zed"
+        ],
+        [
             "Gragas",
             "Arctic Ops Gragas"
         ],
         [
+            "Master Yi",
+            "PsyOps Master Yi"
+        ],
+        [
             "Kennen",
             "Arctic Ops Kennen"
+        ],
+        [
+            "Pyke",
+            "PsyOps Pyke"
+        ],
+        [
+            "Samira",
+            "PsyOps Samira"
         ]
     ],
-    "Winterblessed": [
+    "Tales of Borealis": [
         [
             "Swain",
             "Winterblessed Swain"
@@ -4045,61 +5467,7 @@
             "Gatekeeper Galio"
         ]
     ],
-    "Lunar Revel: Firecracker": [
-        [
-            "Tristana",
-            "Firecracker Tristana"
-        ],
-        [
-            "Xin Zhao",
-            "Firecracker Xin Zhao"
-        ],
-        [
-            "Sejuani",
-            "Firecracker Sejuani"
-        ],
-        [
-            "Vayne",
-            "Firecracker Vayne"
-        ],
-        [
-            "Vayne",
-            "Prestige Firecracker Vayne"
-        ],
-        [
-            "Vayne",
-            "Prestige Firecracker Vayne (2022)"
-        ],
-        [
-            "Jinx",
-            "Firecracker Jinx"
-        ],
-        [
-            "Corki",
-            "Dragonwing Corki"
-        ],
-        [
-            "Kog'Maw",
-            "Lion Dance Kog'Maw"
-        ],
-        [
-            "Annie",
-            "Panda Annie"
-        ],
-        [
-            "Diana",
-            "Firecracker Diana"
-        ],
-        [
-            "Teemo",
-            "Firecracker Teemo"
-        ],
-        [
-            "Sett",
-            "Firecracker Sett"
-        ]
-    ],
-    "Riot": [
+    "The Badge": [
         [
             "Tristana",
             "Riot Girl Tristana"
@@ -4125,120 +5493,22 @@
             "Riot Squad Singed"
         ]
     ],
-    "Day Job": [
-        [
-            "Tristana",
-            "Firefighter Tristana"
-        ],
-        [
-            "Gangplank",
-            "Sailor Gangplank"
-        ],
-        [
-            "Zilean",
-            "Groovy Zilean"
-        ],
-        [
-            "Alistar",
-            "Matador Alistar"
-        ],
-        [
-            "Fizz",
-            "Fisherman Fizz"
-        ],
-        [
-            "Janna",
-            "Forecast Janna"
-        ],
-        [
-            "Riven",
-            "Battle Bunny Riven"
-        ],
-        [
-            "Trundle",
-            "Lil' Slugger Trundle"
-        ],
-        [
-            "Blitzcrank",
-            "Boom Boom Blitzcrank"
-        ],
-        [
-            "Kog'Maw",
-            "Jurassic Kog'Maw"
-        ],
-        [
-            "Annie",
-            "Prom Queen Annie"
-        ],
-        [
-            "Cho'Gath",
-            "Jurassic Cho'Gath"
-        ],
-        [
-            "Heimerdinger",
-            "Hazmat Heimerdinger"
-        ],
-        [
-            "Sion",
-            "Lumberjack Sion"
-        ],
-        [
-            "Nidalee",
-            "French Maid Nidalee"
-        ],
-        [
-            "Dr. Mundo",
-            "Corporate Mundo"
-        ],
-        [
-            "Gragas",
-            "Scuba Gragas"
-        ],
-        [
-            "Draven",
-            "Primetime Draven"
-        ],
-        [
-            "LeBlanc",
-            "Prestigious LeBlanc"
-        ],
-        [
-            "Olaf",
-            "Brolaf"
-        ],
-        [
-            "Azir",
-            "Attorney Azir"
-        ],
-        [
-            "Udyr",
-            "Black Belt Udyr"
-        ],
-        [
-            "Jax",
-            "Angler Jax"
-        ],
-        [
-            "Thresh",
-            "Janitor Thresh"
-        ],
-        [
-            "Irelia",
-            "Aviator Irelia"
-        ],
-        [
-            "Amumu",
-            "Almost-Prom King Amumu"
-        ]
-    ],
-    "Commando": [
+    "War is Heck": [
         [
             "Tristana",
             "Guerilla Tristana"
         ],
         [
+            "Tristana",
+            "Omega Squad Tristana"
+        ],
+        [
             "Gangplank",
             "Special Forces Gangplank"
+        ],
+        [
+            "Twitch",
+            "Omega Squad Twitch"
         ],
         [
             "Garen",
@@ -4249,8 +5519,20 @@
             "Commando Xin Zhao"
         ],
         [
+            "Fizz",
+            "Omega Squad Fizz"
+        ],
+        [
+            "Veigar",
+            "Omega Squad Veigar"
+        ],
+        [
             "Lux",
             "Commando Lux"
+        ],
+        [
+            "Teemo",
+            "Omega Squad Teemo"
         ],
         [
             "Galio",
@@ -4261,51 +5543,7 @@
             "Commando Jarvan IV"
         ]
     ],
-    "Omega Squad": [
-        [
-            "Tristana",
-            "Omega Squad Tristana"
-        ],
-        [
-            "Twitch",
-            "Omega Squad Twitch"
-        ],
-        [
-            "Fizz",
-            "Omega Squad Fizz"
-        ],
-        [
-            "Veigar",
-            "Omega Squad Veigar"
-        ],
-        [
-            "Teemo",
-            "Omega Squad Teemo"
-        ]
-    ],
-    "World Champions: 2019": [
-        [
-            "Gangplank",
-            "FPX Gangplank"
-        ],
-        [
-            "Malphite",
-            "FPX Malphite"
-        ],
-        [
-            "Lee Sin",
-            "FPX Lee Sin"
-        ],
-        [
-            "Vayne",
-            "FPX Vayne"
-        ],
-        [
-            "Thresh",
-            "FPX Thresh"
-        ]
-    ],
-    "Ruined": [
+    "The Ruined King Saga": [
         [
             "Gangplank",
             "Gangplank the Betrayer"
@@ -4315,16 +5553,36 @@
             "Ruined Miss Fortune"
         ],
         [
+            "Graves",
+            "Sentinel Graves"
+        ],
+        [
             "Yasuo",
             "Sea Dog Yasuo"
+        ],
+        [
+            "Riven",
+            "Sentinel Riven"
         ],
         [
             "Karma",
             "Ruined Karma"
         ],
         [
+            "Vayne",
+            "Sentinel Vayne"
+        ],
+        [
+            "Diana",
+            "Sentinel Diana"
+        ],
+        [
             "Shyvana",
             "Ruined Shyvana"
+        ],
+        [
+            "Rengar",
+            "Sentinel Rengar"
         ],
         [
             "Draven",
@@ -4339,8 +5597,20 @@
             "Ruined Pantheon"
         ],
         [
+            "Olaf",
+            "Sentinel Olaf"
+        ],
+        [
             "Thresh",
             "Unbound Thresh"
+        ],
+        [
+            "Irelia",
+            "Sentinel Irelia"
+        ],
+        [
+            "Pyke",
+            "Sentinel Pyke"
         ]
     ],
     "Toy Box": [
@@ -4385,7 +5655,7 @@
             "Choo-Choo Ornn"
         ]
     ],
-    "Anima Squad": [
+    "AnimaTech": [
         [
             "Miss Fortune",
             "Admiral Battle Bunny Miss Fortune"
@@ -4393,6 +5663,10 @@
         [
             "Miss Fortune",
             "Battle Bunny Miss Fortune"
+        ],
+        [
+            "Aatrox",
+            "Primordian Aatrox"
         ],
         [
             "Illaoi",
@@ -4453,118 +5727,36 @@
         [
             "Briar",
             "Primordian Briar"
+        ],
+        [
+            "Bel'Veth",
+            "Primordian Bel'Veth"
+        ],
+        [
+            "Rek'Sai",
+            "Primordian Rek'Sai"
         ]
     ],
-    "Crime City": [
-        [
-            "Miss Fortune",
-            "Crime City Miss Fortune"
-        ],
-        [
-            "Graves",
-            "Crime City Graves"
-        ],
-        [
-            "Twitch",
-            "Crime City Twitch"
-        ],
-        [
-            "Lee Sin",
-            "Knockout Lee Sin"
-        ],
-        [
-            "Jinx",
-            "Crime City Jinx"
-        ],
-        [
-            "Braum",
-            "Crime City Braum"
-        ],
-        [
-            "Gragas",
-            "Gragas, Esq."
-        ]
-    ],
-    "Steel Valkyries": [
-        [
-            "Miss Fortune",
-            "Gun Goddess Miss Fortune"
-        ],
-        [
-            "Janna",
-            "Cyber Halo Janna"
-        ],
-        [
-            "Janna",
-            "Prestige Cyber Halo Janna"
-        ],
-        [
-            "Kayle",
-            "Aether Wing Kayle"
-        ],
-        [
-            "Kai'Sa",
-            "Bullet Angel Kai'Sa"
-        ],
-        [
-            "Lucian",
-            "Strike Paladin Lucian"
-        ],
-        [
-            "Camille",
-            "Strike Commander Camille"
-        ],
-        [
-            "Nasus",
-            "Armored Titan Nasus"
-        ],
-        [
-            "Morgana",
-            "Blade Mistress Morgana"
-        ],
-        [
-            "Renata Glasc",
-            "Admiral Glasc"
-        ]
-    ],
-    "Cops and Robbers": [
-        [
-            "Miss Fortune",
-            "Secret Agent Miss Fortune"
-        ],
-        [
-            "Twitch",
-            "Pickpocket Twitch"
-        ],
-        [
-            "Xin Zhao",
-            "Secret Agent Xin Zhao"
-        ],
-        [
-            "Volibear",
-            "Captain Volibear"
-        ],
-        [
-            "Trundle",
-            "Constable Trundle"
-        ],
-        [
-            "Caitlyn",
-            "Officer Caitlyn"
-        ],
-        [
-            "Vi",
-            "Officer Vi"
-        ],
-        [
-            "Evelynn",
-            "Safecracker Evelynn"
-        ]
-    ],
-    "Warden": [
+    "Institute of War": [
         [
             "Quinn",
             "Warden Quinn"
+        ],
+        [
+            "Alistar",
+            "Marauder Alistar"
+        ],
+        [
+            "Xin Zhao",
+            "Marauder Xin Zhao"
+        ],
+        [
+            "Ashe",
+            "Marauder Ashe"
+        ],
+        [
+            "Warwick",
+            "Marauder Warwick"
         ],
         [
             "Karma",
@@ -4575,8 +5767,16 @@
             "Warden Sivir"
         ],
         [
+            "Kled",
+            "Marauder Kled"
+        ],
+        [
             "Gragas",
             "Warden Gragas"
+        ],
+        [
+            "Olaf",
+            "Marauder Olaf"
         ],
         [
             "Jax",
@@ -4585,28 +5785,10 @@
         [
             "Nautilus",
             "Warden Nautilus"
-        ]
-    ],
-    "World Champions: 2020": [
-        [
-            "Twisted Fate",
-            "DWG Twisted Fate"
         ],
         [
-            "Leona",
-            "DWG Leona"
-        ],
-        [
-            "Nidalee",
-            "DWG Nidalee"
-        ],
-        [
-            "Jhin",
-            "DWG Jhin"
-        ],
-        [
-            "Kennen",
-            "DWG Kennen"
+            "Kalista",
+            "Marauder Kalista"
         ]
     ],
     "Odyssey": [
@@ -4681,124 +5863,6 @@
             "PAX Jax"
         ]
     ],
-    "Highstakes": [
-        [
-            "Twisted Fate",
-            "Jack of Hearts Twisted Fate"
-        ],
-        [
-            "Ezreal",
-            "Ace of Spades Ezreal"
-        ],
-        [
-            "Shaco",
-            "Wild Card Shaco"
-        ],
-        [
-            "Syndra",
-            "Queen of Diamonds Syndra"
-        ],
-        [
-            "Mordekaiser",
-            "King of Clubs Mordekaiser"
-        ]
-    ],
-    "World Champions: 2021": [
-        [
-            "Graves",
-            "EDG Graves"
-        ],
-        [
-            "Viego",
-            "EDG Viego"
-        ],
-        [
-            "Yuumi",
-            "EDG Yuumi"
-        ],
-        [
-            "Zoe",
-            "EDG Zoe"
-        ],
-        [
-            "Aphelios",
-            "EDG Aphelios"
-        ]
-    ],
-    "Praetorian": [
-        [
-            "Graves",
-            "Praetorian Graves"
-        ],
-        [
-            "Fiddlesticks",
-            "Praetorian Fiddlesticks"
-        ]
-    ],
-    "Snow Day": [
-        [
-            "Graves",
-            "Snow Day Graves"
-        ],
-        [
-            "Malzahar",
-            "Snow Day Malzahar"
-        ],
-        [
-            "Ziggs",
-            "Snow Day Ziggs"
-        ],
-        [
-            "Syndra",
-            "Snow Day Syndra"
-        ],
-        [
-            "Singed",
-            "Snow Day Singed"
-        ],
-        [
-            "Bard",
-            "Snow Day Bard"
-        ],
-        [
-            "Gnar",
-            "Snow Day Gnar"
-        ]
-    ],
-    "Sentinels of Light": [
-        [
-            "Graves",
-            "Sentinel Graves"
-        ],
-        [
-            "Riven",
-            "Sentinel Riven"
-        ],
-        [
-            "Vayne",
-            "Sentinel Vayne"
-        ],
-        [
-            "Diana",
-            "Sentinel Diana"
-        ],
-        [
-            "Rengar",
-            "Sentinel Rengar"
-        ],
-        [
-            "Olaf",
-            "Sentinel Olaf"
-        ],
-        [
-            "Irelia",
-            "Sentinel Irelia"
-        ],
-        [
-            "Pyke",
-            "Sentinel Pyke"
-        ]
-    ],
     "Victorious": [
         [
             "Graves",
@@ -4865,40 +5929,6 @@
             "Victorious Jarvan IV"
         ]
     ],
-    "Omen of the Dark": [
-        [
-            "Fiddlesticks",
-            "Spectral Fiddlesticks"
-        ],
-        [
-            "Nocturne",
-            "Cursed Revenant Nocturne"
-        ],
-        [
-            "Warwick",
-            "Grey Warwick"
-        ],
-        [
-            "Kayle",
-            "Iron Inquisitor Kayle"
-        ],
-        [
-            "Yorick",
-            "Undertaker Yorick"
-        ],
-        [
-            "Singed",
-            "Black Scourge Singed"
-        ],
-        [
-            "Lissandra",
-            "Blade Queen Lissandra"
-        ],
-        [
-            "Dr. Mundo",
-            "Executioner Mundo"
-        ]
-    ],
     "Sugar Rush": [
         [
             "Fiddlesticks",
@@ -4933,20 +5963,6 @@
             "Candy King Ivern"
         ]
     ],
-    "Surprise Party": [
-        [
-            "Fiddlesticks",
-            "Surprise Party Fiddlesticks"
-        ],
-        [
-            "Annie",
-            "Annie-Versary"
-        ],
-        [
-            "Amumu",
-            "Surprise Party Amumu"
-        ]
-    ],
     "Winter Sports": [
         [
             "Fiddlesticks",
@@ -4979,72 +5995,6 @@
         [
             "Amumu",
             "Vancouver Amumu"
-        ]
-    ],
-    "Dark Star": [
-        [
-            "Malphite",
-            "Dark Star Malphite"
-        ],
-        [
-            "Malphite",
-            "Prestige Dark Star Malphite"
-        ],
-        [
-            "Karma",
-            "Dark Star Karma"
-        ],
-        [
-            "Xerath",
-            "Dark Star Xerath"
-        ],
-        [
-            "Shaco",
-            "Dark Star Shaco"
-        ],
-        [
-            "Lux",
-            "Dark Cosmic Lux"
-        ],
-        [
-            "Varus",
-            "Dark Star Varus"
-        ],
-        [
-            "Cho'Gath",
-            "Dark Star Cho'Gath"
-        ],
-        [
-            "Orianna",
-            "Dark Star Orianna"
-        ],
-        [
-            "Lissandra",
-            "Dark Cosmic Lissandra"
-        ],
-        [
-            "Mordekaiser",
-            "Dark Star Mordekaiser"
-        ],
-        [
-            "Jarvan IV",
-            "Dark Star Jarvan IV"
-        ],
-        [
-            "Kha'Zix",
-            "Dark Star Kha'Zix"
-        ],
-        [
-            "Thresh",
-            "Dark Star Thresh"
-        ],
-        [
-            "Jhin",
-            "Dark Cosmic Jhin"
-        ],
-        [
-            "Jhin",
-            "Dark Cosmic Erasure Jhin"
         ]
     ],
     "Forgotten Depths": [
@@ -5099,80 +6049,6 @@
             "Glacial Olaf"
         ]
     ],
-    "Lunar Revel": [
-        [
-            "Malphite",
-            "Lunar Guardian Malphite"
-        ],
-        [
-            "Ashe",
-            "Lunar Empress Ashe"
-        ],
-        [
-            "Sylas",
-            "Lunar Wraith Sylas"
-        ],
-        [
-            "Warwick",
-            "Lunar Guardian Warwick"
-        ],
-        [
-            "Lee Sin",
-            "Dragon Fist Lee Sin"
-        ],
-        [
-            "Qiyana",
-            "Lunar Empress Qiyana"
-        ],
-        [
-            "Caitlyn",
-            "Lunar Wraith Caitlyn"
-        ],
-        [
-            "Sona",
-            "Guqin Sona"
-        ],
-        [
-            "Tahm Kench",
-            "Coin Emperor Tahm Kench"
-        ],
-        [
-            "Lux",
-            "Lunar Empress Lux"
-        ],
-        [
-            "Diana",
-            "Lunar Goddess Diana"
-        ],
-        [
-            "Nasus",
-            "Lunar Guardian Nasus"
-        ],
-        [
-            "Morgana",
-            "Lunar Wraith Morgana"
-        ],
-        [
-            "Wukong",
-            "Jade Dragon Wukong"
-        ],
-        [
-            "Wukong",
-            "Radiant Wukong"
-        ],
-        [
-            "Cassiopeia",
-            "Jade Fang Cassiopeia"
-        ],
-        [
-            "Kha'Zix",
-            "Lunar Guardian Kha'Zix"
-        ],
-        [
-            "Thresh",
-            "Lunar Emperor Thresh"
-        ]
-    ],
     "Mecha": [
         [
             "Malphite",
@@ -5181,6 +6057,10 @@
         [
             "Aatrox",
             "Mecha Aatrox"
+        ],
+        [
+            "Urgot",
+            "Giant Enemy Crabgot"
         ],
         [
             "Sion",
@@ -5199,90 +6079,22 @@
             "Mecha Aurelion Sol"
         ]
     ],
-    "World Champions: 2014": [
-        [
-            "Twitch",
-            "SSW Twitch"
-        ],
-        [
-            "Singed",
-            "SSW Singed"
-        ],
-        [
-            "Rengar",
-            "SSW Rengar"
-        ],
-        [
-            "Talon",
-            "SSW Talon"
-        ],
-        [
-            "Thresh",
-            "SSW Thresh"
-        ]
-    ],
-    "Winter Wonder": [
-        [
-            "Twitch",
-            "Ice King Twitch"
-        ],
-        [
-            "Soraka",
-            "Winter Wonder Soraka"
-        ],
-        [
-            "Poppy",
-            "Snow Fawn Poppy"
-        ],
-        [
-            "Karma",
-            "Winter Wonder Karma"
-        ],
-        [
-            "Sejuani",
-            "Poro Rider Sejuani"
-        ],
-        [
-            "Annie",
-            "Frostfire Annie"
-        ],
-        [
-            "Orianna",
-            "Winter Wonder Orianna"
-        ],
-        [
-            "Lulu",
-            "Winter Wonder Lulu"
-        ],
-        [
-            "Sivir",
-            "Snowstorm Sivir"
-        ],
-        [
-            "Dr. Mundo",
-            "Frozen Prince Mundo"
-        ],
-        [
-            "Neeko",
-            "Winter Wonder Neeko"
-        ],
-        [
-            "Master Yi",
-            "Snow Man Yi"
-        ],
-        [
-            "Irelia",
-            "Frostblade Irelia"
-        ]
-    ],
-    "Medieval": [
+    "Ye Olde": [
         [
             "Twitch",
             "Medieval Twitch"
         ],
         [
             "Ashe",
+            "Sherwood Forest Ashe"
+        ],
+        [
+            "Ashe",
             "Queen Ashe"
+        ],
+        [
+            "Ezreal",
+            "Nottingham Ezreal"
         ],
         [
             "Tryndamere",
@@ -5291,6 +6103,10 @@
         [
             "Poppy",
             "Blacksmith Poppy"
+        ],
+        [
+            "Kayle",
+            "Viridian Kayle"
         ],
         [
             "Veigar",
@@ -5305,40 +6121,12 @@
             "Sir Kled"
         ],
         [
+            "Morgana",
+            "Blackthorn Morgana"
+        ],
+        [
             "Amumu",
             "Little Knight Amumu"
-        ]
-    ],
-    "Food Fight": [
-        [
-            "Twitch",
-            "Cheddar Chief Twitch"
-        ],
-        [
-            "Rammus",
-            "Durian Defender Rammus"
-        ],
-        [
-            "Zac",
-            "Zesty Dip Zac"
-        ]
-    ],
-    "Demacia Vice": [
-        [
-            "Garen",
-            "Demacia Vice Garen"
-        ],
-        [
-            "Taric",
-            "Armor of the Fifth Age Taric"
-        ],
-        [
-            "Lucian",
-            "Demacia Vice Lucian"
-        ],
-        [
-            "Vi",
-            "Neon Strike Vi"
         ]
     ],
     "Dreadknights": [
@@ -5349,16 +6137,6 @@
         [
             "Nasus",
             "Dreadknight Nasus"
-        ]
-    ],
-    "Steel Legion": [
-        [
-            "Garen",
-            "Steel Legion Garen"
-        ],
-        [
-            "Lux",
-            "Steel Legion Lux"
         ]
     ],
     "Mecha Kingdoms": [
@@ -5387,7 +6165,7 @@
             "Mecha Kingdoms Sett"
         ]
     ],
-    "Mythmaker": [
+    "Storycraft": [
         [
             "Garen",
             "Mythmaker Garen"
@@ -5413,124 +6191,34 @@
             "Mythmaker Irelia"
         ]
     ],
-    "Primordian": [
-        [
-            "Aatrox",
-            "Primordian Aatrox"
-        ],
-        [
-            "Bel'Veth",
-            "Primordian Bel'Veth"
-        ],
-        [
-            "Rek'Sai",
-            "Primordian Rek'Sai"
-        ]
-    ],
-    "Justicar": [
+    "Arclight": [
         [
             "Aatrox",
             "Justicar Aatrox"
         ],
         [
+            "Vayne",
+            "Arclight Vayne"
+        ],
+        [
+            "Brand",
+            "Arclight Brand"
+        ],
+        [
+            "Varus",
+            "Arclight Varus"
+        ],
+        [
+            "Vel'Koz",
+            "Arclight Vel'Koz"
+        ],
+        [
+            "Yorick",
+            "Arclight Yorick"
+        ],
+        [
             "Syndra",
             "Justicar Syndra"
-        ]
-    ],
-    "Eclipse": [
-        [
-            "Aatrox",
-            "Lunar Eclipse Aatrox"
-        ],
-        [
-            "Kayle",
-            "Sun-Eater Kayle"
-        ],
-        [
-            "Sejuani",
-            "Solar Eclipse Sejuani"
-        ],
-        [
-            "Leona",
-            "Lunar Eclipse Leona"
-        ],
-        [
-            "Leona",
-            "Solar Eclipse Leona"
-        ],
-        [
-            "Sivir",
-            "Solar Eclipse Sivir"
-        ],
-        [
-            "Senna",
-            "Lunar Eclipse Senna"
-        ],
-        [
-            "Senna",
-            "Prestige Lunar Eclipse Senna"
-        ]
-    ],
-    "World Champions: 2022": [
-        [
-            "Aatrox",
-            "DRX Aatrox"
-        ],
-        [
-            "Aatrox",
-            "Prestige DRX Aatrox"
-        ],
-        [
-            "Ashe",
-            "DRX Ashe"
-        ],
-        [
-            "Caitlyn",
-            "DRX Caitlyn"
-        ],
-        [
-            "Maokai",
-            "DRX Maokai"
-        ],
-        [
-            "Kindred",
-            "DRX Kindred"
-        ],
-        [
-            "Akali",
-            "DRX Akali"
-        ]
-    ],
-    "Chronicle": [
-        [
-            "Zilean",
-            "Shurima Desert Zilean"
-        ],
-        [
-            "Alistar",
-            "Unchained Alistar"
-        ],
-        [
-            "Xin Zhao",
-            "Viscero Xin Zhao"
-        ]
-    ],
-    "Mad Scientists": [
-        [
-            "Zilean",
-            "Time Machine Zilean"
-        ],
-        [
-            "Ziggs",
-            "Mad Scientist Ziggs"
-        ],
-        [
-            "Singed",
-            "Mad Scientist Singed"
-        ],
-        [
-            "Amumu",
-            "Sad Robot Amumu"
         ]
     ],
     "Blackfrost": [
@@ -5563,81 +6251,7 @@
             "Ice Drake Shyvana"
         ]
     ],
-    "Conqueror": [
-        [
-            "Alistar",
-            "Conqueror Alistar"
-        ],
-        [
-            "Karma",
-            "Conqueror Karma"
-        ],
-        [
-            "Varus",
-            "Conqueror Varus"
-        ],
-        [
-            "Jax",
-            "Conqueror Jax"
-        ],
-        [
-            "Jax",
-            "Prestige Conqueror Jax"
-        ],
-        [
-            "Nautilus",
-            "Conqueror Nautilus"
-        ]
-    ],
-    "Marauder": [
-        [
-            "Alistar",
-            "Marauder Alistar"
-        ],
-        [
-            "Xin Zhao",
-            "Marauder Xin Zhao"
-        ],
-        [
-            "Ashe",
-            "Marauder Ashe"
-        ],
-        [
-            "Warwick",
-            "Marauder Warwick"
-        ],
-        [
-            "Kled",
-            "Marauder Kled"
-        ],
-        [
-            "Olaf",
-            "Marauder Olaf"
-        ],
-        [
-            "Kalista",
-            "Marauder Kalista"
-        ]
-    ],
-    "Curse of the Void": [
-        [
-            "Kassadin",
-            "Pre-Void Kassadin"
-        ],
-        [
-            "Fizz",
-            "Void Fizz"
-        ],
-        [
-            "Nocturne",
-            "Void Nocturne"
-        ],
-        [
-            "Illaoi",
-            "Void Bringer Illaoi"
-        ]
-    ],
-    "Shockblade": [
+    "Cloudedge": [
         [
             "Kassadin",
             "Shockblade Kassadin"
@@ -5711,7 +6325,7 @@
             "Cottontail Teemo"
         ]
     ],
-    "Astronauts": [
+    "Star Voyagers": [
         [
             "Fizz",
             "Astronaut Fizz"
@@ -5733,6 +6347,10 @@
             "Astronaut Corki"
         ],
         [
+            "Corki",
+            "UFO Corki"
+        ],
+        [
             "Xerath",
             "Astronaut Xerath"
         ],
@@ -5743,6 +6361,10 @@
         [
             "Teemo",
             "Astronaut Teemo"
+        ],
+        [
+            "Heimerdinger",
+            "Alien Invader Heimerdinger"
         ],
         [
             "Bard",
@@ -5769,31 +6391,7 @@
             "Astronaut Kennen"
         ]
     ],
-    "Rain Shepherd": [
-        [
-            "Fizz",
-            "Rain Shepherd Fizz"
-        ],
-        [
-            "Milio",
-            "Rain Shepherd Milio"
-        ]
-    ],
-    "Eternum": [
-        [
-            "Nocturne",
-            "Eternum Nocturne"
-        ],
-        [
-            "Rek'Sai",
-            "Eternum Rek'Sai"
-        ],
-        [
-            "Cassiopeia",
-            "Eternum Cassiopeia"
-        ]
-    ],
-    "Empyrean": [
+    "Neon Strata": [
         [
             "Nocturne",
             "Empyrean Nocturne"
@@ -5917,37 +6515,7 @@
             "Resistance Singed"
         ]
     ],
-    "Freljord": [
-        [
-            "Ashe",
-            "Freljord Ashe"
-        ],
-        [
-            "Rammus",
-            "Freljord Rammus"
-        ],
-        [
-            "Sylas",
-            "Freljord Sylas"
-        ],
-        [
-            "Taliyah",
-            "Freljord Taliyah"
-        ],
-        [
-            "Janna",
-            "Frost Queen Janna"
-        ],
-        [
-            "Ezreal",
-            "Frosted Ezreal"
-        ],
-        [
-            "Warwick",
-            "Tundra Hunter Warwick"
-        ]
-    ],
-    "Crystalis Motus": [
+    "Magicae Prismatica": [
         [
             "Ashe",
             "Crystalis Motus Ashe"
@@ -5959,50 +6527,18 @@
         [
             "Leona",
             "Crystalis Motus Leona"
-        ]
-    ],
-    "Ocean Song": [
-        [
-            "Ashe",
-            "Ocean Song Ashe"
         ],
         [
-            "Seraphine",
-            "Ocean Song Seraphine"
+            "Xerath",
+            "Crystalis Indomitus Xerath"
         ],
         [
-            "Seraphine",
-            "Prestige Ocean Song Seraphine"
+            "Kha'Zix",
+            "Crystalis Indomitus Kha'Zix"
         ],
         [
-            "Nidalee",
-            "Ocean Song Nidalee"
-        ],
-        [
-            "Zeri",
-            "Ocean Song Zeri"
-        ],
-        [
-            "Yone",
-            "Ocean Song Yone"
-        ]
-    ],
-    "Albion": [
-        [
-            "Ashe",
-            "Sherwood Forest Ashe"
-        ],
-        [
-            "Ezreal",
-            "Nottingham Ezreal"
-        ],
-        [
-            "Kayle",
-            "Viridian Kayle"
-        ],
-        [
-            "Morgana",
-            "Blackthorn Morgana"
+            "Nautilus",
+            "Crystalis Indomitus Nautilus"
         ]
     ],
     "Beta": [
@@ -6033,7 +6569,7 @@
             "Full Metal Pantheon"
         ]
     ],
-    "Ashen Knights": [
+    "Fallen World": [
         [
             "Sylas",
             "Ashen Slayer Sylas"
@@ -6055,339 +6591,7 @@
             "Ashen Knight Pyke"
         ]
     ],
-    "World Champions: 2017": [
-        [
-            "Taliyah",
-            "SSG Taliyah"
-        ],
-        [
-            "Ezreal",
-            "SSG Ezreal"
-        ],
-        [
-            "Xayah",
-            "SSG Xayah"
-        ],
-        [
-            "Rakan",
-            "SSG Rakan"
-        ],
-        [
-            "Jarvan IV",
-            "SSG Jarvan IV"
-        ],
-        [
-            "Gnar",
-            "SSG Gnar"
-        ]
-    ],
-    "World Champions: 2011": [
-        [
-            "Janna",
-            "Fnatic Janna"
-        ],
-        [
-            "Corki",
-            "Fnatic Corki"
-        ],
-        [
-            "Gragas",
-            "Fnatic Gragas"
-        ],
-        [
-            "Jarvan IV",
-            "Fnatic Jarvan IV"
-        ],
-        [
-            "Karthus",
-            "Fnatic Karthus"
-        ]
-    ],
-    "Heavenscale": [
-        [
-            "Janna",
-            "Heavenscale Janna"
-        ],
-        [
-            "Ezreal",
-            "Heavenscale Ezreal"
-        ],
-        [
-            "Ezreal",
-            "Prestige Heavenscale Ezreal"
-        ],
-        [
-            "Lee Sin",
-            "Divine Heavenscale Lee Sin"
-        ],
-        [
-            "Lee Sin",
-            "Heavenscale Lee Sin"
-        ],
-        [
-            "Kai'Sa",
-            "Heavenscale Kai'Sa"
-        ],
-        [
-            "Diana",
-            "Heavenscale Diana"
-        ],
-        [
-            "Master Yi",
-            "Heavenscale Master Yi"
-        ],
-        [
-            "Smolder",
-            "Heavenscale Smolder"
-        ]
-    ],
-    "Star Guardian Season 1": [
-        [
-            "Janna",
-            "Star Guardian Janna"
-        ],
-        [
-            "Poppy",
-            "Star Guardian Poppy"
-        ],
-        [
-            "Jinx",
-            "Star Guardian Jinx"
-        ],
-        [
-            "Lux",
-            "Pajama Guardian Lux"
-        ],
-        [
-            "Lux",
-            "Star Guardian Lux"
-        ],
-        [
-            "Lulu",
-            "Pajama Guardian Lulu"
-        ],
-        [
-            "Lulu",
-            "Star Guardian Lulu"
-        ]
-    ],
-    "Debonair": [
-        [
-            "Ezreal",
-            "Debonair Ezreal"
-        ],
-        [
-            "Leona",
-            "Debonair Leona"
-        ],
-        [
-            "Brand",
-            "Debonair Brand"
-        ],
-        [
-            "Brand",
-            "Prestige Debonair Brand"
-        ],
-        [
-            "Malzahar",
-            "Debonair Malzahar"
-        ],
-        [
-            "Vi",
-            "Debonair Vi"
-        ],
-        [
-            "Jayce",
-            "Debonair Jayce"
-        ],
-        [
-            "Zed",
-            "Debonair Zed"
-        ],
-        [
-            "Draven",
-            "Debonair Draven"
-        ],
-        [
-            "Galio",
-            "Debonair Galio"
-        ],
-        [
-            "LeBlanc",
-            "Debonair LeBlanc"
-        ],
-        [
-            "Master Yi",
-            "Debonair Master Yi"
-        ]
-    ],
-    "World Champions: 2012": [
-        [
-            "Ezreal",
-            "TPA Ezreal"
-        ],
-        [
-            "Orianna",
-            "TPA Orianna"
-        ],
-        [
-            "Nunu & Willump",
-            "TPA Nunu & Willump"
-        ],
-        [
-            "Shen",
-            "TPA Shen"
-        ],
-        [
-            "Dr. Mundo",
-            "TPA Mundo"
-        ]
-    ],
-    "PsyOps": [
-        [
-            "Ezreal",
-            "Prestige PsyOps Ezreal"
-        ],
-        [
-            "Ezreal",
-            "PsyOps Ezreal"
-        ],
-        [
-            "Sona",
-            "PsyOps Sona"
-        ],
-        [
-            "Vi",
-            "PsyOps Vi"
-        ],
-        [
-            "Shen",
-            "PsyOps Shen"
-        ],
-        [
-            "Master Yi",
-            "PsyOps Master Yi"
-        ]
-    ],
-    "HEARTSTEEL": [
-        [
-            "Ezreal",
-            "HEARTSTEEL Ezreal"
-        ],
-        [
-            "Kayn",
-            "HEARTSTEEL Kayn"
-        ],
-        [
-            "Aphelios",
-            "HEARTSTEEL Aphelios"
-        ],
-        [
-            "Sett",
-            "HEARTSTEEL Sett"
-        ],
-        [
-            "Yone",
-            "HEARTSTEEL Yone"
-        ],
-        [
-            "Yone",
-            "Prestige HEARTSTEEL Yone"
-        ],
-        [
-            "K'Sante",
-            "HEARTSTEEL K'Sante"
-        ]
-    ],
-    "Urf the Manatee": [
-        [
-            "Warwick",
-            "Urf the Manatee"
-        ],
-        [
-            "Warwick",
-            "Urfwick"
-        ],
-        [
-            "Corki",
-            "Urfrider Corki"
-        ],
-        [
-            "Tahm Kench",
-            "Urf Kench"
-        ],
-        [
-            "Nami",
-            "Urf the Nami-tee"
-        ]
-    ],
-    "Traditional": [
-        [
-            "Lee Sin",
-            "Traditional Lee Sin"
-        ],
-        [
-            "Karma",
-            "Traditional Karma"
-        ],
-        [
-            "Sejuani",
-            "Traditional Sejuani"
-        ],
-        [
-            "Trundle",
-            "Traditional Trundle"
-        ]
-    ],
-    "World Champions: 2013": [
-        [
-            "Lee Sin",
-            "SKT T1 Lee Sin"
-        ],
-        [
-            "Vayne",
-            "SKT T1 Vayne"
-        ],
-        [
-            "Zed",
-            "SKT T1 Zed"
-        ],
-        [
-            "Zyra",
-            "SKT T1 Zyra"
-        ],
-        [
-            "Jax",
-            "SKT T1 Jax"
-        ]
-    ],
-    "World Champions: 2023": [
-        [
-            "Lee Sin",
-            "T1 Lee Sin"
-        ],
-        [
-            "Jinx",
-            "T1 Jinx"
-        ],
-        [
-            "Jayce",
-            "Prestige T1 Jayce"
-        ],
-        [
-            "Jayce",
-            "T1 Jayce"
-        ],
-        [
-            "Orianna",
-            "T1 Orianna"
-        ],
-        [
-            "Bard",
-            "T1 Bard"
-        ]
-    ],
-    "Zenith Games": [
+    "Kinetex Machina": [
         [
             "Lee Sin",
             "Zenith Games Lee Sin"
@@ -6401,67 +6605,7 @@
             "Zenith Games Jayce"
         ]
     ],
-    "Program": [
-        [
-            "Soraka",
-            "Program Soraka"
-        ],
-        [
-            "Blitzcrank",
-            "iBlitzcrank"
-        ],
-        [
-            "Camille",
-            "Program Camille"
-        ],
-        [
-            "Lissandra",
-            "Program Lissandra"
-        ],
-        [
-            "LeBlanc",
-            "Program LeBlanc"
-        ],
-        [
-            "Nami",
-            "Program Nami"
-        ]
-    ],
-    "Arcade: Battle Bosses": [
-        [
-            "Yasuo",
-            "Battle Boss Yasuo"
-        ],
-        [
-            "Bel'Veth",
-            "Battle Boss Bel'Veth"
-        ],
-        [
-            "Blitzcrank",
-            "Battle Boss Blitzcrank"
-        ],
-        [
-            "Brand",
-            "Battle Boss Brand"
-        ],
-        [
-            "Malzahar",
-            "Battle Boss Malzahar"
-        ],
-        [
-            "Qiyana",
-            "Battle Boss Qiyana"
-        ],
-        [
-            "Ziggs",
-            "Battle Boss Ziggs"
-        ],
-        [
-            "Veigar",
-            "Final Boss Veigar"
-        ]
-    ],
-    "Inkshadow": [
+    "Inkshadow Uprising": [
         [
             "Yasuo",
             "Inkshadow Yasuo"
@@ -6495,28 +6639,6 @@
             "Inkshadow Yone"
         ]
     ],
-    "Black Rose Group": [
-        [
-            "Viktor",
-            "PsyOps Viktor"
-        ],
-        [
-            "Kayle",
-            "PsyOps Kayle"
-        ],
-        [
-            "Zed",
-            "PsyOps Zed"
-        ],
-        [
-            "Pyke",
-            "PsyOps Pyke"
-        ],
-        [
-            "Samira",
-            "PsyOps Samira"
-        ]
-    ],
     "Crimson Elite": [
         [
             "Riven",
@@ -6527,7 +6649,7 @@
             "Crimson Elite Talon"
         ]
     ],
-    "Primal Ambush": [
+    "Fury and Fang": [
         [
             "Riven",
             "Primal Ambush Riven"
@@ -6559,24 +6681,6 @@
             "Galactic Azir"
         ]
     ],
-    "Luchador": [
-        [
-            "Volibear",
-            "El Rayo Volibear"
-        ],
-        [
-            "Dr. Mundo",
-            "El Macho Mundo"
-        ],
-        [
-            "Braum",
-            "El Tigre Braum"
-        ],
-        [
-            "Gnar",
-            "El León Gnar"
-        ]
-    ],
     "Thunder Lord": [
         [
             "Volibear",
@@ -6585,68 +6689,6 @@
         [
             "Ornn",
             "Thunder Lord Ornn"
-        ]
-    ],
-    "Pentakill": [
-        [
-            "Kayle",
-            "Pentakill Kayle"
-        ],
-        [
-            "Sona",
-            "Pentakill Sona"
-        ],
-        [
-            "Yorick",
-            "Pentakill Yorick"
-        ],
-        [
-            "Olaf",
-            "Pentakill Olaf"
-        ],
-        [
-            "Mordekaiser",
-            "Pentakill Mordekaiser"
-        ],
-        [
-            "Karthus",
-            "Pentakill Karthus"
-        ]
-    ],
-    "Pentakill III: The Lost Chapter": [
-        [
-            "Kayle",
-            "Pentakill III: Lost Chapter Kayle"
-        ],
-        [
-            "Viego",
-            "Dissonance of Pentakill Viego"
-        ],
-        [
-            "Sona",
-            "Pentakill III: Lost Chapter Sona"
-        ],
-        [
-            "Yorick",
-            "Pentakill III: Lost Chapter Yorick"
-        ],
-        [
-            "Olaf",
-            "Pentakill III: Lost Chapter Olaf"
-        ],
-        [
-            "Mordekaiser",
-            "Pentakill III: Lost Chapter Mordekaiser"
-        ],
-        [
-            "Karthus",
-            "Pentakill III: Lost Chapter Karthus"
-        ]
-    ],
-    "Ruination": [
-        [
-            "Viego",
-            "King Viego"
         ]
     ],
     "Soul Fighter": [
@@ -6747,7 +6789,7 @@
             "Worldbreaker Nautilus"
         ]
     ],
-    "Fright Night": [
+    "Neighborhood Nightmare": [
         [
             "Trundle",
             "Fright Night Trundle"
@@ -6765,8 +6807,16 @@
             "Fright Night Annie"
         ],
         [
+            "Annie",
+            "Goth Annie"
+        ],
+        [
             "Urgot",
             "Fright Night Urgot"
+        ],
+        [
+            "Orianna",
+            "Gothic Orianna"
         ],
         [
             "Nunu & Willump",
@@ -6793,88 +6843,12 @@
             "Fright Night Pyke"
         ],
         [
+            "Amumu",
+            "Emumu"
+        ],
+        [
             "Renata Glasc",
             "Fright Night Renata Glasc"
-        ]
-    ],
-    "Superfans": [
-        [
-            "Trundle",
-            "Esports Fan Trundle"
-        ],
-        [
-            "Neeko",
-            "Cosplayer Neeko"
-        ],
-        [
-            "Gragas",
-            "Music Fan Gragas"
-        ]
-    ],
-    "Arclight": [
-        [
-            "Vayne",
-            "Arclight Vayne"
-        ],
-        [
-            "Brand",
-            "Arclight Brand"
-        ],
-        [
-            "Varus",
-            "Arclight Varus"
-        ],
-        [
-            "Vel'Koz",
-            "Arclight Vel'Koz"
-        ],
-        [
-            "Yorick",
-            "Arclight Yorick"
-        ]
-    ],
-    "Phoenixmancers": [
-        [
-            "Xayah",
-            "Brave Phoenix Xayah"
-        ],
-        [
-            "Xayah",
-            "Prestige Brave Phoenix Xayah"
-        ],
-        [
-            "Seraphine",
-            "Graceful Phoenix Seraphine"
-        ],
-        [
-            "Anivia",
-            "Divine Phoenix Anivia"
-        ]
-    ],
-    "Star Guardian Season 3": [
-        [
-            "Xayah",
-            "Star Guardian Xayah"
-        ],
-        [
-            "Rakan",
-            "Star Guardian Rakan"
-        ],
-        [
-            "Zoe",
-            "Star Guardian Zoe"
-        ],
-        [
-            "Neeko",
-            "Prestige Star Guardian Neeko"
-        ],
-        [
-            "Neeko",
-            "Prestige Star Guardian Neeko (2022)"
-        ],
-        [
-            "Neeko",
-            "Star Guardian Neeko"
         ]
     ],
     "Culinary Masters": [
@@ -6911,7 +6885,7 @@
             "Sinful Succulence Morgana"
         ]
     ],
-    "Bees!": [
+    "Bees": [
         [
             "Yuumi",
             "Yuubee"
@@ -6961,7 +6935,7 @@
             "Nunu & Beelump"
         ]
     ],
-    "Street Demons": [
+    "Concrete Canvas": [
         [
             "Briar",
             "Street Demons Briar"
@@ -6987,24 +6961,6 @@
             "Street Demons Zyra"
         ]
     ],
-    "Lancer": [
-        [
-            "Blitzcrank",
-            "Lancer Paragon Blitzcrank"
-        ],
-        [
-            "Blitzcrank",
-            "Lancer Rogue Blitzcrank"
-        ],
-        [
-            "Hecarim",
-            "Lancer Zero Hecarim"
-        ],
-        [
-            "Wukong",
-            "Lancer Stratus Wukong"
-        ]
-    ],
     "Piltover Customs": [
         [
             "Blitzcrank",
@@ -7019,7 +6975,7 @@
             "Piltover Customs Heimerdinger"
         ]
     ],
-    "Three Honors": [
+    "Honor": [
         [
             "Malzahar",
             "Three Honors Malzahar"
@@ -7029,7 +6985,7 @@
             "Three Honors Akshan"
         ]
     ],
-    "La Ilusión": [
+    "Sueño de Vida": [
         [
             "Qiyana",
             "La Ilusión Qiyana"
@@ -7121,7 +7077,7 @@
             "Headhunter Master Yi"
         ]
     ],
-    "Heartthrobs and Heartaches": [
+    "ᐸ3": [
         [
             "Caitlyn",
             "Heartthrob Caitlyn"
@@ -7133,22 +7089,6 @@
         [
             "Amumu",
             "Heartache Amumu"
-        ]
-    ],
-    "Invaders": [
-        [
-            "Corki",
-            "UFO Corki"
-        ],
-        [
-            "Heimerdinger",
-            "Alien Invader Heimerdinger"
-        ]
-    ],
-    "DJ": [
-        [
-            "Sona",
-            "DJ Sona"
         ]
     ],
     "Shan Hai Scrolls": [
@@ -7185,99 +7125,13 @@
             "Shan Hai Scrolls Lillia"
         ]
     ],
-    "Crystalis Indomitus": [
-        [
-            "Xerath",
-            "Crystalis Indomitus Xerath"
-        ],
-        [
-            "Kha'Zix",
-            "Crystalis Indomitus Kha'Zix"
-        ],
-        [
-            "Nautilus",
-            "Crystalis Indomitus Nautilus"
-        ]
-    ],
-    "Cyber Pop": [
-        [
-            "Zoe",
-            "Cyber Pop Zoe"
-        ],
-        [
-            "Akshan",
-            "Cyber Pop Akshan"
-        ]
-    ],
     "Elementalist": [
         [
             "Lux",
             "Elementalist Lux"
         ]
     ],
-    "Withered Rose": [
-        [
-            "Syndra",
-            "Withered Rose Syndra"
-        ],
-        [
-            "Talon",
-            "Withered Rose Talon"
-        ],
-        [
-            "Elise",
-            "Withered Rose Elise"
-        ],
-        [
-            "Zeri",
-            "Withered Rose Zeri"
-        ]
-    ],
-    "Goth": [
-        [
-            "Annie",
-            "Goth Annie"
-        ],
-        [
-            "Orianna",
-            "Gothic Orianna"
-        ],
-        [
-            "Amumu",
-            "Emumu"
-        ]
-    ],
-    "Pharaoh": [
-        [
-            "Nasus",
-            "Pharaoh Nasus"
-        ],
-        [
-            "Nidalee",
-            "Pharaoh Nidalee"
-        ],
-        [
-            "Amumu",
-            "Pharaoh Amumu"
-        ]
-    ],
-    "Kaiju": [
-        [
-            "Urgot",
-            "Giant Enemy Crabgot"
-        ]
-    ],
-    "N/A": [
-        [
-            "Skarner",
-            "Earthrune Skarner"
-        ],
-        [
-            "Akali",
-            "Stinger Akali"
-        ]
-    ],
-    "Papercraft": [
+    "Folded Edges": [
         [
             "Nunu & Willump",
             "Papercraft Nunu & Willump"
@@ -7285,36 +7139,6 @@
         [
             "Anivia",
             "Papercraft Anivia"
-        ]
-    ],
-    "Fist Bumps and Festivities": [
-        [
-            "Sivir",
-            "Ann-Sivir-sary"
-        ]
-    ],
-    "Rift Hospital": [
-        [
-            "Shen",
-            "Surgeon Shen"
-        ],
-        [
-            "Akali",
-            "Nurse Akali"
-        ],
-        [
-            "Kennen",
-            "Kennen M.D."
-        ]
-    ],
-    "Death Blossom": [
-        [
-            "Elise",
-            "Death Blossom Elise"
-        ],
-        [
-            "Kha'Zix",
-            "Death Blossom Kha'Zix"
         ]
     ],
     "Spirit Guard": [

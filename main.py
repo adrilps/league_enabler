@@ -56,45 +56,67 @@ async def skin_match(ctx, *, input_string):
     #converts all names to lowercase
     #for i in range(len(champion_name_list)):
     #    champion_name_list[i] = champion_name_list[i].lower()
-    champions_skins = []
-    for entry in champion_name_list:
-        champions_skins.append(sk.get_champion_skins(entry))
-    print(len(champions_skins))
+    first_champion = champion_name_list[0]
+    first_champion_skins = sk.get_champion_skins(first_champion)
+    random.shuffle(first_champion_skins)
+    for index in first_champion_skins:
 
-    no_suitable_skinlines = 0
-    suitable_skinlines = []
+        universe = sk.get_by_universe(index[1])
+        skins_dict = dict(universe)
+        for key in list(skins_dict.keys()):
+            skins_dict[key][0] = skins_dict[key][0].lower()
+        i = 0
+        for champ in champion_name_list:
+            if skins_dict.get(champ) is None:
+                print(f"it retrieved none for {champ}")
+                break
+            else:
+                print(f"{champ} printed this {skins_dict.get(champ)}")
+                i+=1
+        print(5)
+        if i == len(champion_name_list):
+            await ctx.send(f"{ctx.author.mention}, I found a matching universe: {index[1]}")
+            for champ in champion_name_list:
+                await ctx.send(f"{champ} has the skin {skins_dict.get(champ)}.")
+            break
 
-    for champion1_skin in champions_skins[0]:
-        for champion2_skin in champions_skins[1]:
-            if champion1_skin[1] == champion2_skin[1]:
-                for champion3_skin in champions_skins[2]:
-                    if champion2_skin[1] == champion3_skin[1]:
-                        for champion4_skin in champions_skins[3]:
-                            if champion3_skin[1] == champion4_skin[1]:
-                                for champion5_skin in champions_skins[4]:
-                                    if champion4_skin[1] == champion5_skin[1]:
-                                        suitable_skinlines.append(champion1_skin[1])
-                                        no_suitable_skinlines =+ 1
-    if suitable_skinlines:
-        suitable_skins = []
-        for skinline in suitable_skinlines:
-            suitable_skins.append(get_skin_names(skinline,champions_skins))
-        await ctx.send(f"Yes! {no_suitable_skinlines} skinline(s) were found!")
-        await ctx.send(f"Skinline: {suitable_skinlines}")
-        for i in range(5):
-            await ctx.send(f"{champion_name_list[i].capitalize()}: {suitable_skins[0][i]}")
-        await ctx.send(f"GGs, have fun! {ctx.author.mention}")
-    else:
-        await ctx.send(f"Sorry {ctx.author.mention}, no skinline was found..")
             
 @bot.command()
-async def skin_ideas(ctx):
-    all_universes = sk.get_all_universes
-    for universe in all_universes:
-        for skin in universe:
-            if skin[1]
+async def skin_ideas(ctx, input_string):
+    #get a random universe
+    try:
+        number_of_champions = int(input_string)
+    except ValueError:
+        await ctx.send(f"Please enter a valid number, {ctx.author.mention}.")
+        return
+    print(1)
+    all_universes = sk.get_all_universes()
 
-def get_skin_names(skinline,champion_list):
+    available_universes = [
+        (name, skins) for name, skins in all_universes.items() 
+        if len(skins) >= number_of_champions
+    ]
+    
+    print(available_universes)
+
+    if not available_universes:
+        await ctx.send("Nenhum universo encontrado com essa quantidade de skins.")
+        return
+
+    print(2)
+    skinline_name, skins_list = random.choice(available_universes)
+    print(3)
+
+    random_skins = random.sample(skins_list, number_of_champions)
+    #removes last skin appended to random_skins, so not to pick the same skin twice
+    print(4)
+    await ctx.send("The selected skins were:")
+    for i in range(len(random_skins)):
+        await ctx.send(f"{random_skins[i]}")
+
+
+@bot.command()
+async def get_skin_names(skinline,champion_list):
     skin_list = []
     for champion in champion_list:
         for skin in champion:
